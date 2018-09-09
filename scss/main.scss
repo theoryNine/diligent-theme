@@ -1,0 +1,45 @@
+body {
+   padding: 5px;
+}
+
+a {
+   color: var(--white);
+   font-weight: 700;
+}
+
+a:hover {
+   color: var(--light-blue);
+}
+
+.container {
+   lost-center: 980px;
+   lost-utility: clearfix;
+}
+
+.main {
+   padding-left: 5px;
+   padding-right: 5px;
+}
+
+.section {
+   background-color: var(--black);
+   border: 1px solid var(--medium-white);
+   line-height: 1.5em;
+   margin-right: -2px;
+   margin-top: 7px;
+   padding: 10px;
+}
+
+.section h1 {
+   margin-bottom: 5px;
+}
+
+.row {
+   lost-column: 1/1;
+}
+
+.Zebra_Tooltip {
+    background: var(--dark-gray);
+    border: 1px solid var(--dark-white);
+    font-size: 14px;
+}

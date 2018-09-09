@@ -1,0 +1,76 @@
+.enlist-form .half-input {
+   lost-column: 2/4;
+}
+
+.enlist-form h3 {
+   margin-bottom: 0;
+}
+
+.enlist-form input, .enlist-form textarea {
+   background-color: var(--black);
+   border: 1px solid var(--dark-white);
+   border-radius: 0;
+   padding: 10px;
+}
+
+.nf-field-label {
+   margin-bottom: 5px !important;
+}
+
+.nf-response-msg {
+    border: 3px solid red;
+    color: red;
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 9px;
+}
+
+.nf-field-container {
+   margin-bottom: 5px !important;
+}
+
+.enlist-form .half-input {
+   clear: none !important;
+   margin-right: 5px !important;
+}
+
+.enlist-form textarea {
+   margin-right: 5px;
+}
+
+.enlist-form {
+   color: white;
+   font-size: 15px;
+}
+
+.nf-field-element input, .nf-field-element textarea {
+   color: var(--dark-white);
+}
+
+.enlist .file_input_textbox {
+   background-color: var(--black) !important;
+   border: 1px solid var(--white) !important;
+   color: var(--white) !important;
+}
+
+.enlist input {
+   color: var(--white) !important;
+   background: var(--black) !important;
+   background-color: var(--black) !important;
+   border: 1px solid var(--white) !important;
+}
+
+.enlist select {
+   border-radius: 0 !important;
+   background: var(--black) !important;
+   background-color: var(--black) !important;
+   border: 1px solid var(--white) !important;
+   color: var(--white) !important;
+   height: 35px !important;
+}
+
+@media (max-width: 730px) {
+   .enlist-form .half-input {
+      lost-column: 1/1;
+   }
+}

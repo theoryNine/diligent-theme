@@ -1,0 +1,26 @@
+.specs .subnav {
+   lost-column: 3/12;
+   text-transform: uppercase;
+}
+
+.specs .subnav-section {
+   lost-utility: clearfix;
+}
+
+.specs h4 {
+   font-size: 1.2em;
+}
+
+.specs h3 {
+   font-size: 1.3em;
+}
+
+.specs ul {
+   margin-top: 0;
+}
+
+@media (max-width: 450px) {
+   .specs .subnav {
+      lost-column: 1/2;
+   }
+}

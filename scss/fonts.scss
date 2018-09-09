@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700');
+
+:root {
+	color: var(--dark-white);
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+};
+
+/*
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+*/
+
+h1 {
+   font-weight: 100;
+}
+
+.text-center {
+   text-align: center;
+}
+
+.heavy {
+   font-weight: 900;
+}
