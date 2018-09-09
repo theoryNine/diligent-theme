@@ -38,7 +38,7 @@ get_header(); ?>
             <h4>Basic Information</h4>
                <p><strong>Role:</strong> Frigate<br>
                <strong>Dimensions:</strong> 187.5 meters (L) x 107.5 meters (W) x 37.2 meters (H)<br>
-               <strong>Decks:</strong> 8<br>
+               <strong>Decks:</strong> 9<br>
                <strong>Expected Duration:</strong> 100 years<br>
                <strong>Time Between Resupply:</strong> 10 years<br>
                <strong>Expected Refit Cycle:</strong> 20 years</p>
@@ -66,7 +66,7 @@ get_header(); ?>
                <p>Projectile Weapons
                   <ul>
                      <li>2 Forward Launchers</li>
-                     <li>1 Aft Launchers</li>
+                     <li>3 Aft Launchers</li>
                      <li>100 Quantum Torpedoes</li>
                      <li>100 Photon Torpedoes</li>
                   </ul>
@@ -88,35 +88,15 @@ get_header(); ?>
 
       <div class="section layout" id="layout"><h1 class="text-center"><span class="heavy">DECK</span> layout</h1><br>
          <ul>
-            <li>Deck 1: Bridge, Captain’s ready room, XO’s Office, Main Conference Room</li>
-            <li>Deck 2: VIP Quarters, VIP conference lounge, Senior officers’ quarters</li>
-            <li>Deck 3: Main impulse engine bay upper level, Officers quarters, Forward Observation lounge</li>
-            <li>Deck 4: Main impulse engine mid-level, Officer quarters, Transporter rooms 1 and 2</li>
-            <li>Deck 5: Main impulse engine lower level, Impulse reactor maintenance bay, Officer Quarters, Officers mess, Transporter machine rooms 1 and 2, Senior enlisted officers’ quarters</li>
-            <li>Deck 6: Holo decks 1 and 2, Main sick bay, Chief medical officer’s office, Medical support labs, Enlisted officers’ quarters, Transporter rooms 3 and 4</li>
-            <li>Deck 7: Warp pylon impulse pod upper level (port and starboard), Aft torpedo launchers 1 and 2, Torpedo storage, Enlisted officers’ quarters, Enlisted officers mess, Stellar cartography upper level, Transporter machine rooms 3 and 4</li>
-            <li>Deck 8: Warp pylon impulse pod lower level (port and starboard), Chief Science officer’s office, Science labs, Stellar cartography mid-level</li>
-            <li>Deck 9: Shuttle bays 1 and 2 upper level, Shuttle bay 1 and 2 control rooms, Deuterium storage tanks upper level, Stellar cartography lower level</li>
-            <li>Deck 10: Shuttle bays 1 and 2 mid-level, Shuttle bay observation galleries, Deuterium storage tanks lower level, Deuterium injectors, Main computer core upper level 1</li>
-            <li>Deck 11: Shuttle bays 1 and 2 main level, Chief Security/Tactical officer’s office, Brig, Security Briefing room, Main armory, Main computer core upper level 2</li>
-            <li>Deck 12: Shuttle bays 1 and 2 shuttle storage and maintenance, Shuttle bay 3 upper level, Shuttle bay 3 control room, Main computer core mid-level 1</li>
-            <li>Deck 13: Shuttle bay 3 lower level, Main computer core mid-level 2, Arboretum upper level</li>
-            <li>Deck 14: Lateral sensor arrays, Docking ports (forward, port, and starboard), Shuttle bay 3 shuttle storage and maintenance, Main computer core lower level 1, Arboretum mid-level, Arboretum observation gallery</li>
-            <li>Deck 15: Main computer core lower level 2, Guest Quarters, Holo decks 3 and 4, Arboretum lower level</li>
-            <li>Deck 16: Forward torpedo launchers 1 and 2, torpedo storage, Secondary computer core upper level 1</li>
-            <li>Deck 17: Main deflector dish bay upper level 1, Secondary Computer core upper level 2</li>
-            <li>Deck 18: Main deflector dish bay upper level 2, Secondary Computer core mid-level 1</li>
-            <li>Deck 19: Main deflector dish bay upper level 3, Main engineering, Chief engineer’s office, Secondary computer core mid-level 2</li>
-            <li>Deck 20: Main deflector dish bay mid-level 1, Engineering support labs, Secondary computer core lower level 1</li>
-            <li>Deck 21: Main deflector dish bay mid-level 2, Deflector control, Industrial replicators, Secondary computer core lower level 2</li>
-            <li>Deck 22: Main deflector dish bay lower level 1, Replicator consumables storage</li>
-            <li>Deck 23: Main deflector dish bay lower level 2 Cargo bays 1 and 2</li>
-            <li>Deck 24: Main deflector dish bay upper level 3, Cargo bays 3 and 4, Cargo transporters 1 and 2</li>
-            <li>Deck 25: Cargo bays 5 and 6, Cargo transporter machinery 1 and 2</li>
-            <li>Deck 26: Forward torpedo launchers 3 and 4, Torpedo storage</li>
-            <li>Deck 27: Aft torpedo launchers 3 and 4, Torpedo storage</li>
-            <li>Deck 28: Antimatter pods, Antimatter generator, Antimatter injectors</li>
-            <li>Deck 29: Warp core ejection hatch, Antimatter pod ejection hatch</li>
+            <li>Deck 1: Fore: Main Bridge, Captain's Ready Room, Observation Lounge, Aft: Cargobay 1, Aft Torpedo Launcher</li>
+            <li>Deck 2: Senior Officer's Quarters, Ship's Mess and Galley, Officers Lounge, Deuterium Fuel Tanks, Senior Officer's Offices, Gymnasium</li>
+            <li>Deck 3: Transporter Rooms 1, Crew Quarters, Science Labs, Aeroponics, Astrometrics, Holosuites 1 - 4, Conference Rooms</li>
+            <li>Deck 4: Computer Core Control Room, Main Engineering, Engineering Support, Shuttle Bay</li>
+            <li>Deck 5: Transporter Rooms 2 and 3, Medical Bay, Aft Lounge, Navigational Deflector Control, Security Center</li>
+            <li>Deck 6: Fusion Reactors, Anti-Matter Storage Pods, Cargobay 2 and 3, Crew Quarters</li>
+            <li>Deck 7: Forward Pulse Torpedo Launchers</li>
+            <li>Deck 8: Emergency Power Generators</li>
+            <li>Deck 9: non-habitable Engineering Crawlspace, Mechanical</li>
          </ul>
       </div>
 
