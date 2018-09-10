@@ -61,11 +61,13 @@ get_header(); ?>
                   </ul>
                </p>
                <p>Projectile Weapons
-                  <ul>
-                     <li>2 Forward Launchers</li>
-                     <li>3 Aft Launchers</li>
-                     <li>100 Quantum Torpedoes</li>
-                     <li>100 Photon Torpedoes</li>
+                  <ul>                  
+                        <li>2 Forward Torpedo/Probe Launchers</li>
+                        <li>1 Aft Torpedo Launcher</li>
+                        <li>2 Aft Probe Launchers</li>
+                        <li></li>
+                        <li>100 Quantum Torpedoes</li>
+                        <li>100 Photon Torpedoes</li>
                   </ul>
                </p>
                <p>Defensive Systems
