@@ -39,9 +39,6 @@ get_header(); ?>
                <p><strong>Role:</strong> Frigate<br>
                <strong>Dimensions:</strong> 187.5 meters (L) x 107.5 meters (W) x 37.2 meters (H)<br>
                <strong>Decks:</strong> 9<br>
-               <strong>Expected Duration:</strong> 100 years<br>
-               <strong>Time Between Resupply:</strong> 10 years<br>
-               <strong>Expected Refit Cycle:</strong> 20 years</p>
             <h4>Crew Compliment</h4>
                <p>
                   <strong>Total Crew:</strong> 120 | <strong>Evac Limit:</strong> 1,200
