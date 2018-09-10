@@ -20,6 +20,8 @@ These could be SPANs or DIVs and with entirely different classes.
 
 <div id="primary" class="site-content">
 
+<div class="section user-toolbar"><p><a href="javascript:history.back()">Back</a></p></div>
+
 <div class="hero"><img src="/wp-content/themes/diligent/images/academy.png" /></div>
 
 <div class="intro section">
