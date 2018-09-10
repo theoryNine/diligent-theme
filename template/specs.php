@@ -36,8 +36,8 @@ get_header(); ?>
       <div class="section specifications" id="specifications"><h1 class="text-center">ship <span class="heavy">SPECIFICATIONS</span></h1>
          <h3>Ship Specifications</h3>
             <h4>Basic Information</h4>
-               <p><strong>Designation:</strong> USS Diligent</p>
-               <p><strong>Registry:</strong> NCC-80651</p>
+               <p><strong>Designation:</strong> USS Diligent<br />
+               <strong>Registry:</strong> NCC-80651</p>
                <p><strong>Role:</strong> Frigate<br>
                <strong>Dimensions:</strong> 187.5 meters (L) x 107.5 meters (W) x 37.2 meters (H)<br>
                <strong>Decks:</strong> 9<br>
