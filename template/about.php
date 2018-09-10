@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Enlist Template
+Template Name: About Template
 */
 ?>
 
