@@ -94,8 +94,8 @@ get_header(); ?>
             <li>Deck 4: Computer Core Control Room, Main Engineering, Engineering Support, Shuttle Bay</li>
             <li>Deck 5: Transporter Rooms 2 and 3, Medical Bay, Aft Lounge, Navigational Deflector Control, Security Center</li>
             <li>Deck 6: Fusion Reactors, Anti-Matter Storage Pods, Cargobay 2 and 3, Crew Quarters</li>
-            <li>Deck 7: Forward Torpedo Launchers, Rear Torpedo Launchers</li>
-            <li>Deck 8: Emergency Power Generators</li>
+            <li>Deck 7: Forward Torpedo Launchers</li>
+            <li>Deck 8: Emergency Power Generators, Rear Torpedo Launchers</li>
             <li>Deck 9: <em>non-habitable</em> Engineering Crawlspace, Mechanical</li>
          </ul>
       </div>
