@@ -26,6 +26,8 @@ These could be SPANs or DIVs and with entirely different classes.
 
 <div class="intro section">
       <h1 class="text-center"><span class="heavy">FAQ</span></h1>
+      <p>Let's figure this thing out together</p>
+      <p>If you have more questions, drop me a line at elgor.rae@gmail.com</p>
 </div>
 
 <div class="section">
