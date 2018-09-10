@@ -34,7 +34,8 @@ get_header(); ?>
          <a href="http://www.bravofleet.com/group/task-force-38/" target="_blank">Task Force 38</a>. 
          Arriving through the Epatha gateway the <em>Diligent</em> joins a cadre of Starfleet ships working to establish a new foothold in the far reaches of the 
          Delta Quadrant. Shaken by the recent losses of the Solarian Gateway and Starbase 900 to the Borg, Starfleet resumes its mission of exploration and 
-         peacemaking. The <em>Diligent</em>, under the command of <a href="/manifest/elgor-rae">Elgor Rae</a>, strikes out into the vast final frontier.</p>
+         peacemaking. The <em>Diligent</em>, under the command of <a href="/manifest/elgor-rae">Elgor Rae</a>, strikes out into the vast final frontier. The crews first task: 
+         to scout further into the Solaria Nebula in search of a more stable and permanent way home.</p>
 
          </div>
 
