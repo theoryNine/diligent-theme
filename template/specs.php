@@ -10,7 +10,7 @@ get_header(); ?>
 
 <body <?php body_class(); ?>>
    <div class="container specs">
-      <div class="hero"><img src="/wp-content/themes/diligent/images/diligentmsd.png" /></div>
+      <div class="hero"><img src="/wp-content/themes/diligent/images/diligent-msd.png" /></div>
       <div class="intro section">
          <h1 class="text-center">diligent-class <span class="heavy">SPECIFICATIONS</span></h1>
          <p>The <span class="heavy">Diligent</span> is a <em>Diligent-class</em> starship, the first of the line, built to serve Starfleet as a 
