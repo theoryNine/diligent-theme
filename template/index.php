@@ -26,7 +26,7 @@ get_header(); ?>
 <body <?php body_class(); ?>>
    <div class="container">
       <div class="hero">
-         <img src="/wp-content/themes/diligent/images/diligent2_4Ye.jpg" alt="Diligent-class starship from behind" />
+         <img src="/wp-content/themes/diligent/images/u_s_s__diligent_by_unusualsuspex-d63l4ho.jpg" />
       </div>
       <div class="intro section">
          <h1 class="text-center">welcome to the <span class="heavy">DILIGENT</span></h1>
