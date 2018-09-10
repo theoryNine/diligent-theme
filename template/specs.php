@@ -81,7 +81,7 @@ get_header(); ?>
             <p><strong>Shuttlebays:</strong> | <strong>Shuttle Capacity:</strong> 4<br>
             Support Craft:
                <ul>
-                  <li><strong>Shuttles:</strong> 2x <a href="https://wiki.bravofleet.com/index.php?title=Delta_class" target="_blank">Delta-Class</a></li>
+                  <li><strong>Shuttles:</strong> 2x <a href="https://wiki.bravofleet.com/index.php?title=Type_9_shuttlecraft" target="_blank">Type-9 Shuttlecraft</a></li>
                </ul>
             </p>
       </div>
