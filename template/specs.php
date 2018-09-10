@@ -81,7 +81,7 @@ get_header(); ?>
             <p><strong>Shuttlebays:</strong> | <strong>Shuttle Capacity:</strong> 4<br>
             Support Craft:
                <ul>
-                  <li><strong>Shuttles:</strong> 2x <a href="http://memory-beta.wikia.com/wiki/Type-18_shuttlepod" target="_blank">Type-18 Shuttlepods</a></li>
+                  <li><strong>Shuttles:</strong> 2x <a href="https://wiki.bravofleet.com/index.php?title=Type_9_shuttlecraft" target="_blank">Type-9 Shuttlecraft</a></li>
                </ul>
             </p>
       </div>
