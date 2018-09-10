@@ -65,7 +65,6 @@ get_header(); ?>
                         <li>2 Forward Torpedo/Probe Launchers</li>
                         <li>1 Aft Torpedo Launcher</li>
                         <li>2 Aft Probe Launchers</li>
-                        <li></li>
                         <li>100 Quantum Torpedoes</li>
                         <li>100 Photon Torpedoes</li>
                   </ul>
