@@ -78,8 +78,8 @@ get_header(); ?>
                   </ul>
                </p>
             <h4>Auxiliary Craft</h4>
-            <p><strong>Shuttlebays:</strong> | <strong>Shuttle Capacity:</strong> 4<br>
-            <strong>Shuttles:</strong>
+            <p>Shuttlebays: 1 | Shuttle Capacity: 4<br>
+            Shuttles:
                   <ul>
                         <li>1x <a href="https://wiki.bravofleet.com/index.php?title=Type_9_shuttlecraft" target="_blank">Type-9 Shuttlecraft</a></li>
                         <li>1x <a href="https://wiki.bravofleet.com/index.php?title=Type_10_shuttlecraft" target="_blank">Type-10 Shuttlecraft</a></li>
