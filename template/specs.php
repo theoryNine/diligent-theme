@@ -57,12 +57,12 @@ get_header(); ?>
                      <li><strong>Emergency Warp:</strong> Warp 9.1 (18 hrs.)</li>
                   </ul>
             <h4>Tactical Systems</h4>
-               <p>Energy Weapons
+               <p><strong>Energy Weapons</strong>
                   <ul>
                      <li>11x Type X Phaser Arrays</li>
                   </ul>
                </p>
-               <p>Projectile Weapons
+               <p><strong>Projectile Weapons</strong>
                   <ul>                  
                         <li>2 Forward Torpedo/Probe Launchers</li>
                         <li>1 Aft Torpedo Launcher</li>
@@ -71,7 +71,7 @@ get_header(); ?>
                         <li>100 Photon Torpedoes</li>
                   </ul>
                </p>
-               <p>Defensive Systems
+               <p><strong>Defensive Systems</strong>
                   <ul>
                      <li>Multi-Layered Shielding System</li>
                      <li>Ablative Armor</li>
