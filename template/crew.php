@@ -23,16 +23,16 @@ These could be SPANs or DIVs and with entirely different classes.
 <div class="bio">
 <div class="section">
    <div class="pic text-center">
-         <?php 
+      <h1 class="text-center"><span style="text-transform:lowercase;"><?php the_field('rank'); ?></span> <span class="heavy" style="text-transform:uppercase;"><?php the_field('character_name'); ?></span></h1>
+      <?php 
 
-$image = get_field('image');
+      $image = get_field('image');
 
-if( !empty($image) ): ?>
+      if( !empty($image) ): ?>
 
          <img src="<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>" />
-         
-         <?php endif; ?>
-   <h1 class="text-center"><span style="text-transform:lowercase;"><?php the_field('rank'); ?></span> <span class="heavy" style="text-transform:uppercase;"><?php the_field('character_name'); ?></span></h1>
+
+      <?php endif; ?>
    </div>
    <p><strong><span class="key">Character Name:</span></strong> <span class="key"><?php the_field('character_name'); ?></span></p>
    <p><strong><span class="key">Position:</span></strong> <span class="key"><?php the_field('position'); ?></span></p>
