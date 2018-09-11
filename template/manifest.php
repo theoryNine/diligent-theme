@@ -95,43 +95,74 @@ These could be SPANs or DIVs and with entirely different classes.
       <div class="department section">
          <h3>SENIOR STAFF</h3>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o5.png" /></div><div class="mani-field position"><p class="tooltips" title="Every Starfleet Facility has a single commanding officer responsible for the safety of his/her crew and the success of their missions. S/he has final accountability for any actions taken by his/her crew, and Starfleet goes to great lengths to prepare a CO for the job ahead, including the interpretation and execution of Starfleet rules and regulations. Each CO is responsible for building and maintaining a website for their ship, for beginning and ending missions, and sending in monthly reports to his or her Task Force CO to keep him informed of the events on his or her ship.">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o5.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            Every Starfleet Facility has a single commanding officer responsible for the safety of their crew and the success of their missions. They have 
+            final accountability for any actions taken by their crew, and Starfleet goes to great lengths to prepare a CO for the job ahead, including the 
+            interpretation and execution of Starfleet rules and regulations. Each CO is responsible for building and maintaining a website for their ship, 
+            for beginning and ending missions, and sending in monthly reports to their Task Force CO to keep him informed of the events on their ship.">
                   Commanding Officer</p></div><div class="mani-field character"><p><a href="/manifest/elgor-rae/">Elgor Rae</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="He is responsible for representing the CO to the officer crew, as well as insuring the orders of the CO are carried out by all hands. He makes sure all stations are operating at peak efficiency. In times of crisis, the XO may be designated as Commander Pro Tempore and is one of two officers capable of jointly removing the CO from command. At the end of each mission, the XO and CO determine any promotions that have been warranted over that mission.">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            They are responsible for representing the CO to the officer crew, as well as insuring the orders of the CO are carried out by all hands. They make sure all 
+            stations are operating at peak efficiency. In times of crisis, the XO may be designated as Commander Pro Tempore and is one of two officers capable of 
+            jointly removing the CO from command. At the end of each mission, the XO and CO determine any promotions that have been warranted over that mission.">
                   Executive Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="Originally known as helm, or Flight Control Officer, CONN incorporates two jobs, Navigation and flight control. A Flight Control Officer must always be present on the bridge of a starship. S/he plots courses, supervises the computers piloting, corrects any flight deviations and pilots the ship manually when needed. The Chief Flight Control Officer is the senior most CONN Officer aboard, serving as a Senior Officer, and Chief of the Personnel under him/her.">
-                  Chief Flight Controller</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            Originally known as helm, or Flight Control Officer, CONN incorporates two jobs, Navigation and flight control. A Flight Control Officer must always 
+            be present on the bridge of a starship. They plot courses, supervise the computers piloting, corrects any flight deviations and pilots the ship 
+            manually when needed. The Chief CONN Officer is the senior most CONN Officer aboard, serving as a Senior Officer, and Chief of the Personnel under 
+            them.">
+                  Chief CONN Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="The Chief Operations Officer has the primary responsibility of ensuring that ship functions, such as the use of the lateral sensor array, do not interfere with one and another. S/he must prioritize resource allocations, so that the most critical activities can have every chance of success. If so required, s/he can curtail shipboard functions if s/he thinks they will interfere with the ship's current mission or routine operations.">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            The Chief Operations Officer has the primary responsibility of ensuring that ship functions, such as the use of the lateral sensor array, do not interfere 
+            with one and another. They must prioritize resource allocations, so that the most critical activities can have every chance of success. If so required, they 
+            can curtail shipboard functions if they think the functions will interfere with the ship's current mission or routine operations.">
                   Chief of Operations</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="In the Chief Tactical Officer role, s/he is the vessel's gunman. S/he is responsible for the ships weapon system, and is also the Commanding Officer's tactical advisor in Star Ship Combat matters. Very often Tactical Officers are also trained in ground combat and small unit tactics. There is much more to tactical than simply overseeing the weapons console on the bridge. Tactical maintains the weapons systems aboard the ship/starbase, maintaining and reloading photons magazines. Tactical planning and current Intelligence analysis (if no Intelligence operatives are aboard) is also overseen by the tactical department.">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            In the Chief Tactical Officer role, they are the vessel's gunman. They are responsible for the ships weapon system, and are also the Commanding 
+            Officer's tactical advisor in Star Ship Combat matters. Very often Tactical Officers are also trained in ground combat and small unit tactics. 
+            There is much more to tactical than simply overseeing the weapons console on the bridge. Tactical maintains the weapons systems aboard the 
+            ship/starbase, maintaining and reloading photons magazines. Tactical planning and current Intelligence analysis (if no Intelligence operatives 
+            are aboard) is also overseen by the tactical department.">
                   Chief Tactical & Security Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="The Chief Engineer is responsible for the condition of all systems and equipment on board a Starfleet ship or facility. S/he oversees maintenance, repairs and upgrades of all equipment. S/he is also responsible for the many repairs teams during crisis situations.">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            The Chief Engineer is responsible for the condition of all systems and equipment on board a Starfleet ship or facility. They oversee maintenance, repairs 
+            and upgrades of all equipment. They are also responsible for the many repairs teams during crisis situations.">
                   Chief Engineer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="The Chief Science Officer is responsible for all the scientific data the ship/facility collects, and the distribution of such data to specific section within the department for analysis. S/he is also responsible with providing the ship's captain with scientific information needed for command decisions.">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            The Chief Science Officer is responsible for all the scientific data the ship/facility collects, and the distribution of such data to specific section within 
+            the department for analysis. They are also responsible with providing the ship's captain with scientific information needed for command decisions.">
                   Chief Science Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="Onboard a starship, a Chief Medical Officer has a vital role to play. A Commanding Officer needs a crew he/she can rely on and it is the duty of the Chief Medical Officer to ensure the physical and mental states of wellbeing. The CMO often corresponds with the Executive Officer and the Chief Counselor on-board a starship to assess his or her patients needs.">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            Onboard a starship, a Chief Medical Officer has a vital role to play. A Commanding Officer needs a crew they can rely on and it is the duty of the Chief 
+            Medical Officer to ensure the physical and mental states of wellbeing. The CMO often corresponds with the Executive Officer and the Chief Counselor on-board 
+            a starship to assess his or her patients needs.">
                   Chief Medical Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="Because of their training in psychology, technically the ship's/facility's Counselor is considered part of Starfleet Medical. The Counselor is responsible both for advising the CO in dealing with other people and races, and in helping crew members with personal, psychological, and emotional problems.">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            Because of their training in psychology, technically the ship's/facility's Counselor is considered part of Starfleet Medical. The Counselor is responsible 
+            both for advising the CO in dealing with other people and races, and in helping crew members with personal, psychological, and emotional problems.">
                   Ship's Counselor</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="S/he is responsible for organizing all intelligence the department's gathered and presenting it to the duty station's Commanding Officer. S/he assists the Commanding Officer, Strategic Operations Officer (if one is present) and the Security/Tactical Officer, sometimes the Marine Commanding Officer as well. S/he offers advice on ship/starbase operations, especially in times of conflict or covert missions.">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            They are responsible for organizing all intelligence the department's gathered and presenting it to the duty station's Commanding Officer. They assist the 
+            Commanding Officer, Strategic Operations Officer (if one is present) and the Security/Tactical Officer, sometimes the Marine Commanding Officer as well. 
+            They offers advice on ship/starbase operations, especially in times of conflict or covert missions.">
                   Chief Intelligence Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
       </div>
