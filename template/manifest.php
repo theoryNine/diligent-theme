@@ -102,11 +102,11 @@ These could be SPANs or DIVs and with entirely different classes.
                   Commanding Officer</p></div><div class="mani-field character"><p><a href="/manifest/elgor-rae/">Elgor Rae</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o4.png" /></div><div class="mani-field position"><p class="tooltips" title="
             They are responsible for representing the CO to the officer crew, as well as insuring the orders of the CO are carried out by all hands. They make sure all 
             stations are operating at peak efficiency. In times of crisis, the XO may be designated as Commander Pro Tempore and is one of two officers capable of 
             jointly removing the CO from command.">
-                  Executive Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+                  Executive Officer</p></div><div class="mani-field character"><p><a href="/manifest/marcus-bancroft/">Marcus Bancroft</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
