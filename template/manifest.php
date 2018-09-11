@@ -98,24 +98,23 @@ These could be SPANs or DIVs and with entirely different classes.
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o5.png" /></div><div class="mani-field position"><p class="tooltips" title="
             Every Starfleet Facility has a single commanding officer responsible for the safety of their crew and the success of their missions. They have 
             final accountability for any actions taken by their crew, and Starfleet goes to great lengths to prepare a CO for the job ahead, including the 
-            interpretation and execution of Starfleet rules and regulations. Each CO is responsible for building and maintaining a website for their ship, 
-            for beginning and ending missions, and sending in monthly reports to their Task Force CO to keep him informed of the events on their ship.">
+            interpretation and execution of Starfleet rules and regulations.">
                   Commanding Officer</p></div><div class="mani-field character"><p><a href="/manifest/elgor-rae/">Elgor Rae</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
             They are responsible for representing the CO to the officer crew, as well as insuring the orders of the CO are carried out by all hands. They make sure all 
             stations are operating at peak efficiency. In times of crisis, the XO may be designated as Commander Pro Tempore and is one of two officers capable of 
-            jointly removing the CO from command. At the end of each mission, the XO and CO determine any promotions that have been warranted over that mission.">
+            jointly removing the CO from command.">
                   Executive Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
-            Originally known as helm, or Flight Control Officer, CONN incorporates two jobs, Navigation and flight control. A Flight Control Officer must always 
-            be present on the bridge of a starship. They plot courses, supervise the computers piloting, corrects any flight deviations and pilots the ship 
-            manually when needed. The Chief CONN Officer is the senior most CONN Officer aboard, serving as a Senior Officer, and Chief of the Personnel under 
+            Originally known as helm, or Flight Control Officer, Conn incorporates two jobs, Navigation and flight control. A Conn Officer must always 
+            be present on the bridge of a starship. They plot courses, supervise the computers piloting, correct any flight deviations and pilot the ship 
+            manually when needed. The Chief Conn Officer is the senior most Conn Officer aboard, serving as a Senior Officer, and Chief of the Personnel under 
             them.">
-                  Chief CONN Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+                  Chief Conn Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
@@ -127,7 +126,7 @@ These could be SPANs or DIVs and with entirely different classes.
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
             In the Chief Tactical Officer role, they are the vessel's gunman. They are responsible for the ships weapon system, and are also the Commanding 
-            Officer's tactical advisor in Star Ship Combat matters. Very often Tactical Officers are also trained in ground combat and small unit tactics. 
+            Officer's tactical advisor in starship combat matters. Very often Tactical Officers are also trained in ground combat and small unit tactics. 
             There is much more to tactical than simply overseeing the weapons console on the bridge. Tactical maintains the weapons systems aboard the 
             ship/starbase, maintaining and reloading photons magazines. Tactical planning and current Intelligence analysis (if no Intelligence operatives 
             are aboard) is also overseen by the tactical department.">
@@ -162,7 +161,7 @@ These could be SPANs or DIVs and with entirely different classes.
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
             They are responsible for organizing all intelligence the department's gathered and presenting it to the duty station's Commanding Officer. They assist the 
             Commanding Officer, Strategic Operations Officer (if one is present) and the Security/Tactical Officer, sometimes the Marine Commanding Officer as well. 
-            They offers advice on ship/starbase operations, especially in times of conflict or covert missions.">
+            They offer advice on ship/starbase operations, especially in times of conflict or covert missions.">
                   Chief Intelligence Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
       </div>
