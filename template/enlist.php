@@ -28,6 +28,7 @@ These could be SPANs or DIVs and with entirely different classes.
       <p>Not sure what this is? Check out our <a href="/about">FAQ page</a> to find out more.</p>
       <p>Once you've submitted an application you should hear back within 24-48 hours.</p>
       <p>Upon being accepted you will receive a welcome email and login details for the site and forums.</p>
+      <p>Building your character and have questions? Send me an email at <a href="mailto:elgor.rae@gmail.com">elgor.rae@gmail.com</a> and I'll be happy to help.</p>
 </div>
 
 <div class="section">
