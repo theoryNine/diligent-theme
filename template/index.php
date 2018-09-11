@@ -26,7 +26,7 @@ get_header(); ?>
 <body <?php body_class(); ?>>
    <div class="container">
       <div class="hero">
-         <img src="/wp-content/themes/diligent/images/u_s_s__diligent_by_unusualsuspex-d63l4ho.jpg" />
+         <img src="/wp-content/uploads/2018/09/88d9ebbc5dc7fa197e8b44da7b2b5c8c.jpg" />
       </div>
       <div class="intro section">
          <h1 class="text-center">welcome to the <span class="heavy">DILIGENT</span></h1>
