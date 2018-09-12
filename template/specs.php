@@ -77,7 +77,8 @@ get_header(); ?>
                   </ul>
                </p>
             <h4>Auxiliary Craft</h4>
-            <p><strong>Shuttlebays:</strong> 1<br>
+            <p><strong>Maintenance Craft:</strong> 4x <a href="https://wiki.bravofleet.com/index.php?title=Work_Bee" target="_blank">Work Bee's</a><br />
+            <strong>Shuttlebays:</strong> 1<br>
             <strong>Shuttle Capacity:</strong> 4<br>
             <strong>Attached Shuttles:</strong>
                   <ul>
