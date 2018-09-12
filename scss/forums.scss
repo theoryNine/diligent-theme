@@ -145,7 +145,7 @@ div.bbp-template-notice a:hover {
   border: 1px solid var(--white);
 }
 
-.bbpm-new .form-section textarea {
+.bbpm textarea[name=message] {
   background-color: var(--dark-gray);
   color: var(--white);
   padding: 5px;
