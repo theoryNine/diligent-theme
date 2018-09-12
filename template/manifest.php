@@ -152,7 +152,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   Chief Medical Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o2.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" /></div><div class="mani-field position"><p class="tooltips" title="
             Because of their training in psychology, technically the ship's/facility's Counselor is considered part of Starfleet Medical. The Counselor is responsible 
             both for advising the CO in dealing with other people and races, and in helping crew members with personal, psychological, and emotional problems.">
                   Ship's Counselor</p></div><div class="mani-field character"><p><a href="/manifest/tlaruk-akaigan">T'Laruk Akaigan</a></p></div>
