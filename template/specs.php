@@ -89,7 +89,7 @@ get_header(); ?>
 
       <div class="section layout" id="layout"><h1 class="text-center"><span class="heavy">DECK</span> layout</h1><br>
          <ul>
-            <li>Deck 1: <em>Fore:</em> <a href="/wp-content/uploads/2018/09/labeled-bridge.jpg" target="_blank">Main Bridge, Captain's Ready Room, Observation Lounge - </a> <em>Aft:</em> Cargobay 1, Aft Dorsal Torpedo Launcher</li>
+            <li>Deck 1: <em>Fore:</em> <a href="/wp-content/uploads/2018/09/labeled-bridge.jpg" target="_blank">Main Bridge, Captain's Ready Room, Observation Lounge</a> - <em>Aft:</em> Cargobay 1, Aft Dorsal Torpedo Launcher</li>
             <li>Deck 2: Senior Officer's Quarters, Ship's Mess and Galley, Officers Lounge, Deuterium Fuel Tanks, Senior Officer's Offices, Gymnasium</li>
             <li>Deck 3: Transporter Rooms 1, Crew Quarters, Science Labs, Aeroponics, Astrometrics, Holosuites 1 - 4, Conference Rooms</li>
             <li>Deck 4: Computer Core Control Room, Main Engineering, Engineering Support, Shuttle Bay</li>
