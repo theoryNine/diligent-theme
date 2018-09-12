@@ -117,11 +117,11 @@ These could be SPANs or DIVs and with entirely different classes.
                   Chief Conn Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-o1.png" /></div><div class="mani-field position"><p class="tooltips" title="
             The Chief Operations Officer has the primary responsibility of ensuring that ship functions, such as the use of the lateral sensor array, do not interfere 
             with one and another. They must prioritize resource allocations, so that the most critical activities can have every chance of success. If so required, they 
             can curtail shipboard functions if they think the functions will interfere with the ship's current mission or routine operations.">
-                  Chief of Operations</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+                  Chief of Operations</p></div><div class="mani-field character"><p><a href="/manifest/clara-watson/">Clara Ann Watson</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
