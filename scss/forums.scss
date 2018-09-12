@@ -115,6 +115,10 @@ div.bbp-template-notice a:hover {
   line-height: 1.4em;
 }
 
+.bbp-topic-revision-log li {
+	display: none;
+}
+
 #bbpress-forums #bbp-search-form #bbp_search {
   background-color: var(--dark-gray);
   border: 1px solid var(--white);
