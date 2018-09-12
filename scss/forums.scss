@@ -157,6 +157,12 @@ div.bbp-template-notice a:hover {
   padding: 5px;
 }
 
+.bbpress_mark_all_read_wrapper input {
+  background-color: var(--dark-gray);
+  border: 1px solid var(--dark-white);
+  padding: 5px;
+}
+
 .bbpm-results input[type="radio"] {
   display: inline-block !important;
 }
