@@ -103,6 +103,8 @@ These could be SPANs or DIVs and with entirely different classes.
    */
    ?>
 
+   [bbp-stats]
+
 </div>
 </body>
 
