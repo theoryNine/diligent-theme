@@ -103,8 +103,6 @@ These could be SPANs or DIVs and with entirely different classes.
    */
    ?>
 
-   <?php echo do_shortcode('[bbp-stats]') ?>
-
 </div>
 </body>
 
