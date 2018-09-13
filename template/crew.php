@@ -41,29 +41,23 @@ These could be SPANs or DIVs and with entirely different classes.
    <p><strong><span class="key">Birthdate:</span></strong> <span class="key"><?php the_field('birthdate'); ?></span></p>
    <p><strong><span class="key">Physical Description:</span></strong></p>
    <p><span class="key"><?php the_field('physical_description'); ?></span></p><br>
-   <p><strong><span class="key">History:</span></strong></p>
-   <p><span class="key"><?php the_field('history'); ?></span></p><br>
-   <div id="primary" class="site-content">
+
+
+<div id="primary" class="site-content">
    <div id="content" role="main">
       <?php
       /*
       Start the Loop
       */
       ?>
-
       <?php while ( have_posts() ) : the_post(); ?>
-
-
       <?php
       /*
       This is the start of the page and also the insertion of the post classes.
       Post classes are very handy to style your forums.
       */
       ?> 
-
    <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-
-
    <?php
    /*
    This is the content wrapped in a div
@@ -71,34 +65,22 @@ These could be SPANs or DIVs and with entirely different classes.
    and class to better style the content
    */
    ?>
-
    <div class="entry-content">
       <?php the_content(); ?>
    </div>
-
    <!-- .entry-content -->
-
-
    <?php
    /*
    End of Page
    */
    ?>
-
    </article>
-
    <!-- #post -->
    <?php endwhile; // end of the loop. ?>
-
    </div>
-
    <!-- #content -->
-
    </div>
-
    <!-- #primary -->
-
-
    <?php
    /*
    This is code to display the sidebar and the footer.
@@ -108,8 +90,12 @@ These could be SPANs or DIVs and with entirely different classes.
    This would also need CSS to make it actually full width.
    */
    ?>
-
 </div>
+
+
+
+   <p><strong><span class="key">History:</span></strong></p>
+   <p><span class="key"><?php the_field('history'); ?></span></p><br>
       <p><strong><span class="key">Service Record:</span></strong></p>
    <p><span class="key"><?php the_field('service_record'); ?></span></p>
 
