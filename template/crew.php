@@ -90,6 +90,7 @@ These could be SPANs or DIVs and with entirely different classes.
    This would also need CSS to make it actually full width.
    */
    ?>
+   <br/><br/>
 
 
    <p><strong><span class="key">History:</span></strong></p>
