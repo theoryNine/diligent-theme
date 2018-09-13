@@ -1,0 +1,30 @@
+#bbp-post-preview-wrapper {
+	clear: both;
+	display: none;
+	margin: 1em auto;
+}
+
+#bbp-post-preview-wrapper label {
+	clear: both;
+	display: block;
+}
+
+#bbp-post-preview {
+	border: 1px solid #ababab;
+	border-radius: 3px;
+	color: #333;
+	min-height: 20px;
+}
+
+#bbpress-forums #bbp-post-preview {
+	margin: .5em 0 0 0;
+	padding: 5px;
+}
+
+#bbp-post-preview.loading {
+	background: transparent no-repeat scroll 50% 50%;
+}
+
+#bbp-post-preview.loading * {
+	opacity: 0.2;
+}
