@@ -49,9 +49,6 @@ These could be SPANs or DIVs and with entirely different classes.
 
 
 
-</div>
-</div>
-
 <div id="primary" class="site-content">
    <div id="content" role="main">
       <?php
@@ -119,6 +116,9 @@ These could be SPANs or DIVs and with entirely different classes.
    ?>
 
 </div>
+</div>
+</div>
+
 </body>
 
 <?php get_footer(); ?>
