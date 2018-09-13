@@ -43,13 +43,7 @@ These could be SPANs or DIVs and with entirely different classes.
    <p><span class="key"><?php the_field('physical_description'); ?></span></p><br>
    <p><strong><span class="key">History:</span></strong></p>
    <p><span class="key"><?php the_field('history'); ?></span></p><br>
-      <p><strong><span class="key">Service Record:</span></strong></p>
-   <p><span class="key"><?php the_field('service_record'); ?></span></p>
-
-
-
-<br /><br />
-<div id="primary" class="site-content">
+   <div id="primary" class="site-content">
    <div id="content" role="main">
       <?php
       /*
@@ -116,6 +110,12 @@ These could be SPANs or DIVs and with entirely different classes.
    ?>
 
 </div>
+      <p><strong><span class="key">Service Record:</span></strong></p>
+   <p><span class="key"><?php the_field('service_record'); ?></span></p>
+
+
+
+
 </div>
 </div>
 
