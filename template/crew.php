@@ -119,6 +119,7 @@ These could be SPANs or DIVs and with entirely different classes.
 </div>
 </div>
 
+
 </body>
 
 <?php get_footer(); ?>
