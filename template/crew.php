@@ -23,7 +23,7 @@ These could be SPANs or DIVs and with entirely different classes.
 <div class="bio">
 <div class="section">
    <div class="pic text-center">
-      <h1 class="text-center"><span style="text-transform:lowercase;"><?php the_field('rank'); ?></span> <span class="heavy" style="text-transform:uppercase;"><?php the_field('character_name'); ?></span></h1>
+      <h1 class="text-center"><span style="text-transform:lowercase;"><?php the_field('rank'); ?></span> <span class="heavy" style="text-transform:uppercase;"><?php the_field('title_name'); ?></span></h1>
       <?php 
 
       $image = get_field('image');
