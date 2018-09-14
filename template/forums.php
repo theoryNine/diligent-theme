@@ -35,7 +35,7 @@ These could be SPANs or DIVs and with entirely different classes.
 
 <div class="hero"><img src="/wp-content/themes/diligent/images/diligentphasers.png" /></div>
 
-<div class="section user-toolbar"><p><a href="<?php echo do_shortcode('[bbpm-messages-link]') ?>">Unread Messages: <?php echo do_shortcode('[bbpm-unread-count]') ?></a> | Current Episode: </div>
+<div class="section user-toolbar"><p><a href="<?php echo do_shortcode('[bbpm-messages-link]') ?>">Unread Messages: <?php echo do_shortcode('[bbpm-unread-count]') ?></a> | Current Episode: <a href="/forums/topic/prologue/">Prologue</a></div>
 
 <div id="primary" class="site-content">
    <div id="content" role="main">
