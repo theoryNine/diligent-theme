@@ -29,8 +29,8 @@ div.bbp-template-notice.info {
   letter-spacing: 1px;
   transition: all .5s ease; 
 
-  &::hover {
-    background-color: var(--white)
+  &:hover {
+    background-color: var(--white);
     color: var(--black);
   }
 }
