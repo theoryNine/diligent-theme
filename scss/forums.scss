@@ -18,6 +18,10 @@ div.bbp-template-notice.info {
    color: var(--white);
 }
 
+#bbpress-forums a {
+  text-decoration: none;
+}
+
 .bbp-form input, .bbp-form textarea, .bbp-form select {
   appearance: none;
   background: var(--dark-gray) !important;
