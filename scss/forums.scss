@@ -18,10 +18,12 @@ div.bbp-template-notice.info {
    color: var(--white);
 }
 
-.bbp-forum-title a,
+.bbp-forum-title,
 .bbp-forum-freshness a,
-.bbp-topic-permalink a,
-.bbp-author-name a,
+.bbp-topic-permalink,
+.bbp-breadcrumb a,
+.subscription-toggle,
+.bbp-author-name,
 .user-toolbar a {
   text-decoration: none;
 }
