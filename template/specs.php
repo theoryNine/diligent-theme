@@ -91,11 +91,11 @@ get_header(); ?>
       <div class="section layout" id="layout"><h1 class="text-center"><span class="heavy">DECK</span> layout</h1><br>
          <ul>
             <li>Deck 1: <em>Fore:</em> <a href="/wp-content/uploads/2018/09/labeled-bridge.jpg" target="_blank">Main Bridge, Captain's Ready Room, Observation Lounge</a> - <em>Aft:</em> Cargobay 1, Aft Dorsal Torpedo Launcher</li>
-            <li>Deck 2: Senior Officer's Quarters, Ship's Mess and Galley, Officers Lounge, Deuterium Fuel Tanks, Senior Officer's Offices, Gymnasium</li>
-            <li>Deck 3: Transporter Rooms 1, Crew Quarters, Science Labs, Aeroponics, Astrometrics, Holosuites 1 - 4, Conference Rooms</li>
+            <li>Deck 2: <a href="/wp-content/uploads/2018/09/captains_quarters.jpg" target="_blank">Captain's Quarters</a>, <a href="/wp-content/uploads/2018/09/officer_quarters.jpg" target="_blank">Senior Officer's Quarters</a>, <a href="/wp-content/uploads/2018/09/mess_hall.jpg" target="_blank">Ship's Mess and Galley</a>, Officers Lounge, Deuterium Fuel Tanks, Gymnasium</li>
+            <li>Deck 3: Transporter Rooms 1, <a href="/wp-content/uploads/2018/09/vipquarters.jpg" target="_blank">VIP Quarters</a>, <a href="/wp-content/uploads/2018/09/crewquarters.jpg" target="_blank">Crew Quarters</a>, Science Labs, Aeroponics, Astrometrics, Holosuites 1 - 4, Conference Rooms</li>
             <li>Deck 4: Computer Core Control Room, Main Engineering, Engineering Support, Shuttle Bay</li>
-            <li>Deck 5: Transporter Rooms 2 and 3, Medical Bay, Aft Lounge, Navigational Deflector Control, Security Center</li>
-            <li>Deck 6: Fusion Reactors, Anti-Matter Storage Pods, Cargobay 2 and 3, Crew Quarters</li>
+            <li>Deck 5: Transporter Rooms 2 and 3, Medical Bay, <a href="/wp-content/uploads/2018/09/aft_lounge.jpg" target="_blank">Aft Lounge</a>, Navigational Deflector Control, Security Center</li>
+            <li>Deck 6: Fusion Reactors, Anti-Matter Storage Pods, Cargobay 2 and 3, <a href="/wp-content/uploads/2018/09/crewquarters.jpg" target="_blank">Crew Quarters</a></li>
             <li>Deck 7: Forward Torpedo Launchers</li>
             <li>Deck 8: Emergency Power Generators, Rear Torpedo Launchers</li>
             <li>Deck 9: <em>non-habitable</em> Engineering Crawlspace, Mechanical</li>
