@@ -13,7 +13,7 @@ get_header(); ?>
       <div class="hero"><img src="/wp-content/themes/diligent/images/diligent-msd.png" /></div>
       <div class="intro section">
          <h1 class="text-center">diligent-class <span class="heavy">SPECIFICATIONS</span></h1>
-         <p>The <span class="heavy">Diligent</span> is a <em>Diligent-class</em> starship, the first of the line, built to serve Starfleet as a 
+         <p>The <em>Diligent</em> is a Diligent-class starship, the first of the line, built to serve Starfleet as a 
          short-range explorer, diplomatic transport, and combat escort.</p>
       </div>
       <div class="text-center section subnav-section">
