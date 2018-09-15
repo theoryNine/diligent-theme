@@ -27,6 +27,12 @@ div.bbp-template-notice.info {
   top: 31px;
   text-transform: uppercase;
   letter-spacing: 1px;
+  transition: all .5s ease; 
+
+  ::hover {
+    background-color: var(--white)
+    color: var(--black);
+  }
 }
 
 .bbp-form input, .bbp-form textarea, .bbp-form select {
