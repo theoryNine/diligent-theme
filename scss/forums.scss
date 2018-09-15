@@ -18,17 +18,15 @@ div.bbp-template-notice.info {
    color: var(--white);
 }
 
-.bbp-forum-title,
-.bbp-forum-freshness a,
-.favorite-toggle,
-.bbp-forum-link,
-.bbp-topic-permalink,
-.bbp-topic-freshness a,
-.bbp-breadcrumb a,
-.subscription-toggle,
-.bbp-author-name,
-.user-toolbar a {
-  text-decoration: none;
+.single-forum .subscription-toggle {
+  border: 1px solid var(--white);
+  padding: 7px;
+  width: 150px;
+  text-align: center;
+  position: absolute;
+  top: 31px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 .bbp-form input, .bbp-form textarea, .bbp-form select {
