@@ -91,6 +91,14 @@ div.bbp-submit-wrapper {
   }
 }
 
+#bbpress-forums input[type="checkbox"] {
+  appearance: checkbox;
+}
+
+#bbp-search-form input {
+  letter-spacing: 1px;
+}
+
 #bbpress-forums .button[type=button] {
    color: #f7f7f7;
    background-color: var(--black);
