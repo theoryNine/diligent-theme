@@ -17,10 +17,23 @@ get_header(); ?>
          short-range explorer, diplomatic transport, and combat escort.</p>
       </div>
       <div class="text-center section subnav-section">
+         <div class="subnav"><h3><a href="#layout">deck layout</a></h3></div>
          <div class="subnav"><h3><a href="#gallery">gallery</a></h3></div>
          <div class="subnav"><h3><a href="#specifications">specifications</a></h3></div>
-         <div class="subnav"><h3><a href="#layout">deck layout</a></h3></div>
          <div class="subnav"><h3><a href="#class_background">class background</a></h3></div>
+      </div>
+      <div class="section layout" id="layout"><h1 class="text-center"><span class="heavy">DECK</span> layout</h1><br>
+         <ul>
+            <li>Deck 1: <em>Fore:</em> <a href="/wp-content/uploads/2018/09/labeled-bridge.jpg" target="_blank">Main Bridge, Captain's Ready Room, Observation Lounge</a> - <em>Aft:</em> Cargobay 1, Aft Dorsal Torpedo Launcher</li>
+            <li>Deck 2: <a href="/wp-content/uploads/2018/09/captains_quarters.jpg" target="_blank">Captain's Quarters</a>, <a href="/wp-content/uploads/2018/09/officer_quarters.jpg" target="_blank">Senior Officer's Quarters</a>, <a href="/wp-content/uploads/2018/09/mess_hall.jpg" target="_blank">Ship's Mess and Galley</a>, Officers Lounge, Deuterium Fuel Tanks, Gymnasium</li>
+            <li>Deck 3: Transporter Rooms 1, <a href="/wp-content/uploads/2018/09/vipquarters.jpg" target="_blank">VIP Quarters</a>, <a href="/wp-content/uploads/2018/09/crewquarters.jpg" target="_blank">Crew Quarters</a>, Science Labs, Aeroponics, Astrometrics, Holosuites 1 - 4, Conference Rooms</li>
+            <li>Deck 4: Computer Core Control Room, <a href="/wp-content/uploads/2018/09/engineering.jpg" target="_blank">Main Engineering</a>, Engineering Support, Shuttle Bay</li>
+            <li>Deck 5: Transporter Rooms 2 and 3, <a href="/wp-content/uploads/2018/09/sickbay.jpg" target="_blank">Medical Bay</a>, <a href="/wp-content/uploads/2018/09/aft_lounge.jpg" target="_blank">Aft Lounge</a>, Navigational Deflector Control, Security Center</li>
+            <li>Deck 6: Fusion Reactors, Anti-Matter Storage Pods, Cargobay 2 and 3, <a href="/wp-content/uploads/2018/09/crewquarters.jpg" target="_blank">Crew Quarters</a></li>
+            <li>Deck 7: Forward Torpedo Launchers</li>
+            <li>Deck 8: Emergency Power Generators, Rear Torpedo Launchers</li>
+            <li>Deck 9: <em>non-habitable</em> Engineering Crawlspace, Mechanical</li>
+         </ul>
       </div>
       <div class="text-center section gallery" id="gallery">
             <div>
@@ -86,20 +99,6 @@ get_header(); ?>
                         <li>1x <a href="https://wiki.bravofleet.com/index.php?title=Type_11_shuttlecraft" target="_blank">Type-11 Shuttlecraft</a></li>
                   </ul>
             </p>
-      </div>
-
-      <div class="section layout" id="layout"><h1 class="text-center"><span class="heavy">DECK</span> layout</h1><br>
-         <ul>
-            <li>Deck 1: <em>Fore:</em> <a href="/wp-content/uploads/2018/09/labeled-bridge.jpg" target="_blank">Main Bridge, Captain's Ready Room, Observation Lounge</a> - <em>Aft:</em> Cargobay 1, Aft Dorsal Torpedo Launcher</li>
-            <li>Deck 2: <a href="/wp-content/uploads/2018/09/captains_quarters.jpg" target="_blank">Captain's Quarters</a>, <a href="/wp-content/uploads/2018/09/officer_quarters.jpg" target="_blank">Senior Officer's Quarters</a>, <a href="/wp-content/uploads/2018/09/mess_hall.jpg" target="_blank">Ship's Mess and Galley</a>, Officers Lounge, Deuterium Fuel Tanks, Gymnasium</li>
-            <li>Deck 3: Transporter Rooms 1, <a href="/wp-content/uploads/2018/09/vipquarters.jpg" target="_blank">VIP Quarters</a>, <a href="/wp-content/uploads/2018/09/crewquarters.jpg" target="_blank">Crew Quarters</a>, Science Labs, Aeroponics, Astrometrics, Holosuites 1 - 4, Conference Rooms</li>
-            <li>Deck 4: Computer Core Control Room, <a href="/wp-content/uploads/2018/09/engineering.jpg" target="_blank">Main Engineering</a>, Engineering Support, Shuttle Bay</li>
-            <li>Deck 5: Transporter Rooms 2 and 3, <a href="/wp-content/uploads/2018/09/sickbay.jpg" target="_blank">Medical Bay</a>, <a href="/wp-content/uploads/2018/09/aft_lounge.jpg" target="_blank">Aft Lounge</a>, Navigational Deflector Control, Security Center</li>
-            <li>Deck 6: Fusion Reactors, Anti-Matter Storage Pods, Cargobay 2 and 3, <a href="/wp-content/uploads/2018/09/crewquarters.jpg" target="_blank">Crew Quarters</a></li>
-            <li>Deck 7: Forward Torpedo Launchers</li>
-            <li>Deck 8: Emergency Power Generators, Rear Torpedo Launchers</li>
-            <li>Deck 9: <em>non-habitable</em> Engineering Crawlspace, Mechanical</li>
-         </ul>
       </div>
 
       <div class="section class-background" id="class_background"><h1 class="text-center"><span class="heavy">DILIGENT-CLASS</span> background</h1><br>
