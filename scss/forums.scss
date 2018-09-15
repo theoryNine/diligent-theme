@@ -1,6 +1,7 @@
 #bbpress-forums {
    margin-bottom: 0;
    margin-top: 15px;
+   position: relative;
 }
 div.bbp-template-notice.info {
    background-color: var(--dark-gray);
@@ -9,6 +10,15 @@ div.bbp-template-notice.info {
    color: var(--white);
 }
 
+.subscription-toggle {
+  border: 1px solid var(--white);
+  padding: 4px 15px;
+  text-transform: uppercase;
+  text-decoration: none;
+  position: absolute;
+  top: 33px;
+}
+ 
 #bbpress-forums div.bbp-the-content-wrapper textarea.bbp-the-content {
    color: var(--white);
 }
