@@ -18,7 +18,10 @@ div.bbp-template-notice.info {
    color: var(--white);
 }
 
-#bbpress-forums a,
+.bbp-forum-title a,
+.bbp-forum-freshness a,
+.bbp-topic-permalink a,
+.bbp-author-name a,
 .user-toolbar a {
   text-decoration: none;
 }
