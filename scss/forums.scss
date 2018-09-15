@@ -81,10 +81,12 @@ div.bbp-submit-wrapper {
  font-weight: 600;
  border: 1px solid var(--white);
  text-transform: uppercase;
+ transition: all 0.5s ease;
  letter-spacing: 2px;
 
   &:hover {
-    background: var(--dark-gray);
+    background: var(--white);
+    color: var(--black);
     cursor: pointer;
   }
 }
