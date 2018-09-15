@@ -20,7 +20,7 @@ get_header(); ?>
          <div class="subnav"><h3><a href="#layout">deck layout</a></h3></div>
          <div class="subnav"><h3><a href="#gallery">gallery</a></h3></div>
          <div class="subnav"><h3><a href="#specifications">specifications</a></h3></div>
-         <div class="subnav"><h3><a href="#class_background">class background</a></h3></div>
+         <div class="subnav"><h3><a href="#class_background">background</a></h3></div>
       </div>
       <div class="section layout" id="layout"><h1 class="text-center"><span class="heavy">DECK</span> layout</h1><br>
          <ul>
