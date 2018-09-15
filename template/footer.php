@@ -15,7 +15,7 @@
 ?>
 <div class="container">
    <div class="footer section text-center">
-      <p>This WordPress theme was created by and is copyright its creator. All images on this site are copyright their creators and are used in completely non-profit context.</p>
+      <p>This site theme was created by and is copyright the CO of this sim. All images on this site are copyright their creators and are used in completely non-profit context.</p>
    </div>
 </div>
 
