@@ -162,7 +162,7 @@ These could be SPANs or DIVs and with entirely different classes.
             They are responsible for organizing all intelligence the department has gathered and presenting it to the duty station's Commanding Officer. They assist the 
             Commanding Officer, Strategic Operations Officer (if one is present) and the Security/Tactical Officer. 
             They offer advice on ship/starbase operations, especially in times of conflict or covert missions.">
-                  Chief Intelligence Officer</p></div><div class="mani-field character"><p><a href="/enlist">Maxine Dainshire</a></p></div>
+                  Chief Intelligence Officer</p></div><div class="mani-field character"><p><a href="/manifest/maxine-dainshire">Maxine Dainshire</a></p></div>
          </div>
       </div>
 
