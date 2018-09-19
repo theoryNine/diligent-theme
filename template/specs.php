@@ -95,7 +95,7 @@ get_header(); ?>
             <strong>Shuttle Capacity:</strong> 4<br>
             <strong>Attached Shuttles:</strong>
                   <ul>
-                        <li>1x <a href="https://wiki.bravofleet.com/index.php?title=Type_8_shuttlecraft" target="_blank">Type-9 Shuttlecraft</a></li>
+                        <li>1x <a href="https://wiki.bravofleet.com/index.php?title=Type_8_shuttlecraft" target="_blank">Type-8 Shuttlecraft</a></li>
                         <li>2x <a href="https://wiki.bravofleet.com/index.php?title=Type_9_shuttlecraft" target="_blank">Type-9 Shuttlecraft</a></li>
                         <li>1x <a href="https://wiki.bravofleet.com/index.php?title=Type_11_shuttlecraft" target="_blank">Type-11 Shuttlecraft</a></li>
                   </ul>
