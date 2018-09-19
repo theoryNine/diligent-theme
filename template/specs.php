@@ -35,7 +35,7 @@ get_header(); ?>
             <li>Deck 9: <em>non-habitable</em> Engineering Crawlspace, Mechanical</li>
          </ul>
          <p class="disclaimer"><em>Main Engineering was done by <a href="https://forum.bravofleet.com/forum/bravo-fleet-staff-departments/bravo-fleet-graphics-department/completed-works/190-residualrose-s-interior-decorating-warning-gfx-intensive" target="_blank">ResidualRose of Bravofleet</a>, edited from stock images found on ex-astris-scientia.org<br />
-         All other interior images courtesy of <a href="https://www.deviantart.com/bobye2" target="_blank">bobeye</a></em>
+         All other interior illustrations created by <a href="https://www.deviantart.com/bobye2" target="_blank">bobeye</a></em>
          </p>
       </div>
       <div class="text-center section gallery" id="gallery">
