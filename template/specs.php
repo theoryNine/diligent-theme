@@ -34,7 +34,7 @@ get_header(); ?>
             <li>Deck 8: Emergency Power Generators, Rear Torpedo Launchers</li>
             <li>Deck 9: <em>non-habitable</em> Engineering Crawlspace, Mechanical</li>
          </ul>
-         <p>* Image courtesy of <a href="https://forum.bravofleet.com/forum/bravo-fleet-staff-departments/bravo-fleet-graphics-department/completed-works/190-residualrose-s-interior-decorating-warning-gfx-intensive" target="_blank">Residual Rose</a></p>
+         <p><em>* Image courtesy of <a href="https://forum.bravofleet.com/forum/bravo-fleet-staff-departments/bravo-fleet-graphics-department/completed-works/190-residualrose-s-interior-decorating-warning-gfx-intensive" target="_blank">Residual Rose</a></em></p>
       </div>
       <div class="text-center section gallery" id="gallery">
             <div>
