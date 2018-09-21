@@ -24,7 +24,7 @@ get_header(); ?>
       </div>
       <div class="section layout" id="layout"><h1 class="text-center"><span class="heavy">DECK</span> layout</h1><br>
          <ul>
-            <li>Deck 1: <em>Fore:</em> <a href="/wp-content/uploads/2018/09/labeled-bridge.jpg" target="_blank">Main Bridge, Captain's Ready Room, Observation Lounge</a> - <em>Aft:</em> Cargobay 1, Aft Dorsal Torpedo Launcher</li>
+            <li>Deck 1: <em>Fore:</em> <a href="/wp-content/themes/diligent/images/diligent-bridge-blueprint.jpg" target="_blank">Main Bridge, Captain's Ready Room, Observation Lounge</a> ( <a href="/wp-content/themes/diligent/images/diligent-bridge-illust.jpg" target="_blank">Additional Bridge illustration</a> ) - <em>Aft:</em> Cargobay 1, Aft Dorsal Torpedo Launcher</li>
             <li>Deck 2: <a href="/wp-content/uploads/2018/09/captains_quarters.jpg" target="_blank">Captain's Quarters</a>, <a href="/wp-content/uploads/2018/09/officer_quarters.jpg" target="_blank">Senior Officer's Quarters</a>, <a href="/wp-content/uploads/2018/09/mess_hall.jpg" target="_blank">Ship's Mess and Galley</a>, Officers Lounge, Deuterium Fuel Tanks, Gymnasium</li>
             <li>Deck 3: Transporter Rooms 1, <a href="/wp-content/uploads/2018/09/vipquarters.jpg" target="_blank">VIP Quarters</a>, <a href="/wp-content/uploads/2018/09/crewquarters.jpg" target="_blank">Crew Quarters</a>, Science Labs, Aeroponics, Astrometrics, Holosuites 1 - 4, Conference Rooms</li>
             <li>Deck 4: Computer Core Control Room, <a href="/wp-content/uploads/2018/09/engineering.jpg" target="_blank">Main Engineering</a>, Engineering Support, Shuttle Bay</li>
