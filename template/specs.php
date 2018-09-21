@@ -69,8 +69,8 @@ get_header(); ?>
                <strong>Warp Speed</strong>
                   <ul>
                      <li><strong>Cruising Speed:</strong> Warp 7</li>
-                     <li><strong>Maximum Warp:</strong> Warp 8.6 (36 hrs.)</li>
-                     <li><strong>Emergency Warp:</strong> Warp 9.1 (18 hrs.)</li>
+                     <li><strong>Maximum Warp:</strong> Warp 9.6 (36 hrs.)</li>
+                     <li><strong>Emergency Warp:</strong> Warp 9.9 (18 hrs.)</li>
                   </ul>
             <h4>Tactical Systems</h4>
                <p><strong>Energy Weapons</strong>
