@@ -72,6 +72,11 @@ div.bbp-submit-wrapper {
   background: var(--dark-gray) !important;
 }
 
+.bbpm-inline-img a,
+.bbpm-inline-img a img {
+  max-width: 100%;
+}
+
 #bbpress-forums .button[type=submit] {
  color: #f7f7f7;
  background-color: var(--black);
