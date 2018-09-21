@@ -54,7 +54,7 @@ get_header(); ?>
             <h4>Basic Information</h4>
                <p><strong>Designation:</strong> USS Diligent<br />
                <strong>Registry:</strong> NCC-80651</p>
-               <p><strong>Role:</strong> Frigate<br>
+               <p><strong>Role:</strong> Frigate / Escort / Light Explorer<br>
                <strong>Dimensions:</strong> 187.5 meters (L) x 107.5 meters (W) x 37.2 meters (H)<br>
                <strong>Decks:</strong> 9<br>
             <h4>Crew Compliment</h4>
