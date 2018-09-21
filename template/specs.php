@@ -34,8 +34,8 @@ get_header(); ?>
             <li>Deck 8: Emergency Power Generators, Rear Torpedo Launchers</li>
             <li>Deck 9: <em>non-habitable</em> Engineering Crawlspace, Mechanical</li>
          </ul>
-         <p class="disclaimer"><em>Main Engineering was done by <a href="https://forum.bravofleet.com/forum/bravo-fleet-staff-departments/bravo-fleet-graphics-department/completed-works/190-residualrose-s-interior-decorating-warning-gfx-intensive" target="_blank">ResidualRose of Bravofleet</a>, edited from stock images found on <a href="http://www.ex-astris-scientia.org/gallery/bridges1.htm" target="_blank">ex-astris-scientia.org</a><br />
-         All other interior illustrations were expertly created by <a href="https://www.deviantart.com/bobye2" target="_blank">bobeye</a></em>
+         <p class="disclaimer"><em>Main Engineering by: <a href="https://www.deviantart.com/falke2009" target="_blank">Falke</a><br />
+         All other interior illustrations were expertly created by: <a href="https://www.deviantart.com/bobye2" target="_blank">bobeye</a></em>
          </p>
       </div>
       <div class="text-center section gallery" id="gallery">
