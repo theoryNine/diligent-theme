@@ -23,7 +23,7 @@ These could be SPANs or DIVs and with entirely different classes.
 <div class="hero"><img src="/wp-content/themes/diligent/images/70trimmed.jpg" /></div>
 
 <div class="intro section">
-      <h1 class="text-center"><span class="heavy">ABOUT the game</span></h1>
+      <h1 class="text-center"><span class="heavy">ABOUT</span> the game</h1>
       <p class="text-center">A rundown of who we are, what we do, and some guidelines to go by if you'd like to join on</p>
       <p class="text-center">If you have more questions, drop me a line at elgor.rae@gmail.com</p>
 </div>
