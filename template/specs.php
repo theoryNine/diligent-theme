@@ -79,8 +79,8 @@ get_header(); ?>
                   <ul>                  
                         <li>2 Forward Torpedo/Probe Launchers</li>
                         <li>3 Aft Torpedo/Probe Launcher</li>
-                        <li>100 Quantum Torpedoes</li>
-                        <li>100 Photon Torpedoes</li>
+                        <li>50 Quantum Torpedoes</li>
+                        <li>50 Photon Torpedoes</li>
                   </ul>
                </p>
                <p><strong>Defensive Systems</strong>
