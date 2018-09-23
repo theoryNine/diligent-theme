@@ -95,7 +95,7 @@ get_header(); ?>
             <strong>Shuttle Capacity:</strong> 4<br>
             <strong>Attached Shuttles:</strong>
                   <ul>
-                        <li>2x <a href="https://wiki.bravofleet.com/index.php?title=Type_10_shuttlepod" target="_blank">Type-10 Shuttlepods</a></li>
+                        <li>2x <a href="/type-10-shuttlepod">Type-10 Shuttlepods</a></li>
                   </ul>
             </p>
       </div>
