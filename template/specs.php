@@ -92,10 +92,11 @@ get_header(); ?>
             <h4>Auxiliary Craft</h4>
             <p><strong>Maintenance Craft:</strong> 4x <a href="https://wiki.bravofleet.com/index.php?title=Work_Bee" target="_blank">Work Bee</a></p>
             <p><strong>Shuttlebays:</strong> 1<br>
-            <strong>Shuttle Capacity:</strong> 3<br>
+            <strong>Shuttle Capacity:</strong> 4<br>
             <strong>Attached Shuttles:</strong>
                   <ul>
                         <li>2x <a href="/type-10-shuttlepod">Type-10 Shuttlepods</a></li>
+                        <li>1x <a href="/volga">Volga Runabout</a></li>
                   </ul>
             </p>
       </div>
