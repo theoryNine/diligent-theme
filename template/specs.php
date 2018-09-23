@@ -90,7 +90,7 @@ get_header(); ?>
                   </ul>
                </p>
             <h4>Auxiliary Craft</h4>
-            <p><strong>Maintenance Craft:</strong> 4x <a href="https://wiki.bravofleet.com/index.php?title=Work_Bee" target="_blank">Work Bee</a></p>
+            <p><strong>Maintenance Craft:</strong> 4x <a href="/work-bee">Work Bee</a></p>
             <p><strong>Shuttlebays:</strong> 1<br>
             <strong>Shuttle Capacity:</strong> 4<br>
             <strong>Attached Shuttles:</strong>
