@@ -13,7 +13,7 @@ get_header(); ?>
       <div class="hero"><img src="/wp-content/themes/diligent/images/diligent-msd.png" /></div>
       <div class="intro section">
          <h1 class="text-center">diligent-class <span class="heavy">SPECIFICATIONS</span></h1>
-         <p class="text-center">The <em>Diligent</em> is a Diligent-class starship built to serve Starfleet as a short-range explorer, diplomatic transport, and combat escort.</p>
+         <p class="text-center">The <em>Diligent</em> is a Diligent-class starship built to serve Starfleet as a  short-range explorer, diplomatic transport, and combat escort.</p>
       </div>
       <div class="text-center section subnav-section">
          <div class="subnav"><h3><a href="#layout">deck layout</a></h3></div>
@@ -67,7 +67,7 @@ get_header(); ?>
                   <ul>
                      <li><strong>Cruising Speed:</strong> Warp 7</li>
                      <li><strong>Maximum Warp:</strong> Warp 9.6 (36 hrs.)</li>
-                     <li><strong>Emergency Warp:</strong> Warp 9.9 (18 hrs.)</li>
+                     <li><strong>Emergency Warp:</strong> Warp 9.75 (18 hrs.)</li>
                   </ul>
             <h4>Tactical Systems</h4>
                <p><strong>Energy Weapons</strong>
@@ -95,9 +95,7 @@ get_header(); ?>
             <strong>Shuttle Capacity:</strong> 4<br>
             <strong>Attached Shuttles:</strong>
                   <ul>
-                        <li>1x <a href="https://wiki.bravofleet.com/index.php?title=Type_8_shuttlecraft" target="_blank">Type-8 Shuttlecraft</a></li>
-                        <li>2x <a href="https://wiki.bravofleet.com/index.php?title=Type_9_shuttlecraft" target="_blank">Type-9 Shuttlecraft</a></li>
-                        <li>1x <a href="https://wiki.bravofleet.com/index.php?title=Volga_class" target="_blank">Volga-class Runabout</a></li>
+                        <li>2x <a href="https://wiki.bravofleet.com/index.php?title=Type_10_shuttlepod" target="_blank">Type-10 Shuttlepods</a></li>
                   </ul>
             </p>
       </div>
