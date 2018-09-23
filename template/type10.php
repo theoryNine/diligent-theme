@@ -22,6 +22,7 @@ These could be SPANs or DIVs and with entirely different classes.
 
 <div class="intro section">
       <h1 class="text-center"><span class="heavy">TYPE-10</span> shuttlepod</h1>
+      <p class="text-center">The auxiliary craft of the Diligent</p>
 </div>
 
 <div class="section">
