@@ -18,6 +18,8 @@ These could be SPANs or DIVs and with entirely different classes.
 */
 ?>
 
+<div class="section user-toolbar"><p><a href="javascript:history.back()">Back</a></p></div>
+
 <div id="primary" class="site-content">
 
 <div class="intro section">
