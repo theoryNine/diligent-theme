@@ -139,10 +139,10 @@ These could be SPANs or DIVs and with entirely different classes.
                   Chief Engineer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" /></div><div class="mani-field position"><p class="tooltips" title="
             The Chief Science Officer is responsible for all the scientific data the ship/facility collects, and the distribution of such data to specific section within 
             the department for analysis. They are also responsible with providing the ship's captain with scientific information needed for command decisions.">
-                  Chief Science Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+                  Chief Science Officer</p></div><div class="mani-field character"><p><a href="/manifest/elijah-thorne">Elijah Thorne</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
