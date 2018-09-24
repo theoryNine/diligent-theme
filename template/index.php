@@ -26,7 +26,7 @@ get_header(); ?>
 <body <?php body_class(); ?>>
    <div class="container">
       <div class="hero">
-         <img src="/wp-content/themes/diligent/images/u_s_s__diligent_by_unusualsuspex-d63l4ho.jpg" class="captioned" data-caption="by <a href="https://www.deviantart.com/unusualsuspex/art/U-S-S-Diligent-368821500"><strong>unusualsuspex</strong></a>" />
+         <img src="/wp-content/themes/diligent/images/u_s_s__diligent_by_unusualsuspex-d63l4ho.jpg" class="captioned" data-caption="by unusualsuspex (deviantart)" />
       </div>
       <div class="intro section">
          <h1 class="text-center">welcome to the <span class="heavy">DILIGENT</span></h1>
