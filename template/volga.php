@@ -24,7 +24,7 @@ These could be SPANs or DIVs and with entirely different classes.
 
 <div class="intro section">
       <h1 class="text-center"><span class="heavy">VOLGA</span> runabout</h1>
-      <p class="text-center">The auxiliary craft of the Diligent</p>
+      <p class="text-center">The <em>USS Yser</em></p>
 </div>
 
 <div class="section">
