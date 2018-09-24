@@ -44,7 +44,3 @@ a:hover {
     border: 1px solid var(--dark-white);
     font-size: 14px;
 }
-
-.captioned::after {
-    content: attr(data-caption);
-}
