@@ -95,8 +95,7 @@ get_header(); ?>
             <strong>Shuttle Capacity:</strong> 4<br>
             <strong>Attached Shuttles:</strong>
                   <ul>
-                        <li>2x <a href="/type-10-shuttlepod">Type-10 Shuttlepods</a></li>
-                        <li>1x <a href="/volga">Volga Runabout - <em>USS Yser</em></a></li>
+                        <li>2x <a href="/volga">Volga Runabout - <em>USS Yser, USS Namsen</em></a></li>
                   </ul>
             </p>
       </div>
