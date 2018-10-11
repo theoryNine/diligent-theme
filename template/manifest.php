@@ -133,10 +133,10 @@ These could be SPANs or DIVs and with entirely different classes.
                   Chief Tactical & Security Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-o3.png" /></div><div class="mani-field position"><p class="tooltips" title="
             The Chief Engineer is responsible for the condition of all systems and equipment on board a Starfleet ship or facility. They oversee maintenance, repairs 
             and upgrades of all equipment. They are also responsible for the many repairs teams during crisis situations.">
-                  Chief Engineer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+                  Chief Engineer</p></div><div class="mani-field character"><p><a href="/manifest/elwynor-semyonova/">Elwynor Semyonova</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" /></div><div class="mani-field position"><p class="tooltips" title="
