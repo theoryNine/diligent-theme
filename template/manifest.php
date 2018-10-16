@@ -145,11 +145,11 @@ These could be SPANs or DIVs and with entirely different classes.
                   Chief Science Officer</p></div><div class="mani-field character"><p><a href="/manifest/elijah-thorne">Elijah Thorne</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" /></div><div class="mani-field position"><p class="tooltips" title="
             Onboard a starship, a Chief Medical Officer has a vital role to play. A Commanding Officer needs a crew they can rely on and it is the duty of the Chief 
             Medical Officer to ensure the physical and mental states of wellbeing. The CMO often corresponds with the Executive Officer and the Chief Counselor on-board 
             a starship to assess his or her patients needs.">
-                  Chief Medical Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+                  Chief Medical Officer</p></div><div class="mani-field character"><p><a href="/manifest/rosheen-hughes">Róisín Hughes</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" /></div><div class="mani-field position"><p class="tooltips" title="
