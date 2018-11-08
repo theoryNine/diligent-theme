@@ -8,6 +8,12 @@ a {
    text-decoration: none;
 }
 
+#wp-admin-bar-comments,
+#wp-admin-bar-new-content,
+#wp-admin-bar-customize {
+    display: none;
+}
+
 .section.sotm {
     background-color: var(--tfpurple);
     color: var(--medium-white);
