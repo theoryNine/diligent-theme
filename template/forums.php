@@ -41,7 +41,7 @@ These could be SPANs or DIVs and with entirely different classes.
       <p>
             <a class="message-count" href="<?php echo do_shortcode('[bbpm-messages-link]') ?>">
                   <img src="/wp-content/themes/diligent/images/mail-icon.svg" class="mail-icon" alt="Inbox" />
-                  <span>Unread:</span> 
+                  <div>Unread Messages:</div> 
                   <span class="unread-count"><?php echo do_shortcode('[bbpm-unread-count]') ?></span>
             </a>
       </p>
