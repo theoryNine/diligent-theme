@@ -28,6 +28,7 @@ get_header(); ?>
       <div class="hero">
          <img src="/wp-content/themes/diligent/images/u_s_s__diligent_by_unusualsuspex-d63l4ho.jpg" class="captioned" data-caption="by unusualsuspex (deviantart)" />
       </div>
+      <div class="sotm section">Task Force 38 Sim of the Month</div>
       <div class="intro section">
          <h1 class="text-center">welcome to the <span class="heavy">DILIGENT</span></h1>
          <p>The <em>USS Diligent</em>, NCC-80651, is a Play-by-Post RPG based out of <a href="http://www.bravofleet.com" target="_blank">Bravo Fleet's</a> 
