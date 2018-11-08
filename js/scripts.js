@@ -16,7 +16,13 @@
             if ($navMenu.text().indexOf("Login") > -1) {
                 $userToolbar.hide();
             }
+
+            if ($('.unread-count').text().indexOf("0") === -1) {
+                $('.message-count').css({'color':'#ff9999'});
+            }
         }
+
+        console.log($('.unread-count').text().indexOf("0"));
 
         checkLogin();
     })
