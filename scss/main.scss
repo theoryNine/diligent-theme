@@ -88,6 +88,6 @@ a:hover {
     #wp-admin-bar-site-name,
     #wp-admin-bar-customize,
     #wp-admin-bar-new-content {
-        display: none;
+        display: none !important;
     }
 }
