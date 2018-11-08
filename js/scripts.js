@@ -22,9 +22,17 @@
             }
         }
 
-        console.log($('.unread-count').text().indexOf("0"));
+        function autoSearchUsers() {
+            if (window.location.href.indexOf("/messages/new") > -1 && ($('.bbpm-results').length === 0)) {
+                if ($('.bbpm-new .form-section label[for="search"]').val() === '') {
+                    $('.bbpm-new .form-section input[name="search"]').val('*');
+                    $('.bbpm-new .form-submit input[name="select_recipient"]').click();
+                }
+            }
+        }
 
         checkLogin();
+        autoSearchUsers();
     })
 
 })( jQuery );
