@@ -83,11 +83,8 @@ a:hover {
 }
 
 @media (max-width: 782px) {
-    html {
-        margin-top: 0 !important;
-    }
-    
-    #wpadminbar {
+    #wp-admin-bar-site-name,
+    #wp-admin-bar-wp-logo {
         display: none;
     }
 }
