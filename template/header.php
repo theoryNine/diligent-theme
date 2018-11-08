@@ -17,7 +17,5 @@
       <?php wp_nav_menu( array( 'theme_location' => 'header-menu' ) ); ?>
    </div>
 </div>
-<div class="sotm section"><img src="/wp-content/themes/diligent/images/38sotm.png" />Task Force 38 Sim of the Month<img src="/wp-content/themes/diligent/images/38sotm.png" /> </div>
-
 </div>
 </head>
