@@ -84,7 +84,10 @@ a:hover {
 
 @media (max-width: 782px) {
     #wp-admin-bar-site-name,
-    #wp-admin-bar-wp-logo {
+    #wp-admin-bar-wp-logo,
+    #wp-admin-bar-site-name,
+    #wp-admin-bar-customize,
+    #wp-admin-bar-new-content {
         display: none;
     }
 }
