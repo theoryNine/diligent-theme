@@ -21,7 +21,9 @@ Template Name: Forum Template
  * @version 1.0
  */
 
-get_header(); ?>
+get_header(); 
+
+wp_enqueue_script( 'scripts.js', get_template_directory_uri() . '/js/scripts.js', array('jquery'), true ); ?>
 
 <body <?php body_class(); ?>>
    <div class="container">
