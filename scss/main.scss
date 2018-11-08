@@ -81,3 +81,9 @@ a:hover {
     border: 1px solid var(--dark-white);
     font-size: 14px;
 }
+
+@media (max-width: 782px) {
+    #wpadminbar {
+        display: none;
+    }
+}
