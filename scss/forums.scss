@@ -196,6 +196,10 @@ div.bbp-template-notice a:hover {
   border: 1px solid var(--white);
 }
 
+#bbpress-forums div.bbp-reply-content a {
+  font-weight: unset;
+}
+
 .bbpm textarea[name=message] {
   background-color: var(--dark-gray);
   color: var(--white);
