@@ -10,7 +10,14 @@ a {
 
 #wp-admin-bar-comments,
 #wp-admin-bar-new-content,
-#wp-admin-bar-customize {
+#wp-admin-bar-customize,
+#wp-admin-bar-wp-logo
+ {
+    display: none;
+}
+
+#wp-admin-bar-site-name a::before {
+    content: '';
     display: none;
 }
 
