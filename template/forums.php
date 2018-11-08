@@ -44,6 +44,10 @@ These could be SPANs or DIVs and with entirely different classes.
                   <div>Unread Messages:</div> 
                   <span class="unread-count"><?php echo do_shortcode('[bbpm-unread-count]') ?></span>
             </a>
+            <a href="<?php echo do_shortcode('[bbp_profile_link_shortcode]') ?>" class="profile-link">
+                  <img src="/wp-content/themes/diligent/images/user-icon.svg" class="profile-icon" alt="Profile" /> 
+                  <div>My Profile</div>
+            </a>
       </p>
 </div>
 

@@ -29,7 +29,9 @@ div.bbp-template-notice.info {
 }
 
 .unread-count {
+  border-right: 1px solid var(--truewhite);
   margin-left: 0.2rem;
+  padding-right: 0.5rem;
 }
 
 .single-forum .subscription-toggle {
@@ -291,4 +293,19 @@ div.bbp-template-notice a:hover {
 #bbpress-forums div.bbp-the-content-wrapper textarea.bbp-the-content {
   font-family: Roboto,sans-serif;
   font-size: 14px;
+}
+
+.profile-link {
+  margin-left: 5px;
+  display: flex;
+  align-items: center;
+
+  div {
+    width: 5rem;
+  }
+}
+
+.profile-icon {
+  height: 1.3rem;
+  margin-right: 0.2rem;
 }
