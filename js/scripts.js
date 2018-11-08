@@ -8,11 +8,14 @@
 (function( $ ) {
 
     $(document).ready(function() {
-        var $navMenu = $('.menu-nav');
+        var $navMenu = $('#menu-nav li');
         var $userToolbar = $('.user-toolbar');
 
+        console.log($navMenu);
+        console.log($navMenu.text().indexOf("Login"));
+
         function checkLogin() {
-            if ($navMenu.text().indexOf("Login")) {
+            if ($navMenu.text().indexOf("Login") > -1) {
                 $userToolbar.hide();
             }
         }
