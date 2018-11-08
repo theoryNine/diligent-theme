@@ -9,11 +9,10 @@
 
     $(document).ready(function() {
         var $navMenu = $('.menu-nav');
-        var loginBtn = "Login";
         var $userToolbar = $('.user-toolbar');
 
         function checkLogin() {
-            if ($navMenu.text(loginBtn)) {
+            if ($navMenu.text().indexOf("Login")) {
                 $userToolbar.hide();
             }
         }
