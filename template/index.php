@@ -31,7 +31,7 @@ get_header(); ?>
       <div class="sotm section">Task Force 38 Sim of the Month</div>
       <div class="intro section">
          <h1 class="text-center">welcome to the <span class="heavy">DILIGENT</span></h1>
-         <p>The <em>USS Diligent</em>, NCC-80651, is a Play-by-Post RPG based out of <a href="http://www.bravofleet.com" target="_blank">Bravo Fleet's</a> 
+         <p>The <em>USS Diligent</em>, NCC-80651, is a Play-by-Forum RPG based out of <a href="http://www.bravofleet.com" target="_blank">Bravo Fleet's</a> 
          <a href="http://www.bravofleet.com/group/task-force-38/" target="_blank">Task Force 38</a>, set in the year 2389. 
          Arriving through the Epatha gateway the <em>Diligent</em> joins a cadre of Starfleet ships working to establish a new foothold in the far reaches of the 
          Delta Quadrant. Shaken by the recent losses of the Solarian Gateway and Starbase 900 to the Borg, Starfleet resumes its mission of exploration and 
