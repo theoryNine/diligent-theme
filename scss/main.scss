@@ -22,6 +22,11 @@ a {
     display: none;
 }
 
+.quicklinks {
+    display: flex;
+    justify-content: center;
+}
+
 .section.sotm {
     background-color: var(--tfpurple);
     color: var(--medium-white);
