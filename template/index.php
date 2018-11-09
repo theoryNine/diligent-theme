@@ -26,7 +26,7 @@ get_header(); ?>
 <body <?php body_class(); ?>>
    <div class="container">
       <div class="hero">
-         <img src="/wp-content/themes/diligent/images/u_s_s__diligent_by_unusualsuspex-d63l4ho.jpg" class="captioned" data-caption="by unusualsuspex (deviantart)" />
+         <img src="/wp-content/themes/diligent/images/eud-diligent-hero.png" />
       </div>
       <div class="sotm section"><img src="/wp-content/themes/diligent/images/38sotm.png" />Task Force 38 Sim of the Month<img src="/wp-content/themes/diligent/images/38sotm.png" /> </div>
       <div class="intro section">
