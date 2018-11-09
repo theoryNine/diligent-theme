@@ -1,10 +1,13 @@
 .specs .subnav {
-   lost-column: 3/12;
    text-transform: uppercase;
+   margin-right: 1rem;
 }
 
 .specs .subnav-section {
-   lost-utility: clearfix;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .specs h4 {
