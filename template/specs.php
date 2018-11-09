@@ -19,7 +19,7 @@ get_header(); ?>
          <div class="subnav"><h3><a href="#layout">deck layout</a></h3></div>
          <div class="subnav"><h3><a href="#gallery">gallery</a></h3></div>
          <div class="subnav"><h3><a href="#specifications">specifications</a></h3></div>
-         <div class="subnav"><h3><a href="#class_background">background</a></h3></div>
+         <div class="subnav"><h3><a href="#class_background">history</a></h3></div>
       </div>
       <div class="section layout" id="layout"><h1 class="text-center"><span class="heavy">DECK</span> layout</h1><br>
             <p><a href="/wp-content/themes/diligent/images/diligent-bridge-blueprint.jpg" target="_blank">Deck 1:</a> <em>Fore:</em> <a href="/wp-content/uploads/2018/09/diligent-bridge-illust.jpg" target="_blank">Main Bridge</a>, Captain's Ready Room, <a href="/wp-content/uploads/2018/11/observationlounge.jpg" target="_blank">Observation Lounge</a> - <em>Aft:</em> Cargobay 1, Aft Dorsal Torpedo Launcher<br />
@@ -100,7 +100,7 @@ get_header(); ?>
             </p>
       </div>
 
-      <div class="section class-background" id="class_background"><h1 class="text-center"><span class="heavy">DILIGENT-CLASS</span> background</h1><br>
+      <div class="section class-background" id="class_background"><h1 class="text-center"><span class="heavy">DILIGENT-CLASS</span> history</h1><br>
             <p>By 2376 the Dominion War was over and Starfleet was faced with the herculean task of rebuilding the fleet. 
             While classes like the Akira, Intrepid, Saber, Defiant and Steamrunner were being produced at record rates to bolster Starfleet’s numbers, 
             it was decided that new designs were also needed to address gaps in functionality made apparent during the war.</p>
