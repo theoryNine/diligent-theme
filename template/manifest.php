@@ -110,6 +110,22 @@ These could be SPANs or DIVs and with entirely different classes.
          </div>
       </div>
 
+      <div class="department section">      
+         <h3>ENGINEERING</h3>
+         <div class="row">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-o3.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            The Chief Engineer is responsible for the condition of all systems and equipment on board a Starfleet ship or facility. They oversee maintenance, repairs 
+            and upgrades of all equipment. They are also responsible for the many repairs teams during crisis situations.">
+                  Chief Engineer</p></div><div class="mani-field character"><p><a href="/manifest/elwynor-semyonova/">Elwynor Semyonova</a></p></div>
+         </div>
+         <div class="row">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Assistant Chief Engineer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+         </div>
+         <div class="row">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Engineer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+         </div>
+      </div>
+
       <div class="department section">
          <h3>FLIGHT CONTROL</h3>
          <div class="row">
@@ -129,70 +145,19 @@ These could be SPANs or DIVs and with entirely different classes.
       </div>
 
       <div class="department section">      
-         <h3>OPERATIONS</h3>
+         <h3>INTELLIGENCE</h3>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-o1.png" /></div><div class="mani-field position"><p class="tooltips" title="
-            The Chief Operations Officer has the primary responsibility of ensuring that ship functions, such as the use of the lateral sensor array, do not interfere 
-            with one and another. They must prioritize resource allocations, so that the most critical activities can have every chance of success. If so required, they 
-            can curtail shipboard functions if they think the functions will interfere with the ship's current mission or routine operations.">
-                  Chief of Operations</p></div><div class="mani-field character"><p><a href="/manifest/clara-watson/">Clara Watson</a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/s-o2.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            They are responsible for organizing all intelligence the department has gathered and presenting it to the duty station's Commanding Officer. They assist the 
+            Commanding Officer, Strategic Operations Officer (if one is present) and the Security/Tactical Officer. 
+            They offer advice on ship/starbase operations, especially in times of conflict or covert missions.">
+                  Chief Intelligence Officer</p></div><div class="mani-field character"><p><a href="/manifest/maxine-dainshire">Maxine Dainshire</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Assistant Chief of Operations</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Assistant Chief Intel Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Operations Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
-         </div>
-      </div>
-
-      <div class="department section">      
-         <h3>TACTICAL/SECURITY</h3>
-         <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
-            In the Chief Tactical Officer role, they are the vessel's gunman. They are responsible for the ships weapon system, and are also the Commanding 
-            Officer's tactical advisor in starship combat matters. Very often Tactical Officers are also trained in ground combat and small unit tactics. 
-            There is much more to tactical than simply overseeing the weapons console on the bridge. Tactical maintains the weapons systems aboard the 
-            ship/starbase, maintaining and reloading photons magazines. Tactical planning and current Intelligence analysis (if no Intelligence operatives 
-            are aboard) is also overseen by the tactical department.">
-                  Chief Tactical & Security Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
-         </div>
-         <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Deputy Chief of Tactical & Security</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
-         </div>
-         <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Tactical & Security Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
-         </div>
-      </div>      
-
-      <div class="department section">      
-         <h3>ENGINEERING</h3>
-         <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-o3.png" /></div><div class="mani-field position"><p class="tooltips" title="
-            The Chief Engineer is responsible for the condition of all systems and equipment on board a Starfleet ship or facility. They oversee maintenance, repairs 
-            and upgrades of all equipment. They are also responsible for the many repairs teams during crisis situations.">
-                  Chief Engineer</p></div><div class="mani-field character"><p><a href="/manifest/elwynor-semyonova/">Elwynor Semyonova</a></p></div>
-         </div>
-         <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Assistant Chief Engineer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
-         </div>
-         <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Engineer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
-         </div>
-      </div>
-
-      <div class="department section">      
-         <h3>SCIENCE</h3>
-         <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" /></div><div class="mani-field position"><p class="tooltips" title="
-            The Chief Science Officer is responsible for all the scientific data the ship/facility collects, and the distribution of such data to specific section within 
-            the department for analysis. They are also responsible with providing the ship's captain with scientific information needed for command decisions.">
-                  Chief Science Officer</p></div><div class="mani-field character"><p><a href="/manifest/elijah-thorne">Elijah Thorne</a></p></div>
-         </div>
-         <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o2.png" /></div><div class="mani-field position"><p>Assistant Chief Science Officer</p></div><div class="mani-field character"><p><a href="/manifest/caanan-serene/">Caanan Serene</a></p></div>
-         </div>
-         <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Science Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Intelligence Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
       </div>
 
@@ -220,21 +185,56 @@ These could be SPANs or DIVs and with entirely different classes.
       </div>
 
       <div class="department section">      
-         <h3>INTELLIGENCE</h3>
+         <h3>OPERATIONS</h3>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/s-o2.png" /></div><div class="mani-field position"><p class="tooltips" title="
-            They are responsible for organizing all intelligence the department has gathered and presenting it to the duty station's Commanding Officer. They assist the 
-            Commanding Officer, Strategic Operations Officer (if one is present) and the Security/Tactical Officer. 
-            They offer advice on ship/starbase operations, especially in times of conflict or covert missions.">
-                  Chief Intelligence Officer</p></div><div class="mani-field character"><p><a href="/manifest/maxine-dainshire">Maxine Dainshire</a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-o1.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            The Chief Operations Officer has the primary responsibility of ensuring that ship functions, such as the use of the lateral sensor array, do not interfere 
+            with one and another. They must prioritize resource allocations, so that the most critical activities can have every chance of success. If so required, they 
+            can curtail shipboard functions if they think the functions will interfere with the ship's current mission or routine operations.">
+                  Chief of Operations</p></div><div class="mani-field character"><p><a href="/manifest/clara-watson/">Clara Watson</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Assistant Chief Intel Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Assistant Chief of Operations</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Intelligence Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Operations Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
       </div>
+
+      <div class="department section">      
+         <h3>SCIENCE</h3>
+         <div class="row">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            The Chief Science Officer is responsible for all the scientific data the ship/facility collects, and the distribution of such data to specific section within 
+            the department for analysis. They are also responsible with providing the ship's captain with scientific information needed for command decisions.">
+                  Chief Science Officer</p></div><div class="mani-field character"><p><a href="/manifest/elijah-thorne">Elijah Thorne</a></p></div>
+         </div>
+         <div class="row">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o2.png" /></div><div class="mani-field position"><p>Assistant Chief Science Officer</p></div><div class="mani-field character"><p><a href="/manifest/caanan-serene/">Caanan Serene</a></p></div>
+         </div>
+         <div class="row">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Science Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+         </div>
+      </div>
+
+      <div class="department section">      
+         <h3>TACTICAL/SECURITY</h3>
+         <div class="row">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            In the Chief Tactical Officer role, they are the vessel's gunman. They are responsible for the ships weapon system, and are also the Commanding 
+            Officer's tactical advisor in starship combat matters. Very often Tactical Officers are also trained in ground combat and small unit tactics. 
+            There is much more to tactical than simply overseeing the weapons console on the bridge. Tactical maintains the weapons systems aboard the 
+            ship/starbase, maintaining and reloading photons magazines. Tactical planning and current Intelligence analysis (if no Intelligence operatives 
+            are aboard) is also overseen by the tactical department.">
+                  Chief Tactical & Security Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+         </div>
+         <div class="row">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Deputy Chief of Tactical & Security</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+         </div>
+         <div class="row">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Tactical & Security Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+         </div>
+      </div>      
 
       </div>
    </div>
