@@ -28,12 +28,6 @@ div.bbp-template-notice.info {
   align-items: center;
 }
 
-.unread-count {
-  border-right: 1px solid var(--truewhite);
-  margin-left: 0.2rem;
-  padding-right: 0.5rem;
-}
-
 .single-forum .subscription-toggle {
   border: 1px solid var(--white);
   padding: 7px;
@@ -308,4 +302,12 @@ div.bbp-template-notice a:hover {
 .profile-icon {
   height: 1.3rem;
   margin-right: 0.2rem;
+}
+
+.count-and-alert {
+  display: none;
+
+  * {
+    margin-left: 3px;
+  }
 }

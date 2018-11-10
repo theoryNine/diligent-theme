@@ -18,7 +18,9 @@
             }
 
             if ($('.unread-count').text().indexOf("0") === -1) {
+                $('.count-and-alert').css({'color':'#ff9999'});
                 $('.message-count').css({'color':'#ff9999'});
+                $('.count-and-alert').css({'display':'flex'});
             }
         }
 
