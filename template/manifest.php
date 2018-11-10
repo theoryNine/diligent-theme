@@ -93,7 +93,7 @@ These could be SPANs or DIVs and with entirely different classes.
 <div class="section">
    <div class="manifest">
       <div class="department section">
-         <h3>COMMAND STAFF</h3>
+         <h3>COMMAND</h3>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o5.png" /></div><div class="mani-field position"><p class="tooltips" title="
             Every Starfleet Facility has a single commanding officer responsible for the safety of their crew and the success of their missions. They have 
