@@ -265,10 +265,11 @@ div.bbp-template-notice a:hover {
   font-size: .9rem;
   padding: 0.4rem;
   margin-bottom: 12px;
+  letter-spacing: 1px;
 
     &:hover {
       background: var(--white);
-      color: var(--black);
+      color: var(--black) !important;
     }
 }
 
