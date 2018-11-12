@@ -77,3 +77,21 @@
       lost-column: 1/1;
    }
 }
+
+.enlist input[value="Submit"] {
+    width: 220px;
+    height: 30px;
+    font-size: .7rem;
+    letter-spacing: 1px;
+    background: var(--red);
+    color: var(--white);
+    border: 1px solid var(--white);
+    transition: all 0.5s ease;
+    text-transform: uppercase;
+    padding: .4rem;
+
+    &:hover {
+        background: var(--white);
+        color: var(--black);
+    }
+}
