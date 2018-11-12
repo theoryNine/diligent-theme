@@ -1,10 +1,8 @@
 .specs .subnav {
-   text-transform: uppercase;
-   margin-right: 1rem;
-
-   &:last-child {
-       margin-right: 0;
-   }
+    background: var(--red);
+    border: 1px solid var(--white);
+    text-transform: uppercase;
+    width: 20%;
 }
 
 .specs .subnav-section {
