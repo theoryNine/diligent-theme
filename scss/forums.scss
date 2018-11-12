@@ -255,7 +255,8 @@ div.bbp-template-notice a:hover {
   color: var(--white) !important;
 }
 
-.bbpm-items .bbpm-head .bbpm-left .bbpm-new, .bbpm-messages .bbpm-head .bbpm-left > a {
+.bbpm-items .bbpm-head .bbpm-left .bbpm-new, 
+.bbpm-messages .bbpm-head .bbpm-left > a {
   background: var(--red);
   text-decoration: none;
   border: 1px solid var(--white);
@@ -264,6 +265,11 @@ div.bbp-template-notice a:hover {
   font-size: .9rem;
   padding: 0.4rem;
   margin-bottom: 12px;
+
+    :hover {
+      background: var(--white);
+      color: var(--black);
+    }
 }
 
 #bbpress-forums #bbp-your-profile fieldset span.description {
