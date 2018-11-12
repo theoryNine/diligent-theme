@@ -9,6 +9,10 @@
         background: var(--white);
         color: var(--black);
     }
+
+    @media (max-width: 900px) {
+        font-size: .7rem;
+    }
 }
 
 .specs .subnav-section {
