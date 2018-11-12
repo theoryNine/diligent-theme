@@ -16,7 +16,7 @@ get_header(); ?>
          <p class="text-center">The <em>Diligent</em> is a Diligent-class starship built to serve Starfleet as a  short-range explorer, diplomatic transport, and combat escort.</p>
       </div>
       <div class="text-center section subnav-section">
-         <div class="subnav"><h3><a href="#layout">deck layout</a></h3></div>
+      <a href="#layout"><div class="subnav"><h3>deck layout</h3></div></a>
          <div class="subnav"><h3><a href="#gallery">gallery</a></h3></div>
          <div class="subnav"><h3><a href="#specifications">specifications</a></h3></div>
          <div class="subnav"><h3><a href="#class_background">history</a></h3></div>
