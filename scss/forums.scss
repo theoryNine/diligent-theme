@@ -327,6 +327,10 @@ div.bbp-template-notice a:hover {
   padding: .5rem;
 }
 
-.bbp-attachments-form {
+label[for="bbp_topic_tags"] {
+  display: none;
+}
 
+#bbp_topic_tags {
+  display: none;
 }
