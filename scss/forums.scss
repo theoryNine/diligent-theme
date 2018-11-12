@@ -96,11 +96,11 @@ div.bbp-submit-wrapper {
 #bbpress-forums .button[type=submit] {
  color: #f7f7f7;
  background-color: var(--red);
- width: 320px;
- height: 40px;
+ width: 220px;
+ height: 30px;
  border-radius: 0;
  font-weight: 700;
- font-size: 1rem;
+ font-size: .9rem;
  border: 1px solid var(--white);
  text-transform: uppercase;
  transition: all 0.5s ease;
@@ -337,4 +337,8 @@ label[for="bbp_topic_tags"] {
 
 #bbp_topic_tags {
   display: none;
+}
+
+.bbpm-helper {
+  padding: .2rem;
 }
