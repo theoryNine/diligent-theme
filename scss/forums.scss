@@ -328,7 +328,7 @@ div.bbp-template-notice a:hover {
 }
 
 label[for="bbp_topic_tags"] {
-  display: none;
+  display: none !important;
 }
 
 #bbp_topic_tags {
