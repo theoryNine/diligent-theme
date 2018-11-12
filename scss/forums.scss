@@ -311,3 +311,12 @@ div.bbp-template-notice a:hover {
     margin-left: 3px;
   }
 }
+
+.bbp-pagination-links a:hover, .bbp-pagination-links span.current {
+  background: var(--red);
+  padding: .7rem;
+}
+
+.bbp-pagination-links {
+  font-size: 1rem;
+}
