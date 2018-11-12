@@ -71,6 +71,8 @@ div.bbp-template-notice.info {
 
 div.bbp-submit-wrapper {
   float: none;
+  display: flex;
+  justify-content: center;
 }
 
 .quicktags-toolbar {
@@ -93,11 +95,12 @@ div.bbp-submit-wrapper {
 
 #bbpress-forums .button[type=submit] {
  color: #f7f7f7;
- background-color: var(--black);
+ background-color: var(--red);
  width: 320px;
  height: 40px;
- border-radius: 360px;
- font-weight: 600;
+ border-radius: 0;
+ font-weight: 700;
+ font-size: 1rem;
  border: 1px solid var(--white);
  text-transform: uppercase;
  transition: all 0.5s ease;
@@ -322,4 +325,9 @@ div.bbp-template-notice a:hover {
 .bbp-pagination-links a {
   font-size: 1rem;
   padding: .5rem;
+}
+
+.bbp-attachments-form {
+  display: flex;
+  justify-content: center;
 }
