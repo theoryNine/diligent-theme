@@ -3,6 +3,11 @@
     border: 1px solid var(--white);
     text-transform: uppercase;
     width: 20%;
+
+    &:hover {
+        background: var(--white);
+        color: var(--black);
+    }
 }
 
 .specs .subnav-section {
