@@ -256,7 +256,8 @@ div.bbp-template-notice a:hover {
 }
 
 .bbpm-items .bbpm-head .bbpm-left .bbpm-new, 
-.bbpm-messages .bbpm-head .bbpm-left > a {
+.bbpm-messages .bbpm-head .bbpm-left > a,
+input[name="select_recipient"] {
   background: var(--red);
   text-decoration: none;
   border: 1px solid var(--white);
