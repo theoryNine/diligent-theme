@@ -314,9 +314,10 @@ div.bbp-template-notice a:hover {
 
 .bbp-pagination-links a:hover, .bbp-pagination-links span.current {
   background: var(--red);
+  color: var(--white);
 }
 
-.bbp-pagination-links {
+.bbp-pagination-links a {
   font-size: 1rem;
   padding: .7rem;
 }
