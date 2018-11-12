@@ -16,10 +16,10 @@ get_header(); ?>
          <p class="text-center">The <em>Diligent</em> is a Diligent-class starship built to serve Starfleet as a  short-range explorer, diplomatic transport, and combat escort.</p>
       </div>
       <div class="text-center section subnav-section">
-      <a href="#layout" class="subnav"><div><h3>deck layout</h3></div></a>
-         <div class="subnav"><h3><a href="#gallery">gallery</a></h3></div>
-         <div class="subnav"><h3><a href="#specifications">specifications</a></h3></div>
-         <div class="subnav"><h3><a href="#class_background">history</a></h3></div>
+            <a href="#layout" class="subnav"><div><h3>deck layout</h3></div></a>
+            <a href="#gallery" class="subnav"><div><h3>gallery</h3></div></a>
+            <a href="#specifications" class="subnav"><div><h3>specifications</h3></div></a>
+            <a href="#class_background" class="subnav"><div><h3>history</h3></div></a>
       </div>
       <div class="section layout" id="layout"><h1 class="text-center"><span class="heavy">DECK</span> layout</h1><br>
             <p><a href="/wp-content/themes/diligent/images/diligent-bridge-blueprint.jpg" target="_blank">Deck 1:</a> <em>Fore:</em> <a href="/wp-content/uploads/2018/09/diligent-bridge-illust.jpg" target="_blank">Main Bridge</a>, Captain's Ready Room, <a href="/wp-content/uploads/2018/11/observationlounge.jpg" target="_blank">Observation Lounge</a> - <em>Aft:</em> Cargobay 1, Aft Dorsal Torpedo Launcher<br />
