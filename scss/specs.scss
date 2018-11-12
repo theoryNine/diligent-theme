@@ -3,6 +3,7 @@
     border: 1px solid var(--white);
     text-transform: uppercase;
     width: 20%;
+    transition: all 0.5s ease;
 
     &:hover {
         background: var(--white);
