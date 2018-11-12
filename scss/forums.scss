@@ -93,7 +93,8 @@ div.bbp-submit-wrapper {
   max-width: 100%;
 }
 
-#bbpress-forums .button[type=submit] {
+#bbpress-forums .button[type=submit],
+input[name="send_message"] {
  color: #f7f7f7;
  background-color: var(--red);
  width: 220px;
