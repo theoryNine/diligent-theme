@@ -180,7 +180,7 @@ div.bbp-template-notice a:hover {
   border: 1px solid var(--white);
   padding: 0;
   color: var(--white);
-  height: 25px;
+  height: 28px;
 }
 
 #bbpress-forums div.odd, #bbpress-forums ul.odd {
@@ -258,7 +258,8 @@ div.bbp-template-notice a:hover {
 
 .bbpm-items .bbpm-head .bbpm-left .bbpm-new, 
 .bbpm-messages .bbpm-head .bbpm-left > a,
-input[name="select_recipient"] {
+input[name="select_recipient"],
+.bbpress_mark_all_read input[type="submit"] {
   background: var(--red);
   text-decoration: none;
   border: 1px solid var(--white);
