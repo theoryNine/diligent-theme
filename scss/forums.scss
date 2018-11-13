@@ -137,10 +137,10 @@ div.bbp-submit-wrapper {
 
 #bbpress-forums .button[value="Search"] {
  color: #f7f7f7;
- background-color: var(--black);
- width: 75px;
- height: 20px;
+ background-color: var(--red);
+ width: 100px;
  border-radius: 0px;
+ padding: 0;
  border: 1px solid var(--white);
 }
 
@@ -178,8 +178,9 @@ div.bbp-template-notice a:hover {
 #bbpress-forums #bbp-search-form #bbp_search {
   background-color: var(--dark-gray);
   border: 1px solid var(--white);
-  padding: 2px;
+  padding: 0;
   color: var(--white);
+  height: 25px;
 }
 
 #bbpress-forums div.odd, #bbpress-forums ul.odd {
