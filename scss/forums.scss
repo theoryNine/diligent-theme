@@ -135,7 +135,7 @@ div.bbp-submit-wrapper {
   border: 1px solid var(--dark-white);
 }
 
-#bbpress-forums .button[value=Search] {
+#bbpress-forums .button[value="Search"] {
  color: #f7f7f7;
  background-color: var(--black);
  width: 75px;
@@ -350,4 +350,8 @@ label[for="bbp_topic_tags"] {
 
 #bbpress-forums #bbp-your-profile fieldset.submit button {
   float: none;
+}
+
+.bbpress_mark_all_read_wrapper {
+  transform: none;
 }
