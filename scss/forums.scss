@@ -283,6 +283,11 @@ input[name="select_recipient"],
     }
 }
 
+.bbpress_mark_all_read input[type="submit"],
+.subscription-toggle {
+  font-size: .7rem;
+}
+
 #bbpress-forums #bbp-your-profile fieldset span.description {
   background-color: #2d2d2d;
 }
