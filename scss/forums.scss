@@ -118,6 +118,15 @@ div.bbp-submit-wrapper {
   appearance: checkbox;
 }
 
+#bbp-search-form div {
+  display: flex;
+}
+
+#bbp_search {
+  margin-right: 5px;
+  padding: 0 5px;
+}
+
 #bbp-search-form input {
   letter-spacing: 1px;
 }
