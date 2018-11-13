@@ -263,7 +263,8 @@ div.bbp-template-notice a:hover {
 .bbpm-items .bbpm-head .bbpm-left .bbpm-new, 
 .bbpm-messages .bbpm-head .bbpm-left > a,
 input[name="select_recipient"],
-.bbpress_mark_all_read input[type="submit"] {
+.bbpress_mark_all_read input[type="submit"],
+.subscription-toggle {
   background: var(--red);
   text-decoration: none;
   border: 1px solid var(--white);
