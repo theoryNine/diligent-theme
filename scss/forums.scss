@@ -124,7 +124,6 @@ div.bbp-submit-wrapper {
 
 #bbp_search {
   margin-right: 5px;
-  padding: 0 5px;
 }
 
 #bbp-search-form input {
@@ -187,7 +186,7 @@ div.bbp-template-notice a:hover {
 #bbpress-forums #bbp-search-form #bbp_search {
   background-color: var(--dark-gray);
   border: 1px solid var(--white);
-  padding: 0;
+  padding: 0 5px;
   color: var(--white);
   height: 28px;
 }
