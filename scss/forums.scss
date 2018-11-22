@@ -364,3 +364,11 @@ label[for="bbp_topic_tags"] {
 .bbpress_mark_all_read_wrapper {
   transform: none;
 }
+
+.bbp-forum-title {
+  font-size: .9rem;
+}
+
+#bbpress-forums .bbp-forum-info .bbp-forum-content, #bbpress-forums p.bbp-topic-meta {
+  font-size: .8rem;
+}
