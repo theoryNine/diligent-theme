@@ -28,7 +28,7 @@ get_header(); ?>
       <div class="hero">
          <img src="/wp-content/themes/diligent/images/eud-diligent-hero.png" />
       </div>
-      <div class="sotm section"><img src="/wp-content/themes/diligent/images/38sotm.png" />Task Force 38 Sim of the Month<img src="/wp-content/themes/diligent/images/38sotm.png" /> </div>
+      <!--<div class="sotm section"><img src="/wp-content/themes/diligent/images/38sotm.png" />Task Force 38 Sim of the Month<img src="/wp-content/themes/diligent/images/38sotm.png" /> </div>-->
       <div class="intro section">
          <h1 class="text-center">welcome to the <span class="heavy">DILIGENT</span></h1>
          <p>The <em>USS Diligent</em>, NCC-80651, is a Play-by-Forum RPG based out of <a href="http://www.bravofleet.com" target="_blank">Bravo Fleet's</a> 
