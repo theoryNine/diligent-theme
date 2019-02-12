@@ -91,13 +91,11 @@ get_header(); ?>
                   </ul>
                </p>
             <h4>Auxiliary Craft</h4>
-            <p><strong>Maintenance Craft:</strong> 4x <a href="/work-bee">Work Bee</a></p>
-            <p><strong>Shuttlebays:</strong> 1<br>
-            <strong>Shuttle Capacity:</strong> 4<br>
-            <strong>Attached Shuttles:</strong>
-                  <ul>
-                        <li>2x <a href="/volga">Volga Runabout - <em>Yser, Namsen</em></a></li>
-                  </ul>
+            <p><strong>Maintenance Craft:</strong> 2x <a href="/work-bee">Work Bee</a></p>
+            <p>
+               <strong>Shuttlebays:</strong> 1<br>
+               <strong>Shuttle Capacity:</strong> 4<br>
+               <strong>Attached Shuttles:</strong> 2x <a href="/volga">Volga Runabout - <em>Yser, Namsen</em></a>
             </p>
       </div>
 
