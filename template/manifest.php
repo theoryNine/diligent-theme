@@ -108,6 +108,15 @@ These could be SPANs or DIVs and with entirely different classes.
             jointly removing the CO from command.">
                   Executive Officer</p></div><div class="mani-field character"><p><a href="/manifest/marcus-bancroft/">Marcus Bancroft</a></p></div>
          </div>
+         <div class="row">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            The seniormost Chief Petty Officer (including Senior and Master Chiefs), regardless of rating, is designated by the Commanding Officer as the 
+            Chief of the Boat (for vessels) or Command Chief (for starbases). In addition to his or her departmental responsibilities, the COB/CC performs 
+            the following duties: serves as a liaison between the Commanding Officer (or Executive Officer) and the enlisted crewmen; ensures enlisted crews 
+            understand Command policies; advises the Commanding Officer and Executive Officer regarding enlisted morale, and evaluates the quality of noncommissioned 
+            officer leadership, management, and supervisory training.">
+                  Chief of the Boat</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+         </div>
       </div>
 
       <div class="department section">      
