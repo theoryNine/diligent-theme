@@ -156,11 +156,11 @@ These could be SPANs or DIVs and with entirely different classes.
       <div class="department section">      
          <h3>INTELLIGENCE</h3>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/grey.png" /></div><div class="mani-field position"><p class="tooltips" title="
             They are responsible for organizing all intelligence the department has gathered and presenting it to the duty station's Commanding Officer. They assist the 
             Commanding Officer, Strategic Operations Officer (if one is present) and the Security/Tactical Officer. 
             They offer advice on ship/starbase operations, especially in times of conflict or covert missions.">
-                  Chief Intelligence Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+                  Chief Intelligence Officer</p></div><div class="mani-field character"><p>UNDER REVIEW</p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Assistant Chief Intel Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
