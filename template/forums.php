@@ -51,6 +51,10 @@ These could be SPANs or DIVs and with entirely different classes.
                   <img src="/wp-content/themes/diligent/images/user-icon.svg" class="profile-icon" alt="Profile" /> 
                   <div>My Profile</div>
             </a>
+            <a href="https://discord.gg/vQBX2Nq" target="_blank" class="profile-link">
+                  <img src="/wp-content/themes/diligent/images/chat-icon.svg" class="profile-icon" alt="Profile" />
+                  <div>Discord</div>
+            </a>
       </p>
 </div>
 
