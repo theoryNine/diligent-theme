@@ -156,11 +156,11 @@ These could be SPANs or DIVs and with entirely different classes.
       <div class="department section">      
          <h3>INTELLIGENCE</h3>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/s-o2.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
             They are responsible for organizing all intelligence the department has gathered and presenting it to the duty station's Commanding Officer. They assist the 
             Commanding Officer, Strategic Operations Officer (if one is present) and the Security/Tactical Officer. 
             They offer advice on ship/starbase operations, especially in times of conflict or covert missions.">
-                  Chief Intelligence Officer</p></div><div class="mani-field character"><p><a href="/manifest/maxine-dainshire">Maxine Dainshire</a></p></div>
+                  Chief Intelligence Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Assistant Chief Intel Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
@@ -173,17 +173,17 @@ These could be SPANs or DIVs and with entirely different classes.
       <div class="department section">      
          <h3>MEDICAL</h3>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
             Onboard a starship, a Chief Medical Officer has a vital role to play. A Commanding Officer needs a crew they can rely on and it is the duty of the Chief 
             Medical Officer to ensure the physical and mental states of wellbeing. The CMO often corresponds with the Executive Officer and the Chief Counselor on-board 
             a starship to assess his or her patients needs.">
-                  Chief Medical Officer</p></div><div class="mani-field character"><p><a href="/manifest/rosheen-hughes">Róisín Hughes</a></p></div>
+                  Chief Medical Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
             Because of their training in psychology, technically the ship's/facility's Counselor is considered part of Starfleet Medical. The Counselor is responsible 
             both for advising the CO in dealing with other people and races, and in helping crew members with personal, psychological, and emotional problems.">
-                  Ship's Counselor</p></div><div class="mani-field character"><p><a href="/manifest/tlaruk-akaigan">T'Laruk Akaigan</a></p></div>
+                  Ship's Counselor</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Nurse</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
@@ -196,11 +196,11 @@ These could be SPANs or DIVs and with entirely different classes.
       <div class="department section">      
          <h3>OPERATIONS</h3>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-o1.png" /></div><div class="mani-field position"><p class="tooltips" title="
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
             The Chief Operations Officer has the primary responsibility of ensuring that ship functions, such as the use of the lateral sensor array, do not interfere 
             with one and another. They must prioritize resource allocations, so that the most critical activities can have every chance of success. If so required, they 
             can curtail shipboard functions if they think the functions will interfere with the ship's current mission or routine operations.">
-                  Chief of Operations</p></div><div class="mani-field character"><p><a href="/manifest/clara-watson/">Clara Watson</a></p></div>
+                  Chief of Operations</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Assistant Chief of Operations</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
