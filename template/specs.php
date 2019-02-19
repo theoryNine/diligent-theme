@@ -24,15 +24,15 @@ get_header(); ?>
       <div class="section layout" id="layout"><h1 class="text-center"><span class="heavy">DECK</span> layout</h1><br>
             <p><a href="/wp-content/themes/diligent/images/diligent-bridge-blueprint.jpg" target="_blank">Deck 1:</a> <em>Fore:</em> <a href="/wp-content/uploads/2018/09/diligent-bridge-illust.jpg" target="_blank">Main Bridge</a> (<a href="/wp-content/themes/diligent/images/diligent-bridge-blueprint.jpg" target="_blank">Seating Chart</a>), Captain's Ready Room, <a href="/wp-content/uploads/2018/11/observationlounge.jpg" target="_blank">Observation Lounge</a> - <em>Aft:</em> Cargobay 1, Aft Dorsal Torpedo Launcher<br />
             Deck 2: <a href="/wp-content/uploads/2018/09/captains_quarters.jpg" target="_blank">Captain's Quarters</a>, <a href="/wp-content/uploads/2018/09/officer_quarters.jpg" target="_blank">Senior Officer's Quarters</a>, <a href="/wp-content/uploads/2018/09/mess_hall.jpg" target="_blank">Ship's Mess and Galley</a>, <a href="/wp-content/themes/diligent/images/xo-office.jpg" target="_blank">XO's Office</a>, Officers Lounge, Deuterium Fuel Tanks, Gymnasium<br />
-            Deck 3: Transporter Rooms 1, <a href="/wp-content/uploads/2018/09/vipquarters.jpg" target="_blank">VIP Quarters</a>, <a href="/wp-content/uploads/2018/09/officer_quarters.jpg" target="_blank">Crew Quarters (Lt. JG and up)</a>, Science Labs, Aeroponics, Astrometrics, Holosuites 1 & 2, Conference Rooms<br />
+            Deck 3: Transporter Rooms 1, <a href="/wp-content/uploads/2018/09/vipquarters.jpg" target="_blank">VIP Quarters</a>, <a href="/wp-content/uploads/2018/09/officer_quarters.jpg" target="_blank">Crew Quarters (Lt. JG and up)</a>, Science Labs, Airponics, Hydroponics, Astrometrics, Holosuites 1 & 2, Conference Rooms<br />
             Deck 4: Computer Core Control Room, <a href="/wp-content/uploads/2019/02/engineering.jpg" target="_blank">Main Engineering</a>, Engineering Support, Shuttle Bay<br />
             Deck 5: Transporter Rooms 2 and 3, <a href="/wp-content/uploads/2018/09/sickbay.jpg" target="_blank">Sickbay</a>, <a href="/wp-content/uploads/2018/09/aft_lounge.jpg" target="_blank">Aft Lounge (The Stern)</a>, Navigational Deflector Control, Security Center<br />
             Deck 6: Fusion Reactors, Anti-Matter Storage Pods, Cargobay 2 and 3, <a href="/wp-content/uploads/2018/09/crewquarters.jpg" target="_blank">Crew Quarters</a><br />
             Deck 7: Forward Torpedo Launchers<br />
             Deck 8: Emergency Power Generators, Rear Torpedo Launchers<br />
             Deck 9: <em>non-habitable</em> Engineering Crawlspace, Mechanical</p>
-         <p class="disclaimer"><em>Main Engineering by: <a href="https://www.deviantart.com/falke2009" target="_blank">Falke</a><br />
-         All other interior illustrations were expertly created by: <a href="https://www.deviantart.com/bobye2" target="_blank">bobeye</a></em>
+         <!-- <p class="disclaimer"><em>Main Engineering by: <a href="https://www.deviantart.com/falke2009" target="_blank">Falke</a><br /> -->
+         Interior illustrations by: <a href="https://www.deviantart.com/bobye2" target="_blank">bobeye</a></em>
          </p>
       </div>
       <div class="text-center section gallery" id="gallery">
