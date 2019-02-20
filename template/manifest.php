@@ -93,7 +93,8 @@ These could be SPANs or DIVs and with entirely different classes.
 
 <div class="section">
    <div class="manifest">
-      <div class="department section" id="command">
+      <div id="command"></div>
+      <div class="department section">
          <h3><a href="https://wiki.bravofleet.com/index.php?title=Command_Department" target="_blank">COMMAND</a></h3>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o5.png" /></div><div class="mani-field position"><p class="tooltips" title="
