@@ -3,8 +3,8 @@
    margin-top: 15px;
    position: relative;
 
-  #bbp_reply_content {
-     background: var(--dark-gray);
+   .bbp-topic-form, .bbp-reply-form, .bbp-topic-tag-form {
+     background: var(--black);
   }
 }
 div.bbp-template-notice.info {
