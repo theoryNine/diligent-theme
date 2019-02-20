@@ -194,7 +194,7 @@ These could be SPANs or DIVs and with entirely different classes.
       </div>
 
       <div class="department section">      
-         <h3>OPERATIONS</h3>
+         <h3><a href="https://wiki.bravofleet.com/index.php?title=Operations_Department" target="_blank">OPERATIONS</a></h3>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="tooltips" title="
             The Chief Operations Officer has the primary responsibility of ensuring that ship functions, such as the use of the lateral sensor array, do not interfere 
@@ -207,6 +207,12 @@ These could be SPANs or DIVs and with entirely different classes.
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Operations Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+         </div>
+         <div class="row">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Boatswain</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+         </div>
+         <div class="row">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Quartermaster</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
       </div>
 
