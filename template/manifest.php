@@ -88,6 +88,7 @@ These could be SPANs or DIVs and with entirely different classes.
 <div class="intro section">
       <h1 class="text-center">crew <span class="heavy">MANIFEST</span></h1>
       <p class="text-center">The writers and dreamers of the <em>Diligent</em>.</p>
+      <p class="text-center">Command - Engineering - Flight Control - Intelligence - Medical - Operations - Science - Tactical/Security</p>
 </div>
 
 <div class="section">
