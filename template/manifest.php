@@ -89,7 +89,7 @@ These could be SPANs or DIVs and with entirely different classes.
       <h1 class="text-center">crew <span class="heavy">MANIFEST</span></h1>
       <p class="text-center">The writers and dreamers of the <em>Diligent</em>.</p>
       <p class="text-center department-links"><a href="#command">Command</a> - <a href="#engineering">Engineering</a> - <a href="#conn">Flight Control</a> - <a href="#intelligence">Intelligence</a> 
-      - <a href="#medical">Medical</a> - <a href="#operations">Operations</a> - <a href="#science">Science</a> - <a href="#tactical">Tactical/Security</a></p>
+      - <a href="#medical">Medical</a> - <a href="#operations">Operations</a> - <a href="#science">Science</a> - <a href="#tactical">Tactical/Security</a> - <a href="#civilians">Civilians</a></p>
 </div>
 
 <div class="section">
@@ -280,7 +280,15 @@ These could be SPANs or DIVs and with entirely different classes.
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Master-at-Arms</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
-      </div>      
+      </div>  
+      
+      <div id="civilians"></div>
+      <div class="department section">      
+         <h3><a href="https://wiki.bravofleet.com/index.php?title=Security/Tactical_Department" target="_blank">CIVILIANS</a></h3>
+         <div class="row">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Galley/Lounge Manager</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+         </div>
+      </div>  
 
       </div>
    </div>
