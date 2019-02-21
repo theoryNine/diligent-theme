@@ -18,7 +18,6 @@ These could be SPANs or DIVs and with entirely different classes.
 */
 ?>
 
-<div class="section user-toolbar"><p><a href="javascript:history.back()">Back</a></p></div>
 
 <div id="primary" class="site-content">
 
@@ -26,6 +25,8 @@ These could be SPANs or DIVs and with entirely different classes.
       <h1 class="text-center"><span class="heavy">VOLGA</span> runabout</h1>
       <p class="text-center">The <em>Yser & Namsen</em></p>
 </div>
+
+<div class="section user-toolbar"><p><a href="javascript:history.back()">Back</a></p></div>
 
 <div class="section">
    <div class="about">
