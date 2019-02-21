@@ -12,9 +12,11 @@
         function checkLogin() {
             var $navMenu = $('#menu-nav li');
             var $userToolbar = $('.user-toolbar');
+            var $crewResources = $('.crew-resources');
 
             if ($navMenu.text().indexOf("Login") > -1) {
                 $userToolbar.hide();
+                $crewResources.hide();
             }
 
             if ($('.unread-count').text().indexOf("0") === -1) {

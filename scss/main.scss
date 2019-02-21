@@ -62,8 +62,9 @@ a:hover {
 }
 
 .container {
-   lost-center: 1080px;
-   lost-utility: clearfix;
+   max-width: 1080px;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 .main {
@@ -85,7 +86,7 @@ a:hover {
 }
 
 .row {
-   lost-column: 1/1;
+    display: flex;
 }
 
 .Zebra_Tooltip {
