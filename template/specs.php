@@ -10,7 +10,7 @@ get_header(); ?>
 
 <body <?php body_class(); ?>>
    <div class="container specs">
-      <div class="hero"><img src="/wp-content/themes/diligent/images/diligent-msd.png" /></div>
+      <div class="hero"><img src="/wp-content/themes/diligent/images/diligent-msd-hero.jpg" /></div>
       <div class="intro section">
          <h1 class="text-center"><span class="heavy">DILIGENT</span>-class</span></h1>
          <p class="text-center">The <em>Diligent</em> is a Diligent-class starship built to serve Starfleet as a  short-range explorer, diplomatic transport, and combat escort.</p>

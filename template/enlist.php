@@ -20,7 +20,7 @@ These could be SPANs or DIVs and with entirely different classes.
 
 <div id="primary" class="site-content">
 
-<div class="hero"><img src="/wp-content/themes/diligent/images/academy.png" /></div>
+<div class="hero"><img src="/wp-content/themes/diligent/images/academy.jpg" /></div>
 
 <div class="intro section">
       <h1 class="text-center"><span class="heavy">JOIN</span> the Diligent</h1>
