@@ -16,8 +16,8 @@
             var $joinLink = $('.menu-item-70');
 
             if ($navMenu.text().indexOf("Login") > -1) {
-                $userToolbar.hide();
-                $crewResources.hide();
+                $userToolbar.remove();
+                $crewResources.remove();
                 $joinLink.show();
             }
 
