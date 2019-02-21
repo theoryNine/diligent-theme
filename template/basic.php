@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Basic Bsck Template
+Template Name: Basic Back Template
 */
 ?>
 
@@ -18,11 +18,11 @@ These could be SPANs or DIVs and with entirely different classes.
 */
 ?>
 
-<div class="section user-toolbar"><p><a href="javascript:history.back()">Back</a></p></div>
-
 <div id="primary" class="site-content">
 
 <div class="hero"><img src="/wp-content/themes/diligent/images/map.jpg" /></div>
+
+<div class="section user-toolbar"><p><a href="javascript:history.back()">Back</a></p></div>
 
 <div class="section">
    <div class="page">

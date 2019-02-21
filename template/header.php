@@ -6,7 +6,8 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 
 <?php wp_head(); ?>
-<?php wp_enqueue_style( 'style', get_stylesheet_uri() ); ?>
+<?php wp_enqueue_style( 'style', get_stylesheet_uri() ); 
+wp_enqueue_script( 'scripts.js', get_template_directory_uri() . '/js/scripts.js', array('jquery'), true ); ?>
 
 <div class="container">
 <div class="header row">

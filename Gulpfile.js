@@ -91,7 +91,7 @@ gulp.task('css', ['images'], () => {
 
 // JavaScript settings
 const js = {
-  src         : dir.src + 'js/**/*',
+  src         : dir.src + 'js/**/*.js',
   build       : dir.build + '/js/',
   filename    : 'scripts.js'
 };
