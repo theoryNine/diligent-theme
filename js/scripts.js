@@ -13,10 +13,12 @@
             var $navMenu = $('#menu-nav li');
             var $userToolbar = $('.user-toolbar');
             var $crewResources = $('.crew-resources');
+            var $joinLink = $('.menu-item-70');
 
             if ($navMenu.text().indexOf("Login") > -1) {
                 $userToolbar.hide();
                 $crewResources.hide();
+                $joinLink.show();
             }
 
             if ($('.unread-count').text().indexOf("0") === -1) {

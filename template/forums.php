@@ -6,9 +6,7 @@ Template Name: Forum Template
 
 <?php
 
-get_header(); 
-
-wp_enqueue_script( 'scripts.js', get_template_directory_uri() . '/js/scripts.js', array('jquery'), true ); ?>
+get_header(); ?>
 
 <body <?php body_class(); ?>>
    <div class="container">
