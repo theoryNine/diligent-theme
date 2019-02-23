@@ -7,6 +7,9 @@
      background: var(--black);
   }
 }
+#bbpress-forums .status-closed {
+  opacity: .8;
+}
 div.bbp-template-notice.info {
    background-color: var(--dark-gray);
 }
