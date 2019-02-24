@@ -173,7 +173,7 @@ These could be SPANs or DIVs and with entirely different classes.
          <div class="row open">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Physician's Mate</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
-         <div class="row open">
+         <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/teal.png" /></div><div class="mani-field position"><p>EMH Mark IV</p></div><div class="mani-field character"><p><a href="/manifest/emh/">Doctor Chen <em>(NPC)</em></a></p></div>
          </div>
       </div>
