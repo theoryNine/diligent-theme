@@ -37,14 +37,17 @@
             }
         }
 
-        $('.openToggle').on('click', function(e) {
-            e.preventDefault();
-            $('.openButton').toggle();
-            $('.open').fadeToggle();
-        });
+        function togglePositions() {
+            $('.openToggle').on('click', function(e) {
+                    e.preventDefault();
+                    $('.openButton').toggle();
+                    $('.open').slideToggle();
+                });
+        }
 
         checkLogin();
         autoSearchUsers();
+        togglePositions();
     })
 
 })( jQuery );
