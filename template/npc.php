@@ -35,6 +35,12 @@ These could be SPANs or DIVs and with entirely different classes.
       <?php endif; ?>
    </div>
 
+   <p><strong><span class="key">Character Name:</span></strong> <span class="key"><?php the_field('character_name'); ?></span></p>
+   <p><strong><span class="key">Rank:</span></strong> <span class="key"><?php the_field('rank'); ?></span></p>
+   <p><strong><span class="key">Position:</span></strong> <span class="key"><?php the_field('position'); ?></span></p>
+   <p><strong><span class="key">Species:</span></strong> <span class="key"><?php the_field('species'); ?></span></p>
+   <p><strong><span class="key">Gender:</span></strong> <span class="key"><?php the_field('gender'); ?></span></p>
+
 
 <div id="primary" class="site-content">
    <div id="content" role="main">

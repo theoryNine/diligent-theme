@@ -113,7 +113,7 @@ These could be SPANs or DIVs and with entirely different classes.
       </div>
 
       <div id="engineering"></div>
-      <div class="department section open">      
+      <div class="department section">      
          <h3><a href="https://wiki.bravofleet.com/index.php?title=Engineering_Department" target="_blank">ENGINEERING</a></h3>
          <div class="row open">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Chief Engineer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
@@ -125,10 +125,10 @@ These could be SPANs or DIVs and with entirely different classes.
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Engineer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row open">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Engineer's Mate</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
-         </div>
-         <div class="row open">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Transporter Chief</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+         </div>
+         <div class="row npc">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-e8.png" /></div><div class="mani-field position"><p>Engineer's Mate</p><p class="secondary">Acting Chief Engineer</p></div><div class="mani-field character"><p><a href="/manifest/ceji-belgu-npc">Ceji Belgu <em>(NPC)</em></a></p></div>
          </div>
       </div>
 
@@ -201,7 +201,7 @@ These could be SPANs or DIVs and with entirely different classes.
       </div>
 
       <div id="science"></div>
-      <div class="department section open">      
+      <div class="department section">      
          <h3><a href="https://wiki.bravofleet.com/index.php?title=Science_Department" target="_blank">SCIENCE</a></h3>
          <div class="row open">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Chief Science Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
@@ -227,13 +227,13 @@ These could be SPANs or DIVs and with entirely different classes.
          <div class="row open">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Stellar Cartographer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
-         <div class="row open">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Scientist's Mate</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+         <div class="row npc">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-e8.png" /></div><div class="mani-field position"><p>Scientist's Mate</p><p class="secondary">Acting Chief Science Officer</p></div><div class="mani-field character"><p><a href="jaarvid-grix-npc">Jaarvid Grix <em>(NPC)</em></a></p></div>
          </div>
       </div>
 
       <div id="tactical"></div>
-      <div class="department section open">      
+      <div class="department section">      
          <h3><a href="https://wiki.bravofleet.com/index.php?title=Security/Tactical_Department" target="_blank">TACTICAL/SECURITY</a></h3>
          <div class="row open">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Chief Tactical & Security Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
@@ -247,13 +247,13 @@ These could be SPANs or DIVs and with entirely different classes.
          <div class="row open">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Master-at-Arms</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
-         <div class="row open">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Gunner's Mate</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
+         <div class="row npc">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-e8.png" /></div><div class="mani-field position"><p>Gunner's Mate</p><p class="secondary">Acting Chief T&S Officer</p></div><div class="mani-field character"><p><a href="/manifest/losia-mora-npc">Losia Mora <em>(NPC)</em></a></p></div>
          </div>
       </div>  
       
       <div id="civilians"></div>
-      <div class="department section open">      
+      <div class="department section">      
          <h3><a href="https://wiki.bravofleet.com/index.php?title=Civilians" target="_blank">CIVILIANS</a></h3>
          <div class="row open">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Galley/Lounge Manager</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
