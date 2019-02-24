@@ -46,16 +46,17 @@
         }
 
         function toggleNpcPositions() {
-            $('.npcToggle').on('click', function(e) {
+            $('.npc-toggle').on('click', function(e) {
                     e.preventDefault();
-                    $('.openButton').toggle();
-                    $('.open').slideToggle();
+                    $('.npc-open-btn').toggle();
+                    $('.npc').slideToggle();
                 });
         }
 
         checkLogin();
         autoSearchUsers();
         togglePositions();
+        toggleNpcPositions();
     })
 
 })( jQuery );
