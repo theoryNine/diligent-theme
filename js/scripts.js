@@ -37,6 +37,12 @@
             }
         }
 
+        $('.openToggle').on('click', function(e) {
+            e.preventDefault();
+            $('.openButton').toggle();
+            $('.open').fadeToggle();
+        });
+
         checkLogin();
         autoSearchUsers();
     })
