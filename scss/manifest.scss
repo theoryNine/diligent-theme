@@ -36,7 +36,10 @@
 
 .position {
    lost-column: 4/10;
-   text-align: center;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
 
    .secondary {
       font-size: .7rem;
