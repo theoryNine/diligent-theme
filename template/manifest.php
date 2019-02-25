@@ -8,7 +8,7 @@ Template Name: Manifest Template
 
 get_header(); 
 
-wp_enqueue_script( 'manifest.js', get_template_directory_uri() . '/js/manifest.js', array('jquery'), true ); ?>
+?>
 
 <body <?php body_class(); ?>>
    <div class="container">
