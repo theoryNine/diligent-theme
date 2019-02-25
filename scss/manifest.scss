@@ -4,7 +4,9 @@
 }
 
 .mani-field {
-   display: inline-block;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
 }
 
 .manifest {
@@ -42,8 +44,8 @@
    align-items: center;
 
    .secondary {
-      font-size: .7rem;
-      line-height: .7rem;
+      font-size: .7em;
+      line-height: .7em;
    }
 
    p {
