@@ -30,7 +30,8 @@
 
 .rank {
    lost-column: 3/10;
-   text-align: right;
+   display: flex;
+   align-items: center;
    img {
       max-width: 100%;
    }
