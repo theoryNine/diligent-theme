@@ -8,9 +8,6 @@
 (function( $ ) {
 
     $(document).ready(function() {
-        var openPositionsShown = true;
-        var npcPositionsShown = true;
-
         function checkLogin() {
             var $navMenu = $('#menu-nav li');
             var $userToolbar = $('.user-toolbar');
