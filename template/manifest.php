@@ -169,6 +169,9 @@ These could be SPANs or DIVs and with entirely different classes.
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o4.png" /></div><div class="mani-field position"><p>Chief Medical Officer</p></div><div class="mani-field character"><p><a href="/manifest/caelestis-everett">Cælestis Everett</a></p></div>
          </div>
          <div class="row">
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" /></div><div class="mani-field position"><p>Assistant Chief Medical Officer</p></div><div class="mani-field character"><p><a href="/manifest/rosheen-hughes">Rosheen Hughes</a></p></div>
+         </div>
+         <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" /></div><div class="mani-field position"><p>Ship's Counselor</p></div><div class="mani-field character"><p><a href="/manifest/tlaruk-akaigan">T’Laruk Akaigan</a></p></div>
          </div>
          <div class="row open">
