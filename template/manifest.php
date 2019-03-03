@@ -166,7 +166,7 @@ These could be SPANs or DIVs and with entirely different classes.
       <div class="department section">      
          <h3><a href="https://wiki.bravofleet.com/index.php?title=Medical_Department" target="_blank">MEDICAL</a></h3>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" /></div><div class="mani-field position"><p>Rosheen Hughes</a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o4.png" /></div><div class="mani-field position"><p>Chief Medical Officer</p></div><div class="mani-field character"><p><a href="/manifest/rosheen-hughes">Rosheen Hughes</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" /></div><div class="mani-field position"><p>Ship's Counselor</p></div><div class="mani-field character"><p><a href="/manifest/tlaruk-akaigan">T’Laruk Akaigan</a></p></div>
