@@ -230,7 +230,7 @@ These could be SPANs or DIVs and with entirely different classes.
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Stellar Cartographer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row npc">
-            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-e8.png" /></div><div class="mani-field position"><p>Scientist's Mate</p><p class="secondary">Acting Chief Science Officer</p></div><div class="mani-field character"><p><a href="jaarvid-grix-npc">Jaarvid Grix <em>(NPC)</em></a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-e8.png" /></div><div class="mani-field position"><p>Scientist's Mate</p></div><div class="mani-field character"><p><a href="jaarvid-grix-npc">Jaarvid Grix <em>(NPC)</em></a></p></div>
          </div>
       </div>
 
