@@ -31,15 +31,21 @@
    display: flex;
    flex-direction: row;
    flex-wrap: wrap;
-   justify-content: space-between;
+   justify-content: flex-end;
    font-size: 1.2em;
    font-weight: 700;
    list-style-type: none;
    width: 100%;
-   max-width: 590px;
+
+   .menu-item-22,
+   .menu-item-1384 {
+      margin-right: 0;
+   }
 
    li {
       padding-left: 0;
+      margin-right: .8rem;
+
    }
 }
 
@@ -65,6 +71,10 @@
       a {
          max-width: 200px;
       }
+   }
+
+   .menu {
+      justify-content: center;
    }
 }
 
