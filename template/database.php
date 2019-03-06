@@ -25,6 +25,7 @@ These could be SPANs or DIVs and with entirely different classes.
 <div class="intro section">
       <h1 class="text-center">diligent <span class="heavy">DATABASE</span></span></h1>
       <p class="text-center">A collection of resources and discoveries</p>
+      <p class="text-center subnav-section"><a href="#crew-resources">crew resources</a></p>
 </div>
 
 <div class="section">
