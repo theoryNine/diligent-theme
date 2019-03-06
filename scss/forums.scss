@@ -169,6 +169,11 @@ div.bbp-submit-wrapper {
    background: var(--black);
 }
 
+#bbpress-forums li.bbp-body ul.forum, #bbpress-forums li.bbp-body ul.topic {
+  display: flex;
+  align-items: center;
+}
+
 #bbpress-forums .status-closed, #bbpress-forums .status-closed a {
    background-color: transparent;
 }
