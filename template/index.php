@@ -36,8 +36,8 @@ get_header(); ?>
          Arriving through the Epatha gateway the <em>Diligent</em> joins a cadre of Starfleet ships working to establish a new foothold in the far reaches of the 
          Delta Quadrant. Shaken by the recent losses of the Solarian Gateway and Starbase 900 to the Borg, Starfleet resumes its mission of exploration and 
          peacemaking. The <em>Diligent</em>, under the command of <a href="/manifest/elgor-rae">Elgor Rae</a>, strikes out into the vast final frontier.</p>
-         <p class="text-center"><em>The Diligent is rated <a href="https://www.bravofleet.com/bylaws/#By-Law_.232.6_-_Bravo_Fleet_Simulation_Rating_Guidelines" target="_blank">
-         Mature for ages 16+</a></em></p>
+         <p class="text-center"><em>The Diligent is Rated <a href="https://www.bravofleet.com/bylaws/#By-Law_.232.6_-_Bravo_Fleet_Simulation_Rating_Guidelines" target="_blank">
+         Mature, for Ages 16+</a></em></p>
 
          </div>
 
