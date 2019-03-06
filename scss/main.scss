@@ -46,6 +46,12 @@ a {
     box-shadow: 0 0 12px 1px var(--white);
     margin-bottom: 10px;
 
+    a {
+        &:hover {
+            color: var(--white);
+        }
+    }
+
     img {
         margin-left: .5rem;
         margin-right: .5rem;
