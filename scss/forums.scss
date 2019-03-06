@@ -161,6 +161,8 @@ div.bbp-submit-wrapper {
 
 #bbpress-forums li.bbp-body ul.forum, #bbpress-forums li.bbp-body ul.topic.status-pending {
    background-color: var(--black);
+   display: flex;
+   align-items: center;
 }
 
 #bbpress-forums #bbp-your-profile fieldset input, #bbpress-forums #bbp-your-profile fieldset textarea {
