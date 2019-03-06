@@ -78,3 +78,9 @@
       line-height: 1.1em;
    }
 }
+
+@media (max-width: 450px) {
+   .menu li {
+      margin-top: 1em;
+   }
+}
