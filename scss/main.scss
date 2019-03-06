@@ -43,13 +43,10 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    //box-shadow: 0 0 12px 1px var(--white);
     margin-bottom: 10px;
 
-    a {
-        &:hover {
-            color: var(--white);
-        }
+    &:hover {
+        box-shadow: 0 0 12px 1px var(--white);
     }
 
     img {
