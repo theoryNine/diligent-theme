@@ -18,7 +18,7 @@ These could be SPANs or DIVs and with entirely different classes.
 */
 ?>
 
-<div class="hero"><img src="/wp-content/themes/diligent/images/diligentphasers.png" /></div>
+<div class="hero"><img src="/wp-content/themes/diligent/images/diligentphasershero.jpg" /></div>
 
 <div class="section user-toolbar">
       <p>
