@@ -109,10 +109,10 @@ These could be SPANs or DIVs and with entirely different classes.
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o4.png" /></div><div class="mani-field position"><p>Executive Officer</p></div><div class="mani-field character"><p><a href="/manifest/marcus-bancroft/">Marcus Bancroft</a></p></div>
          </div>
-         <div class="row open">
+         <div class="row npc">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o4.png" /></div><div class="mani-field position"><p>Second Officer</p><p class="secondary">Chief Science Officer</p></div><div class="mani-field character"><p><a href="/manifest/caelestis-everett">Cælestis Everett</a></p></div>
          </div>
-         <div class="row npc">
+         <div class="row open">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Chief of the Boat</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
       </div>
