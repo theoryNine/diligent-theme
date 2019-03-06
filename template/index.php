@@ -28,7 +28,7 @@ get_header(); ?>
       <div class="hero">
          <img src="/wp-content/themes/diligent/images/eud-diligent-hero.png" />
       </div>
-      <a href="/forums/topic/episode-2"><div class="sotm section"><p>Episode 2: "Through the Doorway and Into the Storm"</p></div></a>
+      <a href="/forums/topic/episode-2"><div class="sotm section"><p>Episode 2: Through the Doorway and Into the Storm</p></div></a>
       <div class="intro section">
          <h1 class="text-center">welcome to the <span class="heavy">DILIGENT</span></h1>
          <p>The <em>USS Diligent</em>, NCC-80651, is a Play-by-Forum RPG based out of <a href="http://www.bravofleet.com" target="_blank">Bravo Fleet's</a> 
