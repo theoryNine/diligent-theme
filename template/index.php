@@ -38,9 +38,16 @@ get_header(); ?>
          peacemaking. The <em>Diligent</em>, under the command of <a href="/manifest/elgor-rae">Elgor Rae</a>, strikes out into the vast final frontier.</p>
          <p class="text-center"><em>The Diligent is Rated <a href="https://www.bravofleet.com/bylaws/#By-Law_.232.6_-_Bravo_Fleet_Simulation_Rating_Guidelines" target="_blank">
          Mature, for Ages 16+</a></em></p>
-
+         <div class="affiliates">
+            <a href="https://www.bravofleet.com" class="affiliate bravo-fleet" target="_blank">
+               <div class="">
+                  <p>Bravo Fleet</p>
+               </div>
+            </a>
+            <a href="https://www.bravofleet.com/group/task-force-38" class="affiliate tf-38" target="_blank">
+               <p>&nbsp;</p>
+            </a>
          </div>
-
    </div>
 </body>
 
