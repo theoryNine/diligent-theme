@@ -320,6 +320,7 @@ input[name="select_recipient"] {
   padding: 0;
 
   a {
+    color: var(--truewhite);
     text-transform: uppercase;
     width: 33%;
     flex-direction: row;
@@ -331,14 +332,14 @@ input[name="select_recipient"] {
     &.profile-link,
     &.discord-link {
       display: flex;
-      border-right: 1px solid var(--truewhite);
+      border-right: 1px solid var(--medium-white);
       opacity: .8;
       justify-content: center;
       letter-spacing: 1px;
 
       &:hover {
         opacity: 1;
-        color: var(--white);
+        color: var(--truewhite);
       }
     }
 
