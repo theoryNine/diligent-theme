@@ -53,8 +53,7 @@
             }
 
             if ($('.unread-count').text().indexOf("0") === -1) {
-                $('.count-and-alert').css({'color':'#ff9999'});
-                $('.message-count').css({'color':'#ff9999'});
+                $('.message-count').css({'background-color':'rgb(169, 47, 45)'});
                 $('.count-and-alert').css({'display':'flex'});
             }
         }

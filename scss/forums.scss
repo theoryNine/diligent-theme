@@ -315,8 +315,44 @@ input[name="select_recipient"] {
 
 .user-toolbar {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
+  padding: 0;
+
+  a {
+    text-transform: uppercase;
+    width: 33%;
+    flex-direction: row;
+    justify-content: center;
+    padding: 7px;
+    transition: .3s ease all;
+
+    &.message-count,
+    &.profile-link,
+    &.discord-link {
+      display: flex;
+      border-right: 1px solid var(--medium-white);
+      opacity: .8;
+      justify-content: center;
+
+      &:hover {
+        opacity: 1;
+        color: var(--white);
+      }
+    }
+
+    &.message-count {
+      background-color: var(--tfpurple);
+    }
+
+    &.profile-link {
+      background-color: var(--dark-gray);
+    }
+
+    &.discord-link {
+      background-color: var(--bfBlue);
+    }
+  }
 }
 
 .user-toolbar p {
@@ -327,16 +363,6 @@ input[name="select_recipient"] {
 #bbpress-forums div.bbp-the-content-wrapper textarea.bbp-the-content {
   font-family: Roboto,sans-serif;
   font-size: 14px;
-}
-
-.profile-link {
-  margin-left: 5px;
-  display: flex;
-  align-items: center;
-
-  div {
-    width: 5rem;
-  }
 }
 
 .profile-icon {
@@ -394,4 +420,10 @@ label[for="bbp_topic_tags"] {
 
 .bbp-topic-permalink {
   font-size: .9rem;
+}
+
+@media (max-width: 450px) {
+  .user-toolbar {
+    font-size: .8em;
+  }
 }

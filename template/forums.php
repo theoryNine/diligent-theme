@@ -21,24 +21,22 @@ These could be SPANs or DIVs and with entirely different classes.
 <div class="hero"><img src="/wp-content/themes/diligent/images/diligentphasershero.jpg" /></div>
 
 <div class="section user-toolbar">
-      <p>
-            <a class="message-count" href="<?php echo do_shortcode('[bbpm-messages-link]') ?>">
-                  <img src="/wp-content/themes/diligent/images/mail-icon.svg" class="mail-icon" alt="Inbox" />
-                  <div>Messages</div> 
-                  <div class="count-and-alert">
-                        : <div class="unread-count"><?php echo do_shortcode('[bbpm-unread-count]') ?></div>
-                        <div class="new-msg-alert">NEW!</div>
-                  </div>
-            </a>
-            <a href="<?php echo do_shortcode('[bbp_profile_link_shortcode]') ?>" class="profile-link">
-                  <img src="/wp-content/themes/diligent/images/user-icon.svg" class="profile-icon" alt="Profile" /> 
-                  <div>My Profile</div>
-            </a>
-            <a href="https://discord.gg/zwZp9fe" target="_blank" class="profile-link">
-                  <img src="/wp-content/themes/diligent/images/chat-icon.svg" class="profile-icon" alt="Profile" />
-                  <div>Discord</div>
-            </a>
-      </p>
+      <a class="message-count" href="<?php echo do_shortcode('[bbpm-messages-link]') ?>">
+            <!-- <img src="/wp-content/themes/diligent/images/mail-icon.svg" class="mail-icon" alt="Inbox" /> -->
+            <div>Messages</div> 
+            <div class="count-and-alert">
+                  : <div class="unread-count"><?php echo do_shortcode('[bbpm-unread-count]') ?></div>
+                  <div class="new-msg-alert">NEW!</div>
+            </div>
+      </a>
+      <a href="<?php echo do_shortcode('[bbp_profile_link_shortcode]') ?>" class="profile-link">
+            <!-- <img src="/wp-content/themes/diligent/images/user-icon.svg" class="profile-icon" alt="Profile" />  -->
+            <div>Profile</div>
+      </a>
+      <a href="https://discord.gg/zwZp9fe" target="_blank" class="discord-link">
+            <!-- <img src="/wp-content/themes/diligent/images/chat-icon.svg" class="profile-icon" alt="Profile" /> -->
+            <div>Discord</div>
+      </a>
 </div>
 
 <div id="primary" class="site-content">
