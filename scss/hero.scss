@@ -26,6 +26,7 @@
       background-position: center;
       opacity: .8;
       color: var(--white);
+      transition: .3s ease all;
 
       &:hover {
          opacity: 1;
