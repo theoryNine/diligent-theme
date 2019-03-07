@@ -266,7 +266,10 @@ These could be SPANs or DIVs and with entirely different classes.
          <div class="row open">
             <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Barber</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
-      </div>  
+      </div>
+
+      <p class="text-center disclaimer">The ranks used on this page were created by Kuro-chan of <a href="http://kuro-rpg.net" target="_blank"> Kuro-RPG Please do not modify the images 
+      in any way. If you wish to obtain them and an up-to-date copy, access the <a href="http://kuro-rpg.net" target="_blank"> Kuro-RPG Website.</p>  
 
       </div>
    </div>
