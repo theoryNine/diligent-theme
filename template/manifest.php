@@ -269,7 +269,7 @@ These could be SPANs or DIVs and with entirely different classes.
       </div>
 
       <p class="text-center disclaimer">The ranks used on this page were created by Kuro-chan of <a href="http://kuro-rpg.net" target="_blank"> Kuro-RPG Please do not modify the images 
-      in any way. If you wish to obtain them and an up-to-date copy, access the <a href="http://kuro-rpg.net" target="_blank"> Kuro-RPG Website.</p>  
+      in any way. If you wish to obtain them and an up-to-date copy, access the <a href="http://kuro-rpg.net" target="_blank"> Kuro-RPG Website.</a></p>  
 
       </div>
    </div>
