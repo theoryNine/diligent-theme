@@ -331,9 +331,10 @@ input[name="select_recipient"] {
     &.profile-link,
     &.discord-link {
       display: flex;
-      border-right: 1px solid var(--medium-white);
+      border-right: 1px solid var(--truewhite);
       opacity: .9;
       justify-content: center;
+      letter-spacing: 1px;
 
       &:hover {
         opacity: 1;
@@ -346,11 +347,11 @@ input[name="select_recipient"] {
     }
 
     &.profile-link {
-      background-color: var(--dark-gray);
+      background-color: var(--tfpurple);
     }
 
     &.discord-link {
-      background-color: var(--bfBlue);
+      background-color: var(--tfpurple);
       border-right: none;
     }
   }
