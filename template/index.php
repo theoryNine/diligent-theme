@@ -40,12 +40,11 @@ get_header(); ?>
          Mature, for Ages 16+</a></em></p>
          <div class="affiliates">
             <a href="https://www.bravofleet.com" class="affiliate bravo-fleet" target="_blank">
-               <div class="">
+               <div>
                   <p>Bravo Fleet</p>
                </div>
             </a>
             <a href="https://www.bravofleet.com/group/task-force-38" class="affiliate tf-38" target="_blank">
-               <p>&nbsp;</p>
             </a>
          </div>
    </div>
