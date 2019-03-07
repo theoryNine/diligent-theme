@@ -51,9 +51,11 @@ a {
     justify-content: center;
     margin-bottom: 10px;
     transition: all 0.3s;
+    opacity: .9;
 
     &:hover {
         box-shadow: 0 0 12px 1px var(--white);
+        opacity: 1;
     }
 
     p {
