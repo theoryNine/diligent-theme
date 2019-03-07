@@ -32,8 +32,7 @@
    flex-direction: row;
    flex-wrap: wrap;
    justify-content: flex-end;
-   font-size: 1.2em;
-   font-weight: 700;
+   font-size: 1.4em;
    list-style-type: none;
    width: 100%;
 
@@ -82,5 +81,13 @@
 @media (max-width: 650px) {
    .menu li {
       margin-top: .5em;
+   }
+}
+
+@media (max-width: 450px) {
+   .menu {
+      a {
+         font-size: .9em;
+      }
    }
 }
