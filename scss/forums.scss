@@ -351,6 +351,7 @@ input[name="select_recipient"] {
 
     &.discord-link {
       background-color: var(--bfBlue);
+      border-right: none;
     }
   }
 }
