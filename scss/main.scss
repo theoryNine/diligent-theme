@@ -166,6 +166,10 @@ a:hover {
    & div {
       background-color: var(--tfpurple);
       padding: .5em;
+
+      &:hover {
+         color: var(--truewhite);
+      }
    }
 
    &:hover {
