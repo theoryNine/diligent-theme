@@ -323,6 +323,10 @@ input[name="select_recipient"] {
     padding: .5em;
     text-transform: uppercase;
     opacity: .9;
+
+    &:hover {
+      opacity: 1;
+    }
   }
 
   a {
