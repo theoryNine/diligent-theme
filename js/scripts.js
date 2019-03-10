@@ -42,7 +42,7 @@
 
         function checkLogin() {
             var $navMenu = $('#menu-nav li');
-            var $userToolbar = $('.user-toolbar');
+            var $userToolbar = $('.user-toolbar-hide');
             var $crewResources = $('.crew-resources');
             var $joinLink = $('.menu-item-70');
 

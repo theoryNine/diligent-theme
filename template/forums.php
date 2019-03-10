@@ -21,7 +21,7 @@ These could be SPANs or DIVs and with entirely different classes.
 <div class="hero"><img src="/wp-content/themes/diligent/images/diligentphasershero.jpg" /></div>
 
 <div class="section user-toolbar">
-      <a class="message-count" href="<?php echo do_shortcode('[bbpm-messages-link]') ?>">
+      <a class="message-count user-toolbar-hide" href="<?php echo do_shortcode('[bbpm-messages-link]') ?>">
             <!-- <img src="/wp-content/themes/diligent/images/mail-icon.svg" class="mail-icon" alt="Inbox" /> -->
             <div>Messages</div> 
             <div class="count-and-alert">
@@ -29,7 +29,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   <div class="new-msg-alert">NEW!</div>
             </div>
       </a>
-      <a href="<?php echo do_shortcode('[bbp_profile_link_shortcode]') ?>" class="profile-link">
+      <a href="<?php echo do_shortcode('[bbp_profile_link_shortcode]') ?>" class="profile-link user-toolbar-hide">
             <!-- <img src="/wp-content/themes/diligent/images/user-icon.svg" class="profile-icon" alt="Profile" />  -->
             <div>Profile</div>
       </a>
