@@ -159,6 +159,22 @@ a:hover {
     }
  }
 
+ .back-button {
+   text-transform: uppercase;
+   opacity: .9;
+   color: var(--white);
+   transition: .3s ease all;
+ 
+   & div {
+     padding: .5em;
+   }
+ 
+   &:hover {
+     opacity: 1;
+     color: var(--truwhite);
+   }
+ }
+
 @media (max-width: 782px) {
     #wp-admin-bar-site-name,
     #wp-admin-bar-wp-logo,

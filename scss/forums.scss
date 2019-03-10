@@ -313,21 +313,6 @@ input[name="select_recipient"] {
   height: 60px;
 }
 
-.back-button {
-  text-transform: uppercase;
-  opacity: .9;
-  color: var(--white);
-
-  & div {
-    padding: .5em;
-  }
-
-  &:hover {
-    opacity: 1;
-    color: var(--truwhite);
-  }
-}
-
 .user-toolbar {
   display: flex;
   justify-content: space-around;
