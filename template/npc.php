@@ -18,7 +18,7 @@ These could be SPANs or DIVs and with entirely different classes.
 */
 ?>
 
-<div class="section user-toolbar back-button"><p><a href="javascript:history.back()">Back</a></p></div>
+<a href="javascript:history.back()"><div class="section user-toolbar back-button"><p>Back</p></div></a>
 
 <div class="bio">
 <div class="section">
