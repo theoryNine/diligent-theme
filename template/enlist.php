@@ -29,7 +29,7 @@ These could be SPANs or DIVs and with entirely different classes.
       <p>Check out the <a href="/manifest/elgor-rae">CO</a> and <a href="/manifest/marcus-bancroft">XO</a> profiles to see what kind of detail we're looking for.</p>
       <p>Once you've submitted an application you should hear back within 24-48 hours.</p>
       <p>Upon being accepted you will receive a welcome email and login details for the site and forums.</p>
-      <p>Building your character and have questions? Send me an email at <a href="mailto:elgor.rae@gmail.com">elgor.rae@gmail.com</a> and I'll be happy to help.</p>
+      <p>Building your character and have questions? Send me a message on <a href="https://discord.gg/zwZp9fe">our Discord server</a> and I'll be happy to help.</p>
 </div>
 
 <div class="section">
