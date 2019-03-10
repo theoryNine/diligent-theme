@@ -166,6 +166,7 @@ a:hover {
    & div {
       background-color: var(--tfpurple);
       padding: .5em;
+      transition: .3s ease all;
 
       &:hover {
          color: var(--truewhite);
