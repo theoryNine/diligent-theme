@@ -12,64 +12,63 @@ a {
 #wp-admin-bar-new-content,
 #wp-admin-bar-customize,
 #wp-admin-bar-wp-logo,
-#wp-admin-bar-site-name
- {
-    display: none;
+#wp-admin-bar-site-name {
+   display: none;
 }
 
 #wp-admin-bar-site-name a::before {
-    content: '';
-    display: none;
+   content: '';
+   display: none;
 }
 
 .quicklinks {
-    display: flex;
-    justify-content: flex-end;
+   display: flex;
+   justify-content: flex-end;
 }
 
 .disclaimer {
-    font-weight: 200;
-    font-size: .9em;
-    line-height: 1.3;
+   font-weight: 200;
+   font-size: .9em;
+   line-height: 1.3;
 }
 
 .subnav-section {
-    font-size: .9rem;
-    text-transform: lowercase;
+   font-size: .9rem;
+   text-transform: lowercase;
 }
 
 .section.sotm {
-    background-color: var(--tfpurple);
-    color: var(--white);
-    text-align: center;
-    font-size: 1.2rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    //text-shadow: 2px 2px var(--black);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 10px;
-    transition: all 0.3s;
-    opacity: .9;
+   background-color: var(--tfpurple);
+   color: var(--white);
+   text-align: center;
+   font-size: 1.2rem;
+   font-weight: 700;
+   text-transform: uppercase;
+   //text-shadow: 2px 2px var(--black);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-bottom: 10px;
+   transition: all 0.3s;
+   opacity: .9;
 
-    &:hover {
-        box-shadow: 0 0 12px 1px var(--white);
-        opacity: 1;
-    }
+   &:hover {
+      box-shadow: 0 0 12px 1px var(--white);
+      opacity: 1;
+   }
 
-    p {
-        margin: 0;
-    }
+   p {
+      margin: 0;
+   }
 
-    img {
-        margin-left: .5rem;
-        margin-right: .5rem;
+   img {
+      margin-left: .5rem;
+      margin-right: .5rem;
 
-        @media (max-width: 560px) {
-            display: none;
-        }
-    }
+      @media (max-width: 560px) {
+         display: none;
+      }
+   }
 }
 
 a:hover {
@@ -98,7 +97,7 @@ a:hover {
 }
 
 .hidden {
-    display: none;
+   display: none;
 }
 
 .section h1 {
@@ -106,94 +105,97 @@ a:hover {
 }
 
 .row {
-    display: flex;
+   display: flex;
 }
 
 .Zebra_Tooltip {
-    background: var(--dark-gray);
-    border: 1px solid var(--dark-white);
-    font-size: 14px;
+   background: var(--dark-gray);
+   border: 1px solid var(--dark-white);
+   font-size: 14px;
 }
 
 .affiliates {
-    display: flex;
-    justify-content: space-between;
-    font-size: 1.6rem;
-    margin: -10px;
-    margin-top: 30px;
-    text-transform: uppercase;
- 
-    .affiliate {
-       border-top: 1px solid var(--dark-white);
-       display: flex;
-       width: 50%;
-       justify-content: center;
-       background-repeat: no-repeat;
-       background-position: center;
-       opacity: .8;
-       color: var(--white);
-       transition: .3s ease all;
- 
-       &:hover {
-          opacity: 1;
-          color: var(--white);
-       }
- 
-       p {
-          margin: 20px 0;
-          text-shadow: 2px 3px var(--black);
-       }
- 
-       &.bravo-fleet {
-          background-image: url("/wp-content/themes/diligent/images/bflogo.png");
-          background-color: var(--dark-gray);
-          border-right: 1px solid var(--dark-white);
-          background-size: 50%;
-       }
- 
-       &.tf-38 {
-          background-image: url("/wp-content/themes/diligent/images/tf38logo.png");
-          background-color: var(--dark-gray);
-          background-size: 25%;
-       }
-    }
- }
+   display: flex;
+   justify-content: space-between;
+   font-size: 1.6rem;
+   margin: -10px;
+   margin-top: 30px;
+   text-transform: uppercase;
 
- .back-button {
+   .affiliate {
+      border-top: 1px solid var(--dark-white);
+      display: flex;
+      width: 50%;
+      justify-content: center;
+      background-repeat: no-repeat;
+      background-position: center;
+      opacity: .8;
+      color: var(--white);
+      transition: .3s ease all;
+
+      &:hover {
+         opacity: 1;
+         color: var(--white);
+      }
+
+      p {
+         margin: 20px 0;
+         text-shadow: 2px 3px var(--black);
+      }
+
+      &.bravo-fleet {
+         background-image: url("/wp-content/themes/diligent/images/bflogo.png");
+         background-color: var(--dark-gray);
+         border-right: 1px solid var(--dark-white);
+         background-size: 50%;
+      }
+
+      &.tf-38 {
+         background-image: url("/wp-content/themes/diligent/images/tf38logo.png");
+         background-color: var(--dark-gray);
+         background-size: 25%;
+      }
+   }
+}
+
+.back-button {
    text-transform: uppercase;
    opacity: .9;
    color: var(--white);
    transition: .3s ease all;
- 
+
    & div {
-     padding: .5em;
+      background-color: var(--tfpurple);
+      padding: .5em;
    }
- 
+
    &:hover {
-     opacity: 1;
-     color: var(--truwhite);
+      opacity: 1;
+      color: var(--truwhite);
    }
- }
+}
 
 @media (max-width: 782px) {
-    #wp-admin-bar-site-name,
-    #wp-admin-bar-wp-logo,
-    #wp-admin-bar-site-name,
-    #wp-admin-bar-customize,
-    #wp-admin-bar-new-content,
-    #wp-admin-bar-comments {
-        display: none !important;
-    }
+
+   #wp-admin-bar-site-name,
+   #wp-admin-bar-wp-logo,
+   #wp-admin-bar-site-name,
+   #wp-admin-bar-customize,
+   #wp-admin-bar-new-content,
+   #wp-admin-bar-comments {
+      display: none !important;
+   }
 }
 
 @media (max-width: 450px) {
-    .affiliates {
-       .affiliate {
-          &.bravo-fleet,
-          &.tf-38 {
-             background-size: contain;
-             font-size: 1.2rem;
-          }
-       }
-    }
- }
+   .affiliates {
+      .affiliate {
+
+         &.bravo-fleet,
+         &.tf-38 {
+            background-size: contain;
+            font-size: 1.2rem;
+         }
+      }
+   }
+}
