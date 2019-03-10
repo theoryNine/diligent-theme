@@ -319,6 +319,10 @@ input[name="select_recipient"] {
   align-items: center;
   padding: 0;
 
+  &.back-button {
+    padding: .5em;
+  }
+
   a {
     color: var(--truewhite);
     text-transform: uppercase;
