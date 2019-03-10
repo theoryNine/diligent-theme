@@ -22,7 +22,7 @@ These could be SPANs or DIVs and with entirely different classes.
 
 <div class="hero"><img src="/wp-content/themes/diligent/images/map.jpg" /></div>
 
-<a href="javascript:history.back()"><div class="section user-toolbar back-button"><p>Back</p></div></a>
+<a href="javascript:history.back()" class="back-button"><div class="section user-toolbar"><p>Back</p></div></a>
 
 <div class="section">
    <div class="page">

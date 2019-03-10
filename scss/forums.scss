@@ -313,22 +313,23 @@ input[name="select_recipient"] {
   height: 60px;
 }
 
+.back-button {
+  padding: .5em;
+  text-transform: uppercase;
+  opacity: .9;
+  color: var(--white);
+
+  &:hover {
+    opacity: 1;
+    color: var(--truwhite);
+  }
+}
+
 .user-toolbar {
   display: flex;
   justify-content: space-around;
   align-items: center;
   padding: 0;
-
-  &.back-button {
-    padding: .5em;
-    text-transform: uppercase;
-    opacity: .9;
-
-    &:hover {
-      opacity: 1;
-      color: var(--truwhite);
-    }
-  }
 
   a {
     color: var(--truewhite);
