@@ -150,7 +150,7 @@ These could be SPANs or DIVs and with entirely different classes.
                      <p>Yeoman</p>
                   </div>
                   <div class="mani-field character">
-                     <p><a href="/manifest/cade-lawson-npc">Cade Lawson <em>(NPC)</em></a></p>
+                     <p><a href="/manifest/cade-rhys-npc">Cade Rhys <em>(NPC)</em></a></p>
                   </div>
                </div>
             </div>
