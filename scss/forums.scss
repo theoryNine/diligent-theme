@@ -113,6 +113,12 @@ div.bbp-submit-wrapper {
 .bbp-header, .bbp-footer {
   background: var(--primaryColor) !important;
   opacity: .8;
+
+  a {
+    &:hover {
+      color: var(--truewhite);
+    }
+  }
 }
 
 .bbpm-inline-img a,
