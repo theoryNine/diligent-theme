@@ -268,6 +268,15 @@ div.bbp-template-notice a:hover {
   border: 1px solid var(--medium-white);
   color: var(--white);
   padding: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+  opacity: .9;
+  transition: .3s ease all;
+
+  &:hover {
+    opacity: 1;
+    color: var(--truewhite);
+  }
 }
 
 .bbpm-results input[type="radio"] {
