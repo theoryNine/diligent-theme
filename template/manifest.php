@@ -531,7 +531,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   </div>
                </div>
                <div class="row npc">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/white.png" /></div>
                   <div class="mani-field position">
                      <p>Captain's Pet</p>
                   </div>
