@@ -530,6 +530,15 @@ These could be SPANs or DIVs and with entirely different classes.
                      <p><a href="/enlist">Position Available</a></p>
                   </div>
                </div>
+               <div class="row npc">
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div>
+                  <div class="mani-field position">
+                     <p>Captain's Pet</p>
+                  </div>
+                  <div class="mani-field character">
+                     <p><a href="/manifest/edo-npc">Edo</a></p>
+                  </div>
+               </div>
             </div>
 
             <p class="text-center disclaimer">The ranks used on this page were created by Kuro-chan of <a href="http://kuro-rpg.net"
