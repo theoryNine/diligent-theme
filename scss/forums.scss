@@ -56,8 +56,12 @@ div.bbp-template-notice.info {
   appearance: none;
   background: var(--dark-gray) !important;
   border-radius: 0;
-  //border: 1px solid var(--white);
+  border: 1px solid var(--white);
   padding: 5px;
+}
+
+#bbp_reply_content {
+  border: none;
 }
 
 #bbpress-forums li.bbp-header {
