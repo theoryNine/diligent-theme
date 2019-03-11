@@ -510,7 +510,7 @@ These could be SPANs or DIVs and with entirely different classes.
             </div>
 
             <div id="civilians"></div>
-            <div class="department section open">
+            <div class="department section">
                <h3><a href="https://wiki.bravofleet.com/index.php?title=Civilians" target="_blank">CIVILIANS</a></h3>
                <div class="row open">
                   <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div>
