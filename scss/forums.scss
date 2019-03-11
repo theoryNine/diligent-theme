@@ -116,8 +116,6 @@ div.bbp-submit-wrapper {
  opacity: .9;
 
   &:hover {
-    background: var(--white);
-    color: var(--black);
     cursor: pointer;
     opacity: 1;
   }
@@ -288,9 +286,9 @@ div.bbp-template-notice a:hover {
 .bbpm-items .bbpm-head .bbpm-left .bbpm-new, 
 .bbpm-messages .bbpm-head .bbpm-left > a,
 input[name="select_recipient"] {
-  background: var(--red);
+  background: var(--primaryColor);
   text-decoration: none;
-  border: 1px solid var(--white);
+  border: 1px solid var(--medium-white);
   border-radius: 0;
   text-transform: uppercase;
   font-size: .9rem;
@@ -298,11 +296,12 @@ input[name="select_recipient"] {
   font-weight: 700;
   margin-bottom: 12px;
   letter-spacing: 1px;
-  transition: all 0.5s ease;
+  transition: all 0.3s ease;
+  opacity: .9;
 
     &:hover {
-      background: var(--white);
-      color: var(--black) !important;
+      opacity: 1;
+      color: var(--truewhite);
     }
 }
 
