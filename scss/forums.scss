@@ -67,6 +67,15 @@ div.bbp-template-notice.info {
 .d4p-attachment-addfile {
   border: 1px solid var(--medium-white);
   padding: 5px;
+  text-transform: uppercase;
+  background-color: var(--primaryColor);
+  opacity: .9;
+  transition: .3s ease all;
+
+  &:hover {
+    opacity: 1;
+    color: var(--truewhite);
+  }
 }
 
 #bbpress-forums li.bbp-header {
