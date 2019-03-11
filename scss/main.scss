@@ -38,7 +38,7 @@ a {
 }
 
 .section.sotm {
-   background-color: var(--tfpurple);
+   background-color: var(--primaryColor);
    color: var(--white);
    text-align: center;
    font-size: 1.2rem;
@@ -164,7 +164,7 @@ a:hover {
    transition: .3s ease all;
 
    & div {
-      background-color: var(--tfpurple);
+      background-color: var(--primaryColor);
       padding: .5em;
       transition: .3s ease all;
 
