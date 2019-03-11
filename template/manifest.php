@@ -510,7 +510,7 @@ These could be SPANs or DIVs and with entirely different classes.
             </div>
 
             <div id="civilians"></div>
-            <div class="department section open-npc">
+            <div class="department section open">
                <h3><a href="https://wiki.bravofleet.com/index.php?title=Civilians" target="_blank">CIVILIANS</a></h3>
                <div class="row open">
                   <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div>
@@ -528,15 +528,6 @@ These could be SPANs or DIVs and with entirely different classes.
                   </div>
                   <div class="mani-field character">
                      <p><a href="/enlist">Position Available</a></p>
-                  </div>
-               </div>
-               <div class="row npc">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/white.png" /></div>
-                  <div class="mani-field position">
-                     <p>Captain's Pet</p>
-                  </div>
-                  <div class="mani-field character">
-                     <p><a href="/manifest/edo-npc">Edo <em>(NPC)</em></a></p>
                   </div>
                </div>
             </div>
