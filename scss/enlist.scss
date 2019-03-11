@@ -8,7 +8,7 @@
 
 .enlist-form input, .enlist-form textarea {
    background-color: var(--black);
-   border: 1px solid var(--dark-white);
+   border: 1px solid var(--medium-white);
    border-radius: 0;
    padding: 10px;
 }
@@ -84,16 +84,17 @@
     font-size: .7rem;
     font-weight: 700;
     letter-spacing: 1px;
-    background: var(--red);
+    background: var(--primaryColor);
     color: var(--white);
-    border: 1px solid var(--white);
-    transition: all 0.5s ease;
+    border: 1px solid var(--medium-white);
+    transition: all 0.3s ease;
     text-transform: uppercase;
     padding: .4rem;
+    opacity: .9;
 
     &:hover {
-        background: var(--white);
-        color: var(--black);
+        opacity: 1;
+        color: var(--truewhite);
     }    
 }
      
