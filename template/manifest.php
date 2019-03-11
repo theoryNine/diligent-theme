@@ -536,7 +536,7 @@ These could be SPANs or DIVs and with entirely different classes.
                      <p>Captain's Pet</p>
                   </div>
                   <div class="mani-field character">
-                     <p><a href="/manifest/edo-npc">Edo</a></p>
+                     <p><a href="/manifest/edo-npc">Edo <em>(NPC)</a></p>
                   </div>
                </div>
             </div>
