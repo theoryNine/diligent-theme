@@ -21,6 +21,16 @@ a {
    display: none;
 }
 
+.cookie-notice-container {
+   border-top: 1px solid var(--medium-white);
+}
+
+#cookie-notice .cn-button {
+   background-image: none;
+   background-color: var(--tfpurple);
+   text-transform: uppercase;
+}
+
 .quicklinks {
    display: flex;
    justify-content: flex-end;
