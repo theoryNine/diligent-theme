@@ -21,6 +21,20 @@ a {
    display: none;
 }
 
+.edit-toolbar {
+   cursor: pointer;
+   text-align: center;
+
+   a {
+      color: var(--white);
+      padding: 0;
+
+      &:hover {
+         color: var(--truewhite);
+      }
+   }
+}
+
 .cookie-notice-container {
    border-top: 1px solid var(--medium-white);
 }
