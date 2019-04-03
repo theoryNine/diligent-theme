@@ -19,7 +19,7 @@ These could be SPANs or DIVs and with entirely different classes.
 ?>
 
 <a href="javascript:history.back()" class="back-button">Back</a>
-<?php edit_post_link(__('Edit Page')); ?>
+<?php edit_post_link(__('Edit This Character')); ?>
 
 <div class="bio">
 <div class="section">
