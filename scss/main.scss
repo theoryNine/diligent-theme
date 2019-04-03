@@ -8,19 +8,6 @@ a {
    text-decoration: none;
 }
 
-#wp-admin-bar-comments,
-#wp-admin-bar-new-content,
-#wp-admin-bar-customize,
-#wp-admin-bar-wp-logo,
-#wp-admin-bar-site-name {
-   display: none;
-}
-
-#wp-admin-bar-site-name a::before {
-   content: '';
-   display: none;
-}
-
 .post-edit-link,
 .back-button {
    background-color: var(--tfpurple);
