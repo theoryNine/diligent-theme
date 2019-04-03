@@ -18,8 +18,8 @@ These could be SPANs or DIVs and with entirely different classes.
 */
 ?>
 
-<a href="javascript:history.back()" class="back-button"><div class="section user-toolbar"><p>Back</p></div></a>
-<span class="back-button"><div class="section edit-toolbar"><?php edit_post_link(__('Edit Page')); ?></div></span>
+<a href="javascript:history.back()" class="back-button">Back</a>
+<?php edit_post_link(__('Edit Page')); ?>
 
 <div class="bio">
 <div class="section">

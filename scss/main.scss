@@ -21,17 +21,21 @@ a {
    display: none;
 }
 
-.edit-toolbar {
-   cursor: pointer;
+.post-edit-link,
+.back-button {
+   background-color: var(--tfpurple);
    text-align: center;
+   text-transform: uppercase;
+   border: 1px solid var(--medium-white);
+   display: block;
+   margin-top: 10px;
+   padding: .5em;
+   transition: .3s ease all;
+   opacity: .9;
 
-   a {
-      color: var(--white);
-      padding: 0;
-
-      &:hover {
-         color: var(--truewhite);
-      }
+   &:hover {
+      color: var(--truewhite);
+      opacity: 1;
    }
 }
 
