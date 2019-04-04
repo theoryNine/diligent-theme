@@ -102,6 +102,7 @@ These could be SPANs or DIVs and with entirely different classes.
          </p>
       </div>
 
+      <!-- Add open-npc class to the department&section div with no PC players but with NPC's -->
       <div class="section">
          <div class="manifest">
             <div id="command"></div>
@@ -459,15 +460,15 @@ These could be SPANs or DIVs and with entirely different classes.
             </div>
 
             <div id="tactical"></div>
-            <div class="department section open-npc">
+            <div class="department section">
                <h3><a href="https://wiki.bravofleet.com/index.php?title=Security/Tactical_Department" target="_blank">TACTICAL/SECURITY</a></h3>
-               <div class="row open">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div>
+               <div class="row">
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-o1.png" /></div>
                   <div class="mani-field position">
                      <p>Chief Tactical & Security Officer</p>
                   </div>
                   <div class="mani-field character">
-                     <p><a href="/enlist">Position Available</a></p>
+                     <p>APPLICATION PENDING</p>
                   </div>
                </div>
                <div class="row open">
