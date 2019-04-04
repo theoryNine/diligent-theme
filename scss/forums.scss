@@ -6,6 +6,18 @@
    .bbp-topic-form, .bbp-reply-form, .bbp-topic-tag-form {
      background: var(--black);
   }
+
+  red {
+    color: red;
+  }
+  
+  yellow {
+    color: var(--yellow);
+  }
+  
+  blue {
+    color: var(--light-blue);
+  }
 }
 #bbpress-forums .status-closed {
   opacity: .8;
@@ -33,18 +45,6 @@ div.bbp-template-notice.info {
 .message-count {
   display: flex;
   align-items: center;
-}
-
-red {
-  color: red;
-}
-
-yellow {
-  color: var(--yellow);
-}
-
-blue {
-  color: var(--light-blue);
 }
 
 .single-forum .subscription-toggle {
