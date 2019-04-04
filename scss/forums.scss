@@ -12,7 +12,9 @@
   }
   
   yellow {
-    color: var(--yellow);
+    * {
+      color: var(--yellow);
+    }
   }
   
   blue {
