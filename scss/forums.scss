@@ -7,17 +7,17 @@
      background: var(--black);
   }
 
-  red {
-    color: red;
+  .red {
+    color: var(--red);
   }
   
-  yellow {
+  .yellow {
     * {
       color: var(--yellow);
     }
   }
   
-  blue {
+  .blue {
     color: var(--light-blue);
   }
 }
