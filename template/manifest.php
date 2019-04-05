@@ -502,7 +502,6 @@ These could be SPANs or DIVs and with entirely different classes.
                   <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-e8.png" /></div>
                   <div class="mani-field position">
                      <p>Gunner's Mate</p>
-                     <p class="secondary">Acting Chief T&S Officer</p>
                   </div>
                   <div class="mani-field character">
                      <p><a href="/manifest/losia-mora-npc">Losia Mora <em>(NPC)</em></a></p>
