@@ -468,7 +468,7 @@ These could be SPANs or DIVs and with entirely different classes.
                      <p>Chief Tactical & Security Officer</p>
                   </div>
                   <div class="mani-field character">
-                     <p>APPLICATION PENDING</p>
+                     <p><a href="/manifest/crash-dynkora">Crash Dyn'kora</a></p>
                   </div>
                </div>
                <div class="row open">
