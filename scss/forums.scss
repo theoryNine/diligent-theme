@@ -28,6 +28,20 @@ div.bbp-template-notice.info {
 .bbp-topic-description, .bbp-forum-description {
    color: var(--white);
 }
+
+#bbpress-forums {
+  font-size: 1rem;
+}
+
+.bbcode-color {
+  &[color=red] {
+    color: var(--red);
+  }
+}
+
+#bbp-post-preview {
+  color: var(--white);
+}
  
 #bbpress-forums div.bbp-the-content-wrapper textarea.bbp-the-content {
    color: var(--white);
