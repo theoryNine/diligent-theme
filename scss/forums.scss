@@ -34,15 +34,18 @@ div.bbp-template-notice.info {
 }
 
 .bbcode-color {
-  &[color=red] {
+  &[color=red],
+  &[color="red"] {
     color: var(--red);
   }
   
-  &[color=yellow] {
+  &[color=yellow],
+  &[color="yellow"] {
     color: var(--yellow);
   }
 
-  &[color=blue] {
+  &[color=blue],
+  &[color="blue"] {
     color: var(--blue);
   }
 }
