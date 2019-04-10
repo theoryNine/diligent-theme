@@ -266,7 +266,10 @@ div.bbp-template-notice a:hover {
 
 #bbpress-forums div.bbp-reply-content pre {
   background-color: var(--black);
-  font-size: .9rem;
+
+  code {
+    font-size: .9rem;
+  }
 }
 
 #bbpress-forums #bbp-search-form #bbp_search {
