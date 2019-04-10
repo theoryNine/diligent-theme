@@ -37,6 +37,14 @@ div.bbp-template-notice.info {
   &[color=red] {
     color: var(--red);
   }
+  
+  &[color=yellow] {
+    color: var(--yellow);
+  }
+
+  &[color=blue] {
+    color: var(--blue);
+  }
 }
 
 #bbp-post-preview {
