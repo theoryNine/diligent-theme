@@ -264,6 +264,11 @@ div.bbp-template-notice a:hover {
 	display: none;
 }
 
+#bbpress-forums div.bbp-reply-content pre {
+  background-color: var(--black);
+  font-size: .9rem;
+}
+
 #bbpress-forums #bbp-search-form #bbp_search {
   background-color: var(--dark-gray);
   border: 1px solid var(--white);
