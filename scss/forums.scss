@@ -259,6 +259,10 @@ div.bbp-template-notice a:hover {
   line-height: 1.4em;
 }
 
+#bbpress-forums ul.bbp-replies {
+  font-size: auto;
+}
+
 .bbp-topic-revision-log,
 .bbp-topic-revision-log li {
 	display: none;
@@ -266,9 +270,11 @@ div.bbp-template-notice a:hover {
 
 #bbpress-forums div.bbp-reply-content pre {
   background-color: var(--black);
+  border: 1px solid var(--dark-gray);
 
   code {
     font-size: .9rem;
+    overflow: visible;
   }
 }
 
