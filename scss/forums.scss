@@ -171,6 +171,10 @@ div.bbp-submit-wrapper {
   max-width: 100%;
 }
 
+.bbp-topic-signature p, .bbp-reply-signature p {
+  font-size: 1em;
+}
+
 #bbpress-forums .button[type=submit],
 .BPT-content input[name="send_message"] {
  color: #f7f7f7;
