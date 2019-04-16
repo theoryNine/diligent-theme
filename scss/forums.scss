@@ -162,6 +162,10 @@ div.bbp-submit-wrapper {
   border: 1px solid var(--medium-white);
 }
 
+#bbpress-forums div.bbp-reply-content .bbcode-image {
+  border: none;
+}
+
 .bbpm-inline-img a,
 .bbpm-inline-img a img {
   max-width: 100%;
