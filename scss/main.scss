@@ -213,6 +213,16 @@ a:hover {
    }
 }
 
+.sim-awards {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+   img {
+      margin-right: 5px;
+   }
+}
+
 @media (max-width: 782px) {
 
    #wp-admin-bar-site-name,

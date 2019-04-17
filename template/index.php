@@ -39,6 +39,7 @@ get_header(); ?>
          <p class="text-center"><a href="http://rpgrating.com"><img src="http://rpgrating.com/ratings/322.png" /></a></p>
          <p class="text-center"><em>The Diligent is Rated <a href="https://www.bravofleet.com/bylaws/#By-Law_.232.6_-_Bravo_Fleet_Simulation_Rating_Guidelines" target="_blank">
          Mature, for Ages 16+</a></em></p>
+         <div class="sim-awards"><img src="/wp-content/uploads/2019/04/Sotm38-1.png"><p><strong>Task Force 38 Sim of the Month:</strong> March 2019</p></div>
          <div class="affiliates">
             <a href="https://www.bravofleet.com" class="affiliate bravo-fleet" target="_blank">
                <div>
