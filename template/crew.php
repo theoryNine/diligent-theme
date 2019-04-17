@@ -34,6 +34,7 @@ These could be SPANs or DIVs and with entirely different classes.
          <img src="<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>" />
 
       <?php endif; ?>
+      <?php the_field('awards'); ?>
    </div>
    <p><strong><span class="key">Character Name:</span></strong> <span class="key"><?php the_field('character_name'); ?></span></p>
    <p><strong><span class="key">Position:</span></strong> <span class="key"><?php the_field('position'); ?></span></p>
