@@ -413,12 +413,12 @@ These could be SPANs or DIVs and with entirely different classes.
                   </div>
                </div>
                <div class="row open">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-e8.png" /></div>
                   <div class="mani-field position">
                      <p>Xenobiologist</p>
                   </div>
                   <div class="mani-field character">
-                     <p><a href="/enlist">Position Available</a></p>
+                     <p><a href="/manifest/olepis-blythe">Olepis Blythe</a></p>
                   </div>
                </div>
                <div class="row open">
