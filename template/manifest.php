@@ -413,7 +413,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   </div>
                </div>
                <div class="row open">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-e8.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-e8.png" /></div>
                   <div class="mani-field position">
                      <p>Xenobiologist</p>
                   </div>
