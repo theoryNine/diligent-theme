@@ -196,7 +196,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   </div>
                </div>
                <div class="row npc">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-e8.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-e7.png" /></div>
                   <div class="mani-field position">
                      <p>Engineer's Mate</p>
                      <p class="secondary">Acting Chief Engineer</p>
@@ -413,7 +413,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   </div>
                </div>
                <div class="row open">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-e8.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-e7.png" /></div>
                   <div class="mani-field position">
                      <p>Xenobiologist</p>
                   </div>
@@ -499,7 +499,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   </div>
                </div>
                <div class="row npc">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-e8.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-e7.png" /></div>
                   <div class="mani-field position">
                      <p>Gunner's Mate</p>
                      <p class="secondary">Acting Chief T/S Officer</p>
