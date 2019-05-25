@@ -157,15 +157,15 @@ These could be SPANs or DIVs and with entirely different classes.
             </div>
 
             <div id="engineering"></div>
-            <div class="department section open-npc">
-               <h3><a href="https://wiki.bravofleet.com/index.php?title=Engineering_Department" target="_blank">ENGINEERING</a></h3>
+            <div class="department section">
+               <h3><a href="/wp-content/themes/diligent/images/pips/navy_gold/y-o3.png" target="_blank">ENGINEERING</a></h3>
                <div class="row open">
                   <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div>
                   <div class="mani-field position">
                      <p>Chief Engineer</p>
                   </div>
                   <div class="mani-field character">
-                     <p><a href="/enlist">Position Available</a></p>
+                     <p><a href="/manifest/beryl-hammond">Beryl Hammond</a></p>
                   </div>
                </div>
                <div class="row open">
@@ -199,7 +199,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-e7.png" /></div>
                   <div class="mani-field position">
                      <p>Engineer's Mate</p>
-                     <p class="secondary">Acting Chief Engineer</p>
+                     <!-- <p class="secondary">Acting Chief Engineer</p> -->
                   </div>
                   <div class="mani-field character">
                      <p><a href="/manifest/ceji-belgu-npc">Ceji Belgu <em>(NPC)</em></a></p>
