@@ -63,7 +63,6 @@
                 if ($('.bbpm-new .form-section label[for="search"]').val() === '') {
                     $('.bbpm-new .form-section input[name="search"]').val('*');
                     $('.bbpm-new .form-submit input[name="select_recipient"]').click();
-                    $('.bbpm-new .form-section input[name="search"]').val('');
                 }
             }
         }
