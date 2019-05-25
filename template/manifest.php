@@ -159,7 +159,7 @@ These could be SPANs or DIVs and with entirely different classes.
             <div id="engineering"></div>
             <div class="department section">
                <h3><a href="https://wiki.bravofleet.com/index.php?title=Engineering_Department" target="_blank">ENGINEERING</a></h3>
-               <div class="row open">
+               <div class="row">
                   <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-o3.png" alt="Lieutenant" /></div>
                   <div class="mani-field position">
                      <p>Chief Engineer</p>
