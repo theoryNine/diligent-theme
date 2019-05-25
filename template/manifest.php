@@ -109,7 +109,7 @@ These could be SPANs or DIVs and with entirely different classes.
             <div class="department section">
                <h3><a href="https://wiki.bravofleet.com/index.php?title=Command_Department" target="_blank">COMMAND</a></h3>
                <div class="row">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o5.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o5.png" alt="Commander" /></div>
                   <div class="mani-field position">
                      <p>Commanding Officer</p>
                   </div>
@@ -118,7 +118,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   </div>
                </div>
                <div class="row">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o4.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o4.png" alt="Lieutenant Commander" /></div>
                   <div class="mani-field position">
                      <p>Executive Officer</p>
                   </div>
@@ -127,7 +127,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   </div>
                </div>
                <div class="row">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o4.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o4.png" alt="Lieutenant Commander" /></div>
                   <div class="mani-field position">
                      <p>Second Officer</p>
                      <p class="secondary">Chief Science Officer</p>
@@ -146,7 +146,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   </div>
                </div>
                <div class="row npc">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o1.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o1.png" alt="Ensign" /></div>
                   <div class="mani-field position">
                      <p>Yeoman</p>
                   </div>
@@ -158,9 +158,9 @@ These could be SPANs or DIVs and with entirely different classes.
 
             <div id="engineering"></div>
             <div class="department section">
-               <h3><a href="/wp-content/themes/diligent/images/pips/navy_gold/y-o3.png" target="_blank">ENGINEERING</a></h3>
+               <h3><a href="https://wiki.bravofleet.com/index.php?title=Engineering_Department" target="_blank">ENGINEERING</a></h3>
                <div class="row open">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-o3.png" alt="Lieutenant" /></div>
                   <div class="mani-field position">
                      <p>Chief Engineer</p>
                   </div>
@@ -196,7 +196,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   </div>
                </div>
                <div class="row npc">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-e7.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-e7.png" alt="Chief Petty Officer" /></div>
                   <div class="mani-field position">
                      <p>Engineer's Mate</p>
                      <!-- <p class="secondary">Acting Chief Engineer</p> -->
@@ -212,7 +212,7 @@ These could be SPANs or DIVs and with entirely different classes.
                <h3><a href="https://wiki.bravofleet.com/index.php?title=Flight_Control_Department" target="_blank">FLIGHT
                      CONTROL</a></h3>
                <div class="row">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o1.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o1.png" alt="Ensign" /></div>
                   <div class="mani-field position">
                      <p>Chief Conn Officer</p>
                   </div>
@@ -276,7 +276,7 @@ These could be SPANs or DIVs and with entirely different classes.
             <div class="department section">
                <h3><a href="https://wiki.bravofleet.com/index.php?title=Medical_Department" target="_blank">MEDICAL</a></h3>
                <div class="row">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" alt="Lieutenant" /></div>
                   <div class="mani-field position">
                      <p>Chief Medical Officer</p>
                   </div>
@@ -285,7 +285,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   </div>
                </div>
                <div class="row">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" alt="Lieutenant" /></div>
                   <div class="mani-field position">
                      <p>Ship's Counselor</p>
                   </div>
@@ -326,7 +326,7 @@ These could be SPANs or DIVs and with entirely different classes.
             <div class="department section">
                <h3><a href="https://wiki.bravofleet.com/index.php?title=Operations_Department" target="_blank">OPERATIONS</a></h3>
                <div class="row">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-o1.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-o1.png" alt="Ensign" /></div>
                   <div class="mani-field position">
                      <p>Chief Operations Officer</p>
                   </div>
@@ -376,7 +376,7 @@ These could be SPANs or DIVs and with entirely different classes.
             <div class="department section">
                <h3><a href="https://wiki.bravofleet.com/index.php?title=Science_Department" target="_blank">SCIENCE</a></h3>
                <div class="row">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o4.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o4.png" alt="Lieutenant Commander" /></div>
                   <div class="mani-field position">
                      <p>Chief Science Officer</p>
                      <p class="secondary">Second Officer</p>
@@ -413,7 +413,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   </div>
                </div>
                <div class="row">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-e7.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-e7.png" alt="Chief Petty Officer" /></div>
                   <div class="mani-field position">
                      <p>Xenobiologist</p>
                   </div>
@@ -499,7 +499,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   </div>
                </div>
                <div class="row npc">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-e7.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-e7.png" alt="Chief Petty Officer" /></div>
                   <div class="mani-field position">
                      <p>Gunner's Mate</p>
                      <p class="secondary">Acting Chief T/S Officer</p>
