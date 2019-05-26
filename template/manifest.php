@@ -462,7 +462,7 @@ These could be SPANs or DIVs and with entirely different classes.
             <div class="department section">
                <h3><a href="https://wiki.bravofleet.com/index.php?title=Security/Tactical_Department" target="_blank">TACTICAL/SECURITY</a></h3>
                <div class="row">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-o5.png" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-o4.png" /></div>
                   <div class="mani-field position">
                      <p>Chief Tactical & Security Officer</p>
                   </div>
