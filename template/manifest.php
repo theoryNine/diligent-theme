@@ -91,8 +91,7 @@ These could be SPANs or DIVs and with entirely different classes.
          <h1 class="text-center">crew <span class="heavy">MANIFEST</span></h1>
          <p class="text-center">The writers and dreamers of the <em>Diligent</em>.</p>
          <p class="text-center subnav-section"><a href="#command">Command</a> - <a href="#engineering">Engineering</a>
-            - <a href="#conn">Flight Control</a> - <a href="#intelligence">Intelligence</a>
-            - <a href="#medical">Medical</a> - <a href="#operations">Operations</a> - <a href="#science">Science</a> -
+            - <a href="#conn">Flight Control</a> - <a href="#medical">Medical</a> - <a href="#operations">Operations</a> - <a href="#science">Science</a> -
             <a href="#tactical">Tactical/Security</a> - <a href="#civilians">Civilians</a></p>
          <p class="text-center subnav-section">
             <a href="#" class="openButton openToggle">hide open positions</a><a href="#" class="hidden openButton openToggle">show
@@ -240,7 +239,7 @@ These could be SPANs or DIVs and with entirely different classes.
                </div>
             </div>
 
-            <div id="intelligence"></div>
+            <!-- <div id="intelligence"></div>
             <div class="department section open">
                <h3><a href="https://wiki.bravofleet.com/index.php?title=Intelligence_Department" target="_blank">INTELLIGENCE</a></h3>
                <div class="row open">
@@ -270,7 +269,7 @@ These could be SPANs or DIVs and with entirely different classes.
                      <p><a href="/enlist">Position Available</a></p>
                   </div>
                </div>
-            </div>
+            </div> -->
 
             <div id="medical"></div>
             <div class="department section">
