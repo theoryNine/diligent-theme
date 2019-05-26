@@ -459,15 +459,15 @@ These could be SPANs or DIVs and with entirely different classes.
             </div>
 
             <div id="tactical"></div>
-            <div class="department section open-npc">
+            <div class="department section">
                <h3><a href="https://wiki.bravofleet.com/index.php?title=Security/Tactical_Department" target="_blank">TACTICAL/SECURITY</a></h3>
-               <div class="row open">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div>
+               <div class="row">
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-o5.png" /></div>
                   <div class="mani-field position">
                      <p>Chief Tactical & Security Officer</p>
                   </div>
                   <div class="mani-field character">
-                  <p><a href="/enlist">Position Available</a></p>
+                  <p><a href="/manifest/tavin">Tavin</a></p>
                   </div>
                </div>
                <div class="row open">
@@ -501,7 +501,7 @@ These could be SPANs or DIVs and with entirely different classes.
                   <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/y-e7.png" alt="Chief Petty Officer" /></div>
                   <div class="mani-field position">
                      <p>Gunner's Mate</p>
-                     <p class="secondary">Acting Chief T/S Officer</p>
+                     <!-- <p class="secondary">Acting Chief T/S Officer</p> -->
                   </div>
                   <div class="mani-field character">
                      <p><a href="/manifest/losia-mora-npc">Losia Mora <em>(NPC)</em></a></p>
