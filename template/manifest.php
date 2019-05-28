@@ -467,7 +467,7 @@ These could be SPANs or DIVs and with entirely different classes.
                      <p>Chief Tactical & Security Officer</p>
                   </div>
                   <div class="mani-field character">
-                  <p><a href="/manifest/tavin">Tavin</a></p>
+                  <p><a href="/manifest/tavin">Tavin Th’Vhiallal</a></p>
                   </div>
                </div>
                <div class="row open">
