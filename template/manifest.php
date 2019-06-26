@@ -207,16 +207,16 @@ These could be SPANs or DIVs and with entirely different classes.
             </div>
 
             <div id="conn"></div>
-            <div class="department section">
+            <div class="department section open">
                <h3><a href="https://wiki.bravofleet.com/index.php?title=Flight_Control_Department" target="_blank">FLIGHT
                      CONTROL</a></h3>
                <div class="row">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/r-o1.png" alt="Ensign" /></div>
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" alt="Ensign" /></div>
                   <div class="mani-field position">
                      <p>Chief Conn Officer</p>
                   </div>
                   <div class="mani-field character">
-                     <p><a href="/manifest/aerith-terovn/">Aerith Terovn</a></p>
+                  <p><a href="/enlist">Position Available</a></p>
                   </div>
                </div>
                <div class="row open">
