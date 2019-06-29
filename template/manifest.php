@@ -393,7 +393,7 @@ These could be SPANs or DIVs and with entirely different classes.
                      <p><a href="/enlist">Position Available</a></p>
                   </div>
                </div>
-               <div class="row open">
+               <div class="row">
                   <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o1.png" alt="Ensign" /></div>
                   <div class="mani-field position">
                      <p>Science Officer</p>
