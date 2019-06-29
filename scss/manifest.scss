@@ -58,6 +58,10 @@
    lost-column: 3/10;
 }
 
+.open .character {
+   font-weight: normal;
+}
+
 .department {
    background-color: var(--black);
    lost-utility: clearfix;
