@@ -92,7 +92,7 @@ These could be SPANs or DIVs and with entirely different classes.
          <p class="text-center">The writers and dreamers of the <em>Diligent</em>.</p>
          <p class="text-center subnav-section"><a href="#command">Command</a> - <a href="#counseling">Counseling</a> - <a href="#engineering">Engineering</a>
             - <a href="#conn">Flight Control</a> - <a href="#medical">Medical</a> - <a href="#operations">Operations</a> - <a href="#science">Science</a> -
-            <a href="#tactical">Tactical/Security</a> - <a href="#civilians">Civilians</a></p>
+            <a href="#tactical">Tactical/Security</a></p>
          <p class="text-center subnav-section">
             <a href="#" class="openButton openToggle">hide open positions</a><a href="#" class="hidden openButton openToggle">show
                open positions</a> -
