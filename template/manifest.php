@@ -523,7 +523,7 @@ These could be SPANs or DIVs and with entirely different classes.
                </div>
             </div>
 
-            <div id="civilians"></div>
+            <!-- <div id="civilians"></div>
             <div class="department section open">
                <h3><a href="https://wiki.bravofleet.com/index.php?title=Civilians" target="_blank">CIVILIANS</a></h3>
                <div class="row open">
@@ -544,7 +544,7 @@ These could be SPANs or DIVs and with entirely different classes.
                      <p><a href="/enlist">Position Available</a></p>
                   </div>
                </div>
-            </div>
+            </div> -->
 
             <p class="text-center disclaimer">The ranks used on this page were created by Kuro-chan of <a href="http://kuro-rpg.net"
                   target="_blank"> Kuro-RPG Please do not modify the images
