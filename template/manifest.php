@@ -155,6 +155,29 @@ These could be SPANs or DIVs and with entirely different classes.
                </div>
             </div>
 
+            <div id="counseling"></div>
+            <div class="department section">
+               <h3><a href="https://wiki.bravofleet.com/index.php?title=Counseling_Department" target="_blank">COUNSELING</a></h3>
+               <div class="row">
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" alt="Lieutenant" /></div>
+                  <div class="mani-field position">
+                     <p>Chief Counselor</p>
+                  </div>
+                  <div class="mani-field character">
+                     <p><a href="/manifest/tlaruk-akaigan">T’Laruk Akaigan</a></p>
+                  </div>
+               </div>
+               <div class="row open">
+                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/blank_officer/black.png" /></div>
+                  <div class="mani-field position">
+                     <p>Counselor's Aide</p>
+                  </div>
+                  <div class="mani-field character">
+                     <p><a href="/enlist">Position Available</a></p>
+                  </div>
+               </div>
+            </div>
+
             <div id="engineering"></div>
             <div class="department section">
                <h3><a href="https://wiki.bravofleet.com/index.php?title=Engineering_Department" target="_blank">ENGINEERING</a></h3>
@@ -281,15 +304,6 @@ These could be SPANs or DIVs and with entirely different classes.
                   </div>
                   <div class="mani-field character">
                      <p><a href="/manifest/rosheen-hughes">Rosheen Hughes</a></p>
-                  </div>
-               </div>
-               <div class="row">
-                  <div class="mani-field rank"><img src="/wp-content/themes/diligent/images/pips/navy_gold/t-o3.png" alt="Lieutenant" /></div>
-                  <div class="mani-field position">
-                     <p>Ship's Counselor</p>
-                  </div>
-                  <div class="mani-field character">
-                     <p><a href="/manifest/tlaruk-akaigan">T’Laruk Akaigan</a></p>
                   </div>
                </div>
                <div class="row open">
