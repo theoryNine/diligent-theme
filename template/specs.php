@@ -54,9 +54,8 @@ get_header(); ?>
                <p>
                   <strong>Total Crew:</strong> 120 | <strong>Evac Limit:</strong> 1,200
                   <ul>
-                     <li>25 Officers</li>
-                     <li>85 Enlisted</li>
-                     <li>10 Civilians</li>
+                     <li>30 Officers</li>
+                     <li>90 Enlisted</li>
                   </ul>
                </p>
             <h4>Propulsion</h4>
