@@ -43,7 +43,6 @@
 
 .enlist-form {
    color: white;
-   font-size: 15px;
 }
 
 .nf-field-element input, .nf-field-element textarea {
@@ -70,12 +69,6 @@
    border: 1px solid var(--white) !important;
    color: var(--white) !important;
    height: 35px !important;
-}
-
-@media (max-width: 730px) {
-   .enlist-form .half-input {
-      lost-column: 1/1;
-   }
 }
 
 .enlist input[value="Submit"] {
